@@ -1,0 +1,80 @@
+@import url("data8.css");
+
+#gcb-nav-y.left-menu {
+  position: fixed;
+  top: 0;
+  height: 100%;
+  left: -25%;
+  width: 25%;
+  z-index: 2;
+  margin: 0;
+  padding-right: 20px;
+  border-radius: 0 5px 5px 0;
+  border: solid #ccc 1px;
+  background-color: #e0e0e0;
+  transition: left 0.7s;
+  background-image: url("/assets/img/open_menu.png");
+  background-repeat: no-repeat;
+  background-position: top 10px right 5px;
+}
+#gcb-nav-y.left-menu.shown {
+  left: 0;
+}
+#gcb-nav-y.left-menu > ul {
+  height: 95%;
+  margin-top: 5%;
+  overflow-y: auto;
+  background-color: #f0f0f0;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  border: solid #ccc 1px;
+}
+#gcb-nav-y.left-menu + .gcb-article {
+  float: none;
+  width: auto;
+}
+#gcb-header, #gcb-nav-x {
+  padding-left: 25px;
+}
+#gcb-main {
+  margin-left: 10px;
+}
+body.hide-overflow {
+  overflow: hidden;
+  height: 100%;
+}
+@media (max-width: 600px) {
+  #gcb-nav-y.left-menu {
+    left: -60%;
+    width: 60%;
+  }
+  .gcb-unit-header {
+    font-size: 18px;
+  }
+  .gcb-lesson-title {
+    font-size: 15px;
+  }
+  #lesson-title {
+    float: none;
+    width: 100%;
+  }
+  #get-text-button {
+    float: none;
+    width: 98%;
+  }
+  .gcb-lesson-content {
+     margin-left: 3px;
+  }
+  .gcb-lesson-content > ul {
+     margin: 5px 5px 5px 15px;
+  }
+  .gcb-prev-button {
+    margin: 5px 0 5px 25px;
+  }
+  .gcb-next-button {
+    margin: 5px 25px 5px 0;
+  }
+  .gcb-next-button, .gcb-prev-button {
+    font-size: 13px;
+  }
+}
