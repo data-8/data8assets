@@ -1,0 +1,25 @@
+/* different color schemes? 21b6a8*/
+/* Team */
+.title {
+    height: 150px;
+    width: 150px;
+    top: -5px;
+    right: -6px;
+}
+.title {
+    background: color:rgba(0,0,0,0.6);
+}
+.pic {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    margin-bottom: -150px;
+}
+#team.container {
+    text-align: center;
+    padding: 10px;
+}
+.profile {
+    margin-bottom: 10px;
+}
+

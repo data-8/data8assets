@@ -1,0 +1,46 @@
+
+/*Team*/
+#team {
+    padding: 100px;
+}
+.profile, .profile a {
+    position: relative;
+    display: inline-block;
+}
+
+.pic {
+    height: 150px;
+    margin: 6px;
+    border-radius: 10%;
+    position: absolute;
+}
+
+.title {
+    border-radius: 10%;
+    background: rgba(0,0,0 , 0.6);
+    color: white;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    opacity: 0;
+    transition: 0.5s;
+    position: relative;
+}
+.title:hover, .title:focus, .title:active {
+    opacity: 1;
+    transition: 0.5s;
+}
+
+
+
+h2 {
+    margin-top: 50px;
+}
+
+.email {
+    font-size: 75%;
+}
+
+.emailbig {
+    font-size: 75%;
+}
