@@ -1,0 +1,13 @@
+{
+  "name": "Lab 2",
+  "endpoint": "cal/ds8/fa15/lab02",
+  "src": [
+    "export.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
