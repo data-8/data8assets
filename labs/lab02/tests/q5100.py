@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> type(list_of_lists) == list
+          >>> type(collection_times) == np.ndarray
           True
           """,
           'hidden': False,
@@ -14,15 +14,15 @@ test = {
         },
         {
           'code': r"""
-          >>> len(list_of_lists)
-          2
+          >>> len(collection_times)
+          744
           """,
           'hidden': False,
           'locked': False
         },
         {
           'code': r"""
-          >>> list_of_lists == [['Hello', 'world', '!'], [True, False]]
+          >>> all(collection_times == np.arange(0, 31*24*60*60, 60*60))
           True
           """,
           'hidden': False,

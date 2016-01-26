@@ -6,9 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> import math
-          >>> e_to_the_power_pi == math.e ** math.pi
-          True
+          >>> round(twenty, 8)
+          19.99909998
           """,
           'hidden': False,
           'locked': False

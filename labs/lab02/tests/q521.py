@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> quotes_have_the_same_letters
+          >>> last_interesting_number == math.e
           True
           """,
           'hidden': False,

@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> type(list_of_lists) == list
+          >>> type(hello_world_components) == np.ndarray
           True
           """,
           'hidden': False,
@@ -14,15 +14,15 @@ test = {
         },
         {
           'code': r"""
-          >>> len(list_of_lists)
-          2
+          >>> len(hello_world_components)
+          5
           """,
           'hidden': False,
           'locked': False
         },
         {
           'code': r"""
-          >>> list_of_lists == [['Hello', 'world', '!'], [True, False]]
+          >>> all(hello_world_components == np.array(["Hello", ",", " ", "world", "!"]))
           True
           """,
           'hidden': False,

@@ -6,8 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> 'beeper'.replace('p', you).replace('bee', this)
-          'bookkeeper'
+          >>> 'beeper'.replace('p', you).replace('bee', this)[::-1]
+          'repeekkoob'
           """,
           'hidden': False,
           'locked': False

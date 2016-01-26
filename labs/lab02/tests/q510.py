@@ -6,7 +6,23 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> same_number_of_years
+          >>> type(small_numbers) == np.ndarray
+          True
+          """,
+          'hidden': False,
+          'locked': False
+        },
+        {
+          'code': r"""
+          >>> len(small_numbers)
+          3
+          """,
+          'hidden': False,
+          'locked': False
+        },
+        {
+          'code': r"""
+          >>> all(small_numbers == np.arange(1, 4, 1))
           True
           """,
           'hidden': False,
