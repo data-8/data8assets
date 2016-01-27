@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> round(twenty, 8)
+          >>> round(near_twenty, 8)
           19.99909998
           """,
           'hidden': False,
