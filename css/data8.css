@@ -3,3 +3,8 @@ span.lecture-date {
     width: 7em;
     padding-left: 1em;
 }
+
+span.assignment-link {
+    width: 10em;
+    padding-left: 2em;
+}
