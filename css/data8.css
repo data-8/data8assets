@@ -4,7 +4,7 @@ span.lecture-date {
     padding-left: 1em;
 }
 
-span.assignment-link {
-    width: 10em;
-    padding-left: 2em;
+span.lecture-title {
+    display: inline-block;
+    width: 16em;
 }
