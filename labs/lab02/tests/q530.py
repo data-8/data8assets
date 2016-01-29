@@ -6,8 +6,9 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> index_of_first_element
-          0
+          >>> import numpy as np
+          >>> sum(abs(log_world_population - np.log10(world_population))) < 1e-6
+          True
           """,
           'hidden': False,
           'locked': False

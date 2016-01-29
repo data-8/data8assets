@@ -6,8 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> index_of_first_element
-          0
+          >>> more_early_dialogues
+          False
           """,
           'hidden': False,
           'locked': False

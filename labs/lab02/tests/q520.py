@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> int(index_of_first_element)
+          >>> index_of_first_element
           0
           """,
           'hidden': False,

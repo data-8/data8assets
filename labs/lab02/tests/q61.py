@@ -6,8 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> index_of_first_element
-          0
+          >>> same_number_of_years
+          True
           """,
           'hidden': False,
           'locked': False
