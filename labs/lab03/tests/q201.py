@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> round(prob_no_shared_martian_birthdays, 4)
+          >>> round(float(prob_no_shared_martian_birthdays), 4)
           0.9855
           """,
           'hidden': False,
