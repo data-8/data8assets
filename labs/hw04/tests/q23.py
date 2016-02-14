@@ -14,8 +14,8 @@ test = {
         },
         {
           'code': r"""
-          >>> ahs_poverty.num_rows == ahs_named.num_rows
-          True
+          >>> ahs_poverty.num_rows
+          1014
           """,
           'hidden': False,
           'locked': False

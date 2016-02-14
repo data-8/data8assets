@@ -8,11 +8,11 @@ test = {
           'code': r"""
           >>> print(poverty_counts)
           SMSA name                  | False | True
-          Oakland                    | 405   | 71
-          San Francisco              | 346   | 52
-          San Jose                   | 275   | 32
-          Santa Rosa - Petaluma      | 39    | 2
-          Vallejo - Fairfield - Napa | 52    | 7
+          Oakland                    | 316   | 71
+          San Francisco              | 253   | 52
+          San Jose                   | 216   | 32
+          Santa Rosa - Petaluma      | 31    | 2
+          Vallejo - Fairfield - Napa | 34    | 7
           """,
           'hidden': False,
           'locked': False
