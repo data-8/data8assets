@@ -1,0 +1,783 @@
+Column,"Description",Category
+CMSA,"1980 design CMSA code",Geography
+COUNTY,"County code",Geography
+DIVISION,"Census division",Geography
+METRO,"Multiple central cities/suburban status within metro areas",Geography
+METRO3,"Central city / suburban status",Geography
+PMSA,"1990 design PMSA code",Geography
+PSUDOTCT,"Census tract for 1970, 1980 or 1990 containing case",Geography
+REGION,"Census region",Geography
+SMSA,"1980 design PMSA code",Geography
+STATE,"FIPS state code",Geography
+ZONE,"Defined area of > 100,000 population",Geography
+ACCESS,"Direct access to unit",Unit
+ACCESSB,"Entry system required to access building",Unit
+AGERES,"Age restricted development",Unit
+AIR,"Room air conditioner",Unit
+AIRSYS,"Central air conditioner",Unit
+ANYCAR,"Wall-to-wall carpeting in any area of unit",Unit
+ANYPNT,"Any painting done on inside of unit",Unit
+ANYRUG,"Any rugs or carpeting in unit",Unit
+APTFL,"Number of floors in the apartment itself",Unit
+ASSTSERV,"Manager provides personal care assistance",Unit
+ATBSUN,"Number of unfinished attics/basements in unit",Unit
+BATHS,"Number of full bathrooms in unit",Unit
+BDCARP,"Wall-to-wall carpeting in bedroom",Unit
+BEDRMS,"Number of bedrooms in unit",Unit
+BEDX,"Number of bedrooms with wall-to-wall carpeting",Unit
+BUILT,"Year unit was built",Unit
+BURNER,"Unit has working built-in cooking burners",Unit
+BUSIN,"Number of offices/business rooms in unit",Unit
+BUSPER,"# rooms used for business/personal use",Unit
+CELLAR,"Unit has a basement",Unit
+CLIMB,"Number of floors from main entrance to apartment",Unit
+CONDO,"Unit is condominium or cooperative",Unit
+COOK,"Unit has working cookstove or range/oven",Unit
+DENS,"Number of dens/libraries/tv rooms in unit",Unit
+DINING,"Number of dining rooms in unit",Unit
+DIRAC,"Number of offices having direct access",Unit
+DISH,"Unit has working dishwasher",Unit
+DISPL,"Unit has working garbage disposal",Unit
+DRSHOP,"Medical office/community store on property",Unit
+DRY,"Unit has working clothes dryer",Unit
+DSTEAM,"Steam/hot water system-DK if supplemental/parallel",Unit
+DSTOVE,"Woodburning stove - DK if supplemental/parallel",Unit
+EAIRC,"Energy star rated room air conditioner",Unit
+EBAR,"Windows covered with metal bars",Unit
+ECNTAIR,"Energy star rated central air conditioner",Unit
+EDISHWR,"Energy star rated dishwasher",Unit
+EDRYER,"Energy star rated clothes dryer",Unit
+EFRIDGE,"Energy star rated refrigerator",Unit
+EHEATUT,"Energy star rated heating equipment",Unit
+ELEV,"Working passenger elevator",Unit
+ENOEAPP,"No energy star rated appliances",Unit
+EOTEAPP,"Unit has another type of energy star rated appliance",Unit
+ETRSHCP,"Energy star rated built-in trash compactor",Unit
+EWASHR,"Energy star rated washing machine",Unit
+EXCLUS,"Number offices used exclusively for business",Unit
+FAMRM,"Number of family rooms/great rooms in unit",Unit
+FLOODPLN,"Unit in a flood plain",Unit
+FLOORS,"Number of stories in building",Unit
+FLOT,"Room heater vented to outside",Unit
+FPINS,"Fireplace has inserts",Unit
+FPLWK,"Unit has useable fireplace",Unit
+FRPL,"Fireplace does not have inserts",Unit
+FRPLI,"Fireplace has inserts",Unit
+FRSTOC,"Current occupants are first occupants",Unit
+GARAGE,"Garage or carport included with unit",Unit
+HALB,"Additional half bathrooms in unit",Unit
+HALFB,"Number of half bathrooms in unit",Unit
+HOTPIP,"Unit has hot & cold running water",Unit
+INCP,"Offstreet parking included",Unit
+KEXCLU,"Kitchen facilities for household use only",Unit
+KITCH,"Number of kitchens in unit",Unit
+KITCHEN,"Complete kitchen facilities in unit",Unit
+LAT70S,"Year unit built in late 1970s",Unit
+LAUNDY,"Number of laundry/utility rooms in unit",Unit
+LIVING,"Number of living rooms in unit",Unit
+LOT,"Square footage of lot",Unit
+LVCARP,"Wall-to-wall carpeting in living room",Unit
+MOBILTYP,"Manufactured/mobile home type",Unit
+MOPERM,"# months since occupied as permanent home",Unit
+MOSALL,"Unit is typically occupied year-round",Unit
+MOSAPR,"Unit is typically occupied in April",Unit
+MOSAUG,"Unit is typically occupied in August",Unit
+MOSDEC,"Unit is typically occupied in December",Unit
+MOSFEB,"Unit is typically occupied in February",Unit
+MOSJAN,"Unit is typically occupied in January",Unit
+MOSJUL,"Unit is typically occupied in July",Unit
+MOSJUN,"Unit is typically occupied in June",Unit
+MOSMAR,"Unit is typically occupied in March",Unit
+MOSMAY,"Unit is typically occupied in May",Unit
+MOSNOV,"Unit is typically occupied in November",Unit
+MOSOCT,"Unit is typically occupied in October",Unit
+MOSSEP,"Unit is typically occupied in September",Unit
+NEWC,"New construction in last 4 years",Unit
+NOOTHRM,"No other rooms in unit",Unit
+NUMAIR,"Number of room air conditioners",Unit
+NUNIT2,"Are these living quarters in a...",Unit
+NUNITS,"Number of units in building",Unit
+OARSYS,"Unit has another central a/c system",Unit
+OBEDRM,"Number of offices used for bedroom",Unit
+ODIN,"Number of offices used as dining room",Unit
+ODIRAC,"Number of offices having direct access",Unit
+OKITCH,"Number of offices used for kitchen",Unit
+OLIVIN,"Number of offices used for living room",Unit
+OOTHRM,"Number of offices used for other room",Unit
+OTBUP,"Other building on property used as living quarters",Unit
+OTHFN,"Number of other finished rooms in unit",Unit
+OTHLQ,"Other living quarters on property",Unit
+OTHLQ1,"Other apartments in building",Unit
+OTHLQ2,"Other apartments in building",Unit
+OTHRUN,"Number of other unfinished rooms in unit",Unit
+OVEN,"Unit has a working microwave oven",Unit
+OWNHERE,"Owner/resident manager lives on-site",Unit
+OWNLOT,"Household owns the land",Unit
+PERSERV,"Management provides personal care assistance",Unit
+PHONE,"Telephone available for use",Unit
+PLUGS,"Every room has working electrical plug",Unit
+PORCH,"Unit has porch/deck/balcony/patio",Unit
+PREOCC,"Received unit as gift or purchased it",Unit
+PUBSEW,"Unit connected to public sewer",Unit
+RECRM,"Number of recreation rooms in unit",Unit
+REFR,"Unit has a working refrigerator",Unit
+ROOMS,"Number of rooms in unit",Unit
+ROOMSA,"Rooms used for both business & other",Unit
+ROOMSB,"Number of rooms used for both business & other",Unit
+SEWDIS,"Type of sewage disposal",Unit
+SEWDISTP,"Type of septic tank or cesspool sewage disposal system",Unit
+SEWDUS,"Number of units connected to sewage system",Unit
+SHARAT,"Unit shares attic or basement",Unit
+SHARFR,"Unit shares furnace or boiler",Unit
+SINHV,"Inherited this vacant/URE unit",Unit
+SINK,"Unit has kitchen sink",Unit
+SINVV,"Own vacant/URE unit as an investment",Unit
+SOTHV,"Own vacant/URE unit for some other reason",Unit
+SRECV,"Own vacant/URE unit for recreation",Unit
+SRENTV,"Number of nights vacant/URE unit was rented out",Unit
+SSELV,"Want to sell vacant/URE unit - not sold yet",Unit
+STEAM,"Steam system used as supplemental heating equipment",Unit
+STORG,"Number of storage rooms/pantries in unit",Unit
+TELAV,"Telephone available elsewhere",Unit
+TELHH,"Telephone in housing unit",Unit
+TENURE,"Owner/renter status of unit",Unit
+TIMSHR,"Ownership of unit time shared",Unit
+TRASH,"Unit has working built-in trash compactor",Unit
+TUB,"Unit has a bathtub or shower",Unit
+TYPE,"Housing unit type",Unit
+UNITSF,"Square footage of unit",Unit
+VACANC2,"Reason unit is vacant",Unit
+VACANC2B,"Unit is vacant for other reason",Unit
+VACANCY,"Vacancy status",Unit
+WASH,"Unit has a working washing machine",Unit
+WATER,"Source of water for unit",Unit
+WATERD,"Source of drinking water",Unit
+WELLDIS,"Has disinfected well",Unit
+WELLDIS2,"Has been advised by health authorities to disinfect well",Unit
+WELDUS,"Number of units this water source serves",Unit
+WELL,"Well drilled or dug",Unit
+WFPROP,"Unit is waterfront property",Unit
+WHNGET,"Year unit bought/obtained/received",Unit
+WINTERELSP,"Electric space heater used during winter months",Unit
+WINTERKESP,"Kerosene space heater used during winter months",Unit
+WINTERNONE,"No use of any other modes to heat unit during winter months",Unit
+WINTEROVEN,"Gas oven with an open door used during winter months",Unit
+WINTERWOOD,"Outdoor wood fire boiler used during winter months",Unit
+YRRND,"Vacant unit suitable for year round use",Unit
+BADSTEP,"Loose/broken/missing steps in common stairs",Unit Quality
+BDSTPQ,"Loose/broken/missing steps in common stairs",Unit Quality
+BLDMNT,"Satisfaction with building maintenance",Unit Quality
+BLEAK,"Water leak in basement",Unit Quality
+BSINK,"Unit has a bathroom sink",Unit Quality
+CRACKS,"Open cracks wider than dime",Unit Quality
+DFIRE,"Type C-30/31 severely damaged by fire",Unit Quality
+DISAS,"Type C severely damaged by natural disaster",Unit Quality
+DORREP,"Any doors repaired/replaced in unit",Unit Quality
+EBOARD,"Windows boarded up",Unit Quality
+EBROKE,"Windows broken",Unit Quality
+ECRUMB,"Holes/cracks or crumbling in foundation",Unit Quality
+EGOOD,"No listed conditions seen in/on unit",Unit Quality
+EHOLER,"Roof has holes",Unit Quality
+ELEVWK,"At least one elevator in working order",Unit Quality
+EMISSR,"Roof missing shingles/other roofing materials",Unit Quality
+EMISSW,"Outside walls missing siding/bricks/etc",Unit Quality
+EROACH,"Evidence of roaches in unit",Unit Quality
+ESAGR,"Roof’s surface sags or is uneven",Unit Quality
+ESLOPW,"Outside walls slope/lean/slant/buckle",Unit Quality
+EVROD,"Evidence of rodents in unit",Unit Quality
+EXPOSE,"Type B interior exposed to elements",Unit Quality
+FREEZE,"Unit cold for 24+ hrs was uncomfortable",Unit Quality
+GRDMNT,"Satisfaction with grounds maintenance",Unit Quality
+HOLES,"Holes in floor",Unit Quality
+HOWH,"Rating of unit as a place to live",Unit Quality
+IFBLOW,"Fuses blown or circuit breakers tripped",Unit Quality
+IFCOLD,"Main heating equipment broke down",Unit Quality
+IFDRY,"Unit completely without running water",Unit Quality
+IFSEW,"Sewage system broke down",Unit Quality
+IFTLT,"Any toilet breakdowns in last 3 months",Unit Quality
+ILEAK,"Any inside water leaks in last 12 months",Unit Quality
+IMAINT,"Receive adequate maintenance",Unit Quality
+LEAK,"Any outside water leaks in last 12 months",Unit Quality
+LTSOK,"Hallway lights working",Unit Quality
+LTSOK1,"Hallway lights working",Unit Quality
+LTSOK2,"All hallway lights working",Unit Quality
+M12ROACH,"Roaches seen in unit recently",Unit Quality
+M12ROD,"Rodents seen in unit recently",Unit Quality
+M3ROD,"Rodents seen in unit recently",Unit Quality
+MAJR1,"Starts major maintenance/repairs soon enough",Unit Quality
+MAJR2,"Solves major problems quickly",Unit Quality
+MAJR3,"Polite/considerate of home (major repairs)",Unit Quality
+MICE,"Mice seen in unit recently",Unit Quality
+MINR1,"Starts minor maintenance/repairs soon enough",Unit Quality
+MINR2,"Solves minor problems quickly",Unit Quality
+MINR3,"Polite/considerate of home (minimum repairs)",Unit Quality
+NLEAK1,"Inside water leak from some other source",Unit Quality
+NLEAK2,"Source of inside water leak unknown",Unit Quality
+NOTSUR,"Not sure if rodents were rats or mice",Unit Quality
+NOWIRE,"Electrical wiring concealed by walls/wiring",Unit Quality
+NUMBLOW,"# times fuses blown or breakers tripped",Unit Quality
+NUMCOLD,"# times main heating equipment broke down",Unit Quality
+NUMDRY,"# times completely without running water",Unit Quality
+NUMSEW,"Number of sewage system breakdowns",Unit Quality
+NUMTLT,"Number of toilet breakdowns 6 hours or more",Unit Quality
+OMAINT,"Buildings & grounds maintained properly",Unit Quality
+OTHCLD,"Unit cold for some other reason",Unit Quality
+OTLEAK,"Water leak from other outside source",Unit Quality
+PILEAK,"Inside water leak from leaking pipes",Unit Quality
+PLEAK,"Inside water leak from plumbing fixtures",Unit Quality
+PLUMB,"Complete plumbing facilities in unit",Unit Quality
+RAILOK,"Railings on common stairs firmly attached",Unit Quality
+RAILOK1,"Railings on stairs firmly attached",Unit Quality
+RAILOK2,"All stair railings firmly attached",Unit Quality
+RATFREQ,"Frequency of evidence of rats",Unit Quality
+RATS,"Rats seen in unit recently",Unit Quality
+RLEAK,"Water leak in roof",Unit Quality
+ROACHFRQ,"Frequency of evidence of roaches",Unit Quality
+TALWIR,"Aluminum wiring inspected before purchase",Unit Quality
+TASB,"Unit tested for asbestos before purchase",Unit Quality
+TOILET,"Unit has a flush toilet",Unit Quality
+TRADON,"Unit tested for radon before purchase",Unit Quality
+TREP,"Repairs made because of inspection/test",Unit Quality
+TWATER,"Water quality tested before purchase",Unit Quality
+WATERS,"Water safe for drinking & cooking",Unit Quality
+WHYCD1,"Unit cold due to utility interruption",Unit Quality
+WHYCD2,"Unit cold due to inadequate heating capacity",Unit Quality
+WHYCD3,"Unit cold due to inadequate insulation",Unit Quality
+WHYCD4,"Unit cold due to cost of heating",Unit Quality
+WHYCD5,"Unit cold because of some other reason",Unit Quality
+WLEAK,"Water leak in wall or closed door/window",Unit Quality
+WTRHRL,"Source of inside water leak is broken water heater",Unit Quality
+ZADEQ,"Recoded adequacy of housing",Unit Quality
+ADDTN2,"Percentage of 2nd mortgage used for additions/improvements",Housing Cost
+ADDTN3,"Percentage of 3rd mortgage used for additions/improvements",Housing Cost
+ADDTNS,"Percentage of 1st mortgage used for additions/improvements",Housing Cost
+ADJDEP,"1st mortgage reference rate where mortgage payment not fixed",Housing Cost
+ADJDEP2,"2nd mortgage reference rate where mortgage payment not fixed",Housing Cost
+ADJDEP3,"3rd mortgage reference rate where mortgage payment not fixed",Housing Cost
+ADJFIX,"1st mortgage period of time interest rate fixed where payment not fixed",Housing Cost
+ADJFIX2,"2nd mortgage period of time interest rate fixed where payment not fixed",Housing Cost
+ADJFIX3,"3rd mortgage period of time interest rate fixed where payment not fixed",Housing Cost
+ADJPM,"1st mortgage payment changed because interest rate changed",Housing Cost
+ADJPM2,"2nd mortgage payment changed because interest rate changed",Housing Cost
+ADJPM3,"3rd mortgage payment changed because interest rate changed",Housing Cost
+ADJRTF,"1st mortgage frequency of interest rate change where payment not fixed",Housing Cost
+ADJRTF2,"2nd mortgage frequency of interest rate change where payment not fixed",Housing Cost
+ADJRTF3,"3rd mortgage frequency of interest rate change where payment not fixed",Housing Cost
+AMMORT,"Amount of 1st mortgage when acquired",Housing Cost
+AMMRT2,"Amount of 2nd mortgage when acquired",Housing Cost
+AMMRT3,"Amount of 3rd mortgage when acquired",Housing Cost
+AMMRT4,"Amount of 4th-and-more mortgage when acquired",Housing Cost
+AMRTZ,"Years needed to pay off 1st mortgage",Housing Cost
+AMRTZ2,"Years needed to pay off 2nd mortgage",Housing Cost
+AMRTZ3,"Years needed to pay off 3rd mortgage",Housing Cost
+AMTI,"Annual cost of homeowners insurance",Housing Cost
+AMTM,"Amount of other charges included in 1st mortgage",Housing Cost
+AMTM2,"Amount of other charges included in 2nd mortgage",Housing Cost
+AMTM3,"Amount of other charges included in 3rd mortgage",Housing Cost
+AMTT,"Annual cost of garbage & trash",Housing Cost
+AMTW,"Annual cost of water & sewage",Housing Cost
+AMTX,"Annual real estate tax payment",Housing Cost
+ARM,"1st mortgage changes due to interest rate",Housing Cost
+ARM2,"2nd mortgage changes due to interest rate",Housing Cost
+ARM3,"3rd mortgage changes due to interest rate",Housing Cost
+ARMASK,"1st mortgage changes for other reason",Housing Cost
+ARMASK2,"2nd mortgage changes for other reason",Housing Cost
+BALAMT,"1st mortgage final balloon payment",Housing Cost
+BALAMT2,"2nd mortgage final balloon payment",Housing Cost
+BALAMT3,"3rd mortgage final balloon payment",Housing Cost
+BANK,"1st mortgage borrowed from bank",Housing Cost
+BANK2,"2nd mortgage borrowed from bank",Housing Cost
+BANK3,"3rd mortgage borrowed from bank",Housing Cost
+BLOON,"1st mortgage’s last payment biggest",Housing Cost
+BLOON2,"2nd mortgage’s last payment biggest",Housing Cost
+BLOON3,"3rd mortgage’s last payment biggest",Housing Cost
+BUYI,"Household has homeowners insurance",Housing Cost
+BUYT,"Pay for garbage/trash separately",Housing Cost
+BUYT2,"Pay for garbage/trash separately",Housing Cost
+BUYW,"Pay for water/sewage separately",Housing Cost
+BUYW2,"Pay for water/sewage separately",Housing Cost
+CANVAR,"Term of 1st mortgage can vary",Housing Cost
+CANVR2,"Term of 2nd mortgage can vary",Housing Cost
+CANVR3,"Term of 3rd mortgage can vary",Housing Cost
+CASH,"Amount of cash received from 1st mortgage",Housing Cost
+CASH2,"Amount of cash received from 2nd mortgage",Housing Cost
+CASH3,"Amount of cash received from 3rd mortgage",Housing Cost
+CLPEVA,"Current loan as percent of value (rounded)",Housing Cost
+CONFEE,"Monthly condo/homeowner’s association/mobile home fee",Housing Cost
+CPRICE,"Cost of construction plus value of land",Housing Cost
+CSTMNT,"Annual cost for routine maintenance",Housing Cost
+DOC,"1st mortgage obtained without proof of income, assets, or debts",Housing Cost
+DOC2,"2nd mortgage obtained without proof of income, assets, or debts",Housing Cost
+DOC3,"3rd mortgage obtained without proof of income, assets, or debts",Housing Cost
+DOWNPCT,"Down payment percentage",Housing Cost
+DWNPAY,"Main source of down payment on unit",Housing Cost
+EXTLN2,"2nd mortgage refinanced to renew/extend loan due",Housing Cost
+EXTLN3,"3rd mortgage refinanced to renew/extend loan due",Housing Cost
+EXTLON,"1st mortgage refinanced to renew/extend loan due",Housing Cost
+FIXED,"1st mortgage changes for taxes/insurance",Housing Cost
+FIXED2,"2nd mortgage changes for taxes/insurance",Housing Cost
+FIXED3,"3rd mortgage changes for taxes/insurance",Housing Cost
+FLRENT,"Frequency of land/site rent payment",Housing Cost
+FMHOTF,"Frequency of other mobile home fee payments",Housing Cost
+FMRPMT,"Payment frequency of 1st mortgage",Housing Cost
+FMRPMT2,"Payment frequency of 2nd mortgage",Housing Cost
+FMRPMT3,"Payment frequency of 3rd mortgage",Housing Cost
+FRENT,"Frequency of rent payment",Housing Cost
+FRSTRM,"1st mortgage changes – number of years principal & interest remained same",Housing Cost
+FRSTRM2,"2nd mortgage changes – number of years principal & interest remained same",Housing Cost
+FRSTRM3,"3rd mortgage changes – number of years principal & interest remained same",Housing Cost
+FXDPM,"1st mortg pmt changed because lender will not let you decide how much to pay",Housing Cost
+FXDPM2,"2nd mortg pmt changed because lender will not let you decide how much to pay",Housing Cost
+FXDPM3,"3rd mortg pmt changed because lender will not let you decide how much to pay",Housing Cost
+GPM,"1st mortgage payments rise on fixed schedule part",Housing Cost
+GPM2,"2nd mortgage payments rise on fixed schedule part",Housing Cost
+GPMW,"1st mortgage payments rise on fixed schedule whole",Housing Cost
+GPMW2,"2nd mortgage payments rise on fixed schedule whole",Housing Cost
+GPMWP,"1st mortgage payments vary according to set schedule",Housing Cost
+GPMWP2,"2nd mortgage payments vary according to set schedule",Housing Cost
+GPMWP3,"3rd mortgage payments vary according to set schedule",Housing Cost
+GTCAS2,"2nd mortgage refinanced to receive cash",Housing Cost
+GTCAS3,"3rd mortgage refinanced to receive cash",Housing Cost
+GTCASH,"1st mortgage refinanced to receive cash",Housing Cost
+HEBAL1,"Outstanding loan against 1st home equity loan",Housing Cost
+HEBAL2,"Outstanding loan against 2nd home equity loan",Housing Cost
+HEBAL3,"Outstanding loan against 3rd home equity loan",Housing Cost
+HEBAM1,"Outstanding balance on 1st home equity loan",Housing Cost
+HEBAM2,"Outstanding balance on 2nd home equity loan",Housing Cost
+HEBAM3,"Outstanding balance on 3rd home equity loan",Housing Cost
+HECR1,"Credit limit on 1st home equity loan",Housing Cost
+HECR2,"Credit limit on 2nd home equity loan",Housing Cost
+HECR3,"Credit limit on 3rd home equity loan",Housing Cost
+HEINF1,"Interest rate on 1st home equity loan - fraction",Housing Cost
+HEINF2,"Interest rate on 2nd home equity loan - fraction",Housing Cost
+HEINF3,"Interest rate on 3rd home equity loan - fraction",Housing Cost
+HEINR1,"Interest rate on 1st home equity loan",Housing Cost
+HEINR2,"Interest rate on 2nd home equity loan",Housing Cost
+HEINR3,"Interest rate on 3rd home equity loan",Housing Cost
+HEINW1,"Interest rate on 1st home equity loan - whole number",Housing Cost
+HEINW2,"Interest rate on 2nd home equity loan - whole number",Housing Cost
+HEINW3,"Interest rate on 3rd home equity loan - whole number",Housing Cost
+HEL,"Has a home equity loan",Housing Cost
+HELC,"Has a home equity line of credit",Housing Cost
+HELCN,"Number of home equity lines of credit",Housing Cost
+HELMP1,"1st home equity loan lump sum",Housing Cost
+HELMP2,"2nd home equity loan lump sum",Housing Cost
+HELMP3,"3rd home equity loan lump sum",Housing Cost
+HELUMN,"Number of lump sum home equity loans",Housing Cost
+HELUMP,"Has a lump sum home equity loan",Housing Cost
+HEMNMOR,"Month current 1st home equity loan obtained",Housing Cost
+HEMNMOR2,"Month current 2nd home equity loan obtained",Housing Cost
+HEMNMOR3,"Month current 3rd home equity loan obtained",Housing Cost
+HENUM,"Number of home equity loans",Housing Cost
+HEPMT1,"1st home equity loan monthly payment",Housing Cost
+HEPMT2,"2nd home equity loan monthly payment",Housing Cost
+HEPMT3,"3rd home equity loan monthly payment",Housing Cost
+HETYP1,"1st home equity loan type",Housing Cost
+HETYP2,"2nd home equity loan type",Housing Cost
+HETYP3,"3rd home equity loan type",Housing Cost
+HEYRMOR,"Year current 1st home equity loan obtained",Housing Cost
+HEYRMOR2,"Year current 2nd home equity loan obtained",Housing Cost
+HEYRMOR3,"Year current 3rd home equity loan obtained",Housing Cost
+HUDADMIN,"Received government rental assistance (based on HUD administrative data)",Housing Cost
+HUDSAMP,"Unit selected as part of the 2011 oversample of subsidized housing",Housing Cost
+HYBARM,"1st mortgage adjustable rate mortgage ever fixed more than a year",Housing Cost
+HYBARM2,"2nd mortgage adjustable rate mortgage ever fixed more than a year",Housing Cost
+HYBARM3,"3rd mortgage adjustable rate mortgage ever fixed more than a year",Housing Cost
+HYBMYR,"1st mortgage adjustable rate mortgage number of years fixed",Housing Cost
+HYBMYR2,"2nd mortgage adjustable rate mortgage number of years fixed",Housing Cost
+HYBMYR3,"3rd mortgage adjustable rate mortgage number of years fixed",Housing Cost
+IFFEE,"Condo/co-op/assoc/mobile home park fee required",Housing Cost
+IMPROV,"Funds from 1st home equity loan used for additions/improvements",Housing Cost
+IMPRV2,"Funds from 2nd home equity loan used for additions/improvements",Housing Cost
+IMPRV3,"Funds from 3rd home equity loan used for additions/improvements",Housing Cost
+INCPER,"1st mortgage refinanced to increase payment period",Housing Cost
+INCPR2,"2nd mortgage refinanced to increase payment",Housing Cost
+INCPR3,"3rd mortgage refinanced to increase payment",Housing Cost
+INCS,"Pay separate rent for land",Housing Cost
+INPMT2,"2nd mortgage payment includes insurance",Housing Cost
+INPMT3,"3rd mortgage payment includes insurance",Housing Cost
+INSPM,"1st mortgage payment changed because taxes or insurance changed",Housing Cost
+INSPM2,"2nd mortgage payment changed because taxes or insurance changed",Housing Cost
+INSPM3,"3rd mortgage payment changed because taxes or insurance changed",Housing Cost
+INSPMT,"1st mortgage payment includes insurance",Housing Cost
+INTF,"Interest rate of 1st mortgage - fraction",Housing Cost
+INTF2,"Interest rate of 2nd mortgage - fraction",Housing Cost
+INTF3,"Interest rate of 3rd mortgage - fraction",Housing Cost
+INTPM,"1st mortgage payment changed because interest changed to interest plus",Housing Cost
+INTPM2,"2nd mortgage payment changed because interest changed to interest plus",Housing Cost
+INTPM3,"3rd mortgage payment changed because interest changed to interest plus",Housing Cost
+INTPMT,"Interest included in payment of 1st mortgage",Housing Cost
+INTPMT2,"Interest included in payment of 2nd mortgage",Housing Cost
+INTPMT3,"Interest included in payment of 3rd mortgage",Housing Cost
+INTR,"Interest rate of 1st mortgage",Housing Cost
+INTR2,"Interest rate of 2nd mortgage",Housing Cost
+INTR3,"Interest rate of 3rd mortgage",Housing Cost
+INTW,"Interest rate of 1st mortgage - whole #",Housing Cost
+INTW2,"Interest rate of 2nd mortgage - whole #",Housing Cost
+INTW3,"Interest rate of 3rd mortgage - whole #",Housing Cost
+IO,"1st mortgage changes due to “interest only” needs to be paid down",Housing Cost
+IO2,"2nd mortgage changes due to “interest only” needs to be paid down",Housing Cost
+IO3,"3rd mortgage changes due to “interest only” needs to be paid down",Housing Cost
+LANDC,"Land contract for mortgage",Housing Cost
+LANPMT,"Land rent included with mortgage payment",Housing Cost
+LENMOD,"1st mortgage payment changed to prevent foreclosure",Housing Cost
+LENMOD2,"2nd mortgage payment changed to prevent foreclosure",Housing Cost
+LENMOD3,"3rd mortgage payment changed to prevent foreclosure",Housing Cost
+LNFNBR,"Refinance solicitation of 1st mortgage",Housing Cost
+LNFNBR2,"Refinance solicitation of 2nd mortgage",Housing Cost
+LNFNBR3,"Refinance solicitation of 3rd mortgage",Housing Cost
+LOOKHS,"Looked at both houses/mobile home & apartments",Housing Cost
+LOOKNS,"Looked at other neighborhoods",Housing Cost
+LOON,"% of 1st mortgage due in last payment",Housing Cost
+LOON2,"% of 2nd mortgage due in last payment",Housing Cost
+LOONCL,"Percentage of 1st mortgage due in last payment (calculated)",Housing Cost
+LOONCL2,"Percentage of 2nd mortgage due in last payment (calculated)",Housing Cost
+LOONCL3,"Percentage of 3rd mortgage due in last payment (calculated)",Housing Cost
+LOWIN2,"2nd mortgage refinanced to get lower interest",Housing Cost
+LOWIN3,"3rd mortgage refinanced to get lower interest",Housing Cost
+LOWINT,"1st mortgage refinanced to get lower interest rate",Housing Cost
+LPRICE,"Purchase price of unit and land",Housing Cost
+LRENT,"Land/site rent",Housing Cost
+LVALUE,"Current value of land",Housing Cost
+MATBUY,"Got 1st mortgage in same year bought unit",Housing Cost
+MATBY2,"Got 2nd mortgage in same year bought unit",Housing Cost
+MATBY3,"Got 3rd mortgage in same year bought unit",Housing Cost
+MAXADJ,"1st mortgage freq. of int. rate change limited where mtg. payment not fixed",Housing Cost
+MAXADJ2,"2nd mortgage freq. of int. rate change limited where mtg. payment not fixed",Housing Cost
+MAXADJ3,"3rd mortgage freq. of int. rate change limited where mtg. payment not fixed",Housing Cost
+MCNT,"Number of regular mortgages",Housing Cost
+MCOM,"1st mortgage covers business on property",Housing Cost
+MCOM2,"2nd mortgage covers business on property",Housing Cost
+MFARM,"1st mortgage covers farm land",Housing Cost
+MFARM2,"2nd mortgage covers farm land",Housing Cost
+MG,"Any mortgages on this property",Housing Cost
+MGRESA,"1st mortgage shopped around before choosing lender",Housing Cost
+MGRESA2,"2nd mortgage shopped around before choosing lender",Housing Cost
+MGRESA3,"3rd mortgage shopped around before choosing lender",Housing Cost
+MH32,"Mobile home on property used for living quarters",Housing Cost
+MHOTFE,"Amount of other required mobile home fees",Housing Cost
+MINPM,"1st mortgage pmt changed because choice of minimum payment increased",Housing Cost
+MINPM2,"2nd mortgage pmt changed because choice of minimum payment increased",Housing Cost
+MINPM3,"3rd mortgage pmt changed because choice of minimum payment increased",Housing Cost
+MLNCLS,"1st mortgage chosen because of low closing costs",Housing Cost
+MLNCLS2,"2nd mortgage chosen because of low closing costs",Housing Cost
+MLNCLS3,"3rd mortgage chosen because of low closing costs",Housing Cost
+MLNDWN,"1st mortgage chosen because believed interest rates would go down",Housing Cost
+MLNDWN2,"2nd mortgage chosen because believed interest rates would go down",Housing Cost
+MLNDWN3,"3rd mortgage chosen because believed interest rates would go down",Housing Cost
+MLNINT,"1st mortgage chosen because of interest rate",Housing Cost
+MLNINT2,"2nd mortgage chosen because of interest rate",Housing Cost
+MLNINT3,"3rd mortgage chosen because of interest rate",Housing Cost
+MLNOTH,"1st mortgage chosen for other reason",Housing Cost
+MLNOTH2,"2nd mortgage chosen for other reason",Housing Cost
+MLNOTH3,"3rd mortgage chosen for other reason",Housing Cost
+MLNPM,"1st mortgage chosen because of payment amount",Housing Cost
+MLNPM2,"2nd mortgage chosen because of payment amount",Housing Cost
+MLNPM3,"3rd mortgage chosen because of payment amount",Housing Cost
+MNMOR,"Month 1st mortgage obtained",Housing Cost
+MNMOR2,"Month 2nd mortgage obtained",Housing Cost
+MNMOR3,"Month 3rd mortgage obtained",Housing Cost
+MORTIN,"Federal government guarantor of 1st mortgage",Housing Cost
+MORTN2,"Federal government guarantor of 2nd mortgage",Housing Cost
+MORTN3,"Federal government guarantor of 3rd mortgage",Housing Cost
+MRTYP1,"Type of 1st mortgage",Housing Cost
+MRTYP2,"Type of 2nd mortgage",Housing Cost
+MRTYP3,"Type of 3rd mortgage",Housing Cost
+MXDJTM,"1st mortgage # of times limited interest rate change where payment not fixed",Housing Cost
+MXDJTM2,"2nd mortgage # of times limited interest rate change where payment not fixed",Housing Cost
+MXDJTM3,"3rd mortgage # of times limited interest rate change where payment not fixed",Housing Cost
+MXINTF,"1st mortgage highest interest rate allowed where payment not fixed – fraction",Housing Cost
+MXINTF2,"2nd mortgage highest interest rate allowed where payment not fixed – fraction",Housing Cost
+MXINTF3,"3rd mortgage highest interest rate allowed where payment not fixed – fraction",Housing Cost
+MXINTR,"1st mortgage highest interest rate where mortgage payment not fixed",Housing Cost
+MXINTR2,"2nd mortgage highest interest rate where mortgage payment not fixed",Housing Cost
+MXINTR3,"3rd mortgage highest interest rate where mortgage payment not fixed",Housing Cost
+MXINTW,"1st mortgage highest interest rate where payment not fixed – whole number",Housing Cost
+MXINTW2,"2nd mortgage highest interest rate where payment not fixed – whole number",Housing Cost
+MXINTW3,"3rd mortgage highest interest rate where payment not fixed – whole number",Housing Cost
+NEWMOR,"1st mortgage new or assumed",Housing Cost
+NEWMR2,"2nd mortgage new or assumed",Housing Cost
+NEWMR3,"3rd mortgage new or assumed",Housing Cost
+NUMMOR,"Number of mortgages including home equity loans",Housing Cost
+ORINTF,"1st mortgage original interest rate where payment not fixed – fraction",Housing Cost
+ORINTF2,"2nd mortgage original interest rate where payment not fixed – fraction",Housing Cost
+ORINTF3,"3rd mortgage original interest rate where payment not fixed – fraction",Housing Cost
+ORINTR,"1st mortgage original interest rate where mortgage payment not fixed",Housing Cost
+ORINTR2,"2nd mortgage original interest rate where mortgage payment not fixed",Housing Cost
+ORINTR3,"3rd mortgage original interest rate where mortgage payment not fixed",Housing Cost
+ORINTW,"1st mortgage original interest rate where payment not fixed – whole number",Housing Cost
+ORINTW2,"2nd mortgage original interest rate where payment not fixed – whole number",Housing Cost
+ORINTW3,"3rd mortgage original interest rate where payment not fixed – whole number",Housing Cost
+OTHPMT,"Other charges included in 1st mortgage payment",Housing Cost
+OTHREF,"1st mortgage refinanced for other reason",Housing Cost
+OTPMT2,"Other charges included in 2nd mortgage payment",Housing Cost
+OTPMT3,"Other charges included in 3rd mortgage payment",Housing Cost
+OTREF2,"2nd mortgage refinanced for other reason",Housing Cost
+OTREF3,"3rd mortgage refinanced for other reason",Housing Cost
+OTRPM,"1st mortgage payment changed because of something else",Housing Cost
+OTRPM2,"2nd mortgage payment changed because of something else",Housing Cost
+OTRPM3,"3rd mortgage payment changed because of something else",Housing Cost
+PERUS1,"Percentage of 1st mortgage loan used for purchase of the home",Housing Cost
+PERUS2,"Percentage of 2nd mortgage loan used for purchase of the home",Housing Cost
+PERUS3,"Percentage of 3rd mortgage loan used for purchase of the home",Housing Cost
+PINCO2,"2nd mortgage covers other units",Housing Cost
+PINCOP,"1st mortgage covers other units",Housing Cost
+PMAMT2,"Amount of private mortgage insurance included in 2nd mortgage",Housing Cost
+PMAMT3,"Amount of private mortgage insurance included in 3rd mortgage",Housing Cost
+PMIAMT,"Amount of private mortgage insurance included in 1st mortgage",Housing Cost
+PMIPMT,"1st mortgage payments include private mortgage insurance",Housing Cost
+PMPMT2,"2nd mortgage payments include private mortgage insurance",Housing Cost
+PMPMT3,"3rd mortgage payments include private mortgage insurance",Housing Cost
+PMT,"Monthly payment for 1st mortgage",Housing Cost
+PMT2,"Monthly payment for 2nd mortgage",Housing Cost
+PMT3,"Monthly payment for 3rd mortgage",Housing Cost
+PMT4,"Monthly payment for 4th-and-more mortgage",Housing Cost
+PMTINC,"1st mortgage payment increased or decreased",Housing Cost
+PMTINC2,"2nd mortgage payment increased or decreased",Housing Cost
+PMTINC3,"3rd mortgage payment increased or decreased",Housing Cost
+POOR,"Household income as percent of poverty line (rounded)",Housing Cost
+PRENT,"Amount of rent actually paid",Housing Cost
+PRIN01,"Monthly payment for principal and interest",Housing Cost
+PRIPMT,"Principal included in payment of 1st mortgage",Housing Cost
+PRIPMT2,"Principal included in payment of 2nd mortgage",Housing Cost
+PRIPMT3,"Principal included in payment of 3rd mortgage",Housing Cost
+PROJ,"Building owned by public housing authority",Housing Cost
+PTCHAM,"1st mortgage payment change amount",Housing Cost
+PTCHAM2,"2nd mortgage payment change amount",Housing Cost
+PTCHAM3,"3rd mortgage payment change amount",Housing Cost
+PTCHYR,"1st mortgage payment changed in the past year",Housing Cost
+PTCHYR2,"2nd mortgage payment changed in the past year",Housing Cost
+PTCHYR3,"3rd mortgage payment changed in the past year",Housing Cost
+PVALUE,"Current value of unit",Housing Cost
+RAM,"Has reserve annuity or home equity conversion mortgage",Housing Cost
+RAMAP,"Applied for reverse annuity mortgage",Housing Cost
+RAMORT,"Heard of reverse annuity mortgage",Housing Cost
+RATEPM,"1st mortgage payment changed from non-ARM to ARM, or vice versa",Housing Cost
+RATEPM2,"2nd mortgage payment changed from non-ARM to ARM, or vice versa",Housing Cost
+RATEPM3,"3rd mortgage payment changed from non-ARM to ARM, or vice versa",Housing Cost
+RCNTRL,"Rent limited by rent control/stabilization",Housing Cost
+REDMO2,"Refinanced to reduce monthly payment of 2nd loan",Housing Cost
+REDMO3,"Refinanced to reduce monthly payment of 3rd loan",Housing Cost
+REDMON,"Refinanced to reduce monthly payment of 1st loan",Housing Cost
+REDPA2,"Refinanced to reduce repayment period of 2nd loan",Housing Cost
+REDPA3,"Refinanced to reduce repayment period of 3rd loan",Housing Cost
+REDPAY,"Refinanced to reduce repayment period of 1st loan",Housing Cost
+REFI,"Mortgage a refinancing of previous mortgage",Housing Cost
+REFI2,"Mortgage a refinancing of previous mortgage",Housing Cost
+REFI3,"Mortgage a refinancing of previous mortgage",Housing Cost
+REGMOR,"Number of regular mortgages on unit Housing Cost RENEW Income info required for lease renewal",Housing Cost
+RENT,"Amount reported for payment period in FRENT",Housing Cost
+RESMOR,"Amount of 1st mortgage applies only to unit",Housing Cost
+RESMR2,"Amount of 2nd mortgage applies only to unit",Housing Cost
+RNTADJ,"Rent adjusted because relationship w/ owner",Housing Cost
+SELL,"Borrowed 1st mortgage from former owner",Housing Cost
+SELL2,"Borrowed 2nd mortgage from former owner",Housing Cost
+SELL3,"Borrowed 3rd mortgage from former owner",Housing Cost
+SHOCK,"1st mortgage payment change increase difficult to afford",Housing Cost
+SHOCK2,"2nd mortgage payment change increase difficult to afford",Housing Cost
+SHOCK3,"3rd mortgage payment change increase difficult to afford",Housing Cost
+SUBMOR,"Government program provides 1st mortgage",Housing Cost
+SUBMR2,"Government program provides 2nd mortgage",Housing Cost
+SUBMR3,"Government program provides 3rd mortgage",Housing Cost
+SUBMR4,"Government program provides 4th-and-more mortgage",Housing Cost
+TADJ,"Purchase price changed due to inspection/test",Housing Cost
+TAXPMT,"Property taxes included in 1st mortgage",Housing Cost
+TERM,"Term of 1st mortgage",Housing Cost
+TERM2,"Term of 2nd mortgage",Housing Cost
+TERM3,"Term of 3rd mortgage",Housing Cost
+TIMBOM,"1st mortgage changes due to “payment option”",Housing Cost
+TIMBOM2,"2nd mortgage changes due to “payment option”",Housing Cost
+TIMBOM3,"3rd mortgage changes due to “payment option”",Housing Cost
+TXPMT2,"Property taxes included in 2nd mortgage",Housing Cost
+TXPMT3,"Property taxes included in 3rd mortgage",Housing Cost
+TXRE,"Received real estate property tax rebate",Housing Cost
+UNPBAL,"Amount currently owed on 1st mortgage",Housing Cost
+UNPBAL2,"Amount currently owed on 2nd mortgage",Housing Cost
+UNPBAL3,"Amount currently owed on 3rd mortgage",Housing Cost
+UNPBAL4,"Amount currently owed on 4th-and-more mortgage",Housing Cost
+VALUE,"Current market value of unit",Housing Cost
+VARM,"1st mortgage changes for other reason",Housing Cost
+VARM2,"2nd mortgage changes for other reason",Housing Cost
+VARM3,"3rd mortgage changes for other reason",Housing Cost
+VARY,"1st mortgage payments change",Housing Cost
+VARY2,"2nd mortgage payments change",Housing Cost
+VARY3,"3rd mortgage payments change",Housing Cost
+VCHRMOV,"Can use voucher to move to another location",Housing Cost
+YRMOR,"Year 1st mortgage obtained",Housing Cost
+YRMOR2,"Year 2nd mortgage obtained",Housing Cost
+YRMOR3,"Year 3rd mortgage obtained",Housing Cost
+ZSMHC,"Monthly housing costs",Housing Cost
+AGE,"Age of person",Household Composition
+APPLY,"Assigned to unit or chose it",Household Composition
+CITSHP,"U.S. Citizenship",Household Composition
+CUSHOM,"How owner obtained unit",Household Composition
+DLINE1,"Line Number of respondent",Household Composition
+ELDER,"Number of persons living in household 65 years or older",Household Composition
+FAMNUM,"Family number",Household Composition
+FAMREL,"Family relationship",Household Composition
+FAMTYP,"Family type",Household Composition
+FRSTHO,"Ever owned home before",Household Composition
+GRAD,"Educational level of person",Household Composition
+HCARE,"Household has a member with self-care disability (recode)",Household Composition
+HDSB,"Household has a disabled person (recode)",Household Composition
+HERE,"Nonrelative is present",Household Composition
+HERRND,"Household has a member with go-outside-home disability (recode)",Household Composition
+HHAGE,"Age of householder",Household Composition
+HHCITSHP,"US Citizenship of householder",Household Composition
+HHEAR,"Household has a member with hearing disability (recode)",Household Composition
+HHGRAD,"Education level of householder",Household Composition
+HHINUSYR,"Year householder came to US",Household Composition
+HHKIDU18,"Number of householder’s children under 18 years",Household Composition
+HHLDKID,"Number of householder’s children (any age)",Household Composition
+HHMAR,"Marital status of householder",Household Composition
+HHNATVTY,"Country of birth of householder",Household Composition
+HHPAR,"Line number of parent of householder",Household Composition
+HHPCARE,"Householder has difficulty dressing or bathing",Household Composition
+HHPERRND,"Householder has difficulty doing errands",Household Composition
+HHPHEAR,"Householder has difficulty hearing",Household Composition
+HHPLINE,"Line number of householder",Household Composition
+HHPMEMRY,"Householder has difficulty concentrating or remembering",Household Composition
+HHPSEE,"Householder has difficulty seeing",Household Composition
+HHPWALK,"Householder has difficulty walking or climbing stairs",Household Composition
+HHRACE,"Race of householder",Household Composition
+HHREL,"Relationship of householder to household",Household Composition
+HHSEX,"Sex of householder",Household Composition
+HHSPAN,"Spanish origin of householder",Household Composition
+HHSPOS,"Line number of spouse of householder",Household Composition
+HHTEN,"Householder is owner/renter of unit",Household Composition
+HHWLINEQ,"Householder worked at all last week",Household Composition
+HMEMRY,"Household has a member with memory disability (recode)",Household Composition
+HSEE,"Household has a member with seeing disability (recode)",Household Composition
+HWALK,"Household has a member with walking disability (recode)",Household Composition
+INUSYR,"Year came to U.S.",Household Composition
+KIDU18,"Number of persons living in household 17 years or younger",Household Composition
+LANG,"Language of interview",Household Composition
+LIVEAT,"Everyone in household lives or eats together",Household Composition
+LONGIT,"Characteristics of household in 70/80/90",Household Composition
+MAR,"Marital status of person",Household Composition
+MOVEDLY,"Householder moved in last year",Household Composition
+NATVTY,"Country of birth",Household Composition
+NONREL,"Number of non-relatives in household",Household Composition
+NOSTEP,"Entrance accessible w/o steps or stairs",Household Composition
+NROWNR,"Ownership shared w/ person not living here",Household Composition
+NRPAYM,"Person not living here help pay mortgage/util",Household Composition
+PAR,"Line number of parent of person",Household Composition
+PCARE,"Has self-care disability",Household Composition
+PER,"Number of persons in household",Household Composition
+PERRND,"Has go-outside-home disability",Household Composition
+PERSINT,"Personal/telephone interview",Household Composition
+PERSON,"Line number of person",Household Composition
+PHEAR,"Has hearing disability",Household Composition
+PLINE,"Line number of person",Household Composition
+PMEMRY,"Has memory disability",Household Composition
+PSEE,"Has seeing disability",Household Composition
+PWALK,"Has walking disability",Household Composition
+RACE,"Race of person",Household Composition
+REL,"Relationship of person to reference person",Household Composition
+REMP,"Employed by household",Household Composition
+RESPTYP,"Type of respondent",Household Composition
+SAMEHH,"Same household members live in unit",Household Composition
+SAMEHH2,"Same household members live in unit (recode)",Household Composition
+SCHHO,"Children in household schooled at home",Household Composition
+SCHNO,"Nobody in household attends school",Household Composition
+SCHOTH,"Someone in household attends other type of school",Household Composition
+SCHPRI,"Someone in household attends private school",Household Composition
+SCHPUB,"Someone in household attends public school",Household Composition
+SEX,"Sex of person",Household Composition
+SNITEV,"Number of nights owner spends at vacant/URE unit",Household Composition
+SPAN,"Spanish origin of person",Household Composition
+SPOS,"Line number of spouse of person",Household Composition
+STATUS,"Interview status",Household Composition
+TEN,"This person is owner/renter of unit",Household Composition
+WHDY,"Number of days worked at home",Household Composition
+WHHRB,"# hours worked at home (self-employed)",Household Composition
+WHHRW,"# hours worked at home (wage & salary)",Household Composition
+WHOME,"Work at home for employer",Household Composition
+WINUS,"Place of work outside the U.S.",Household Composition
+WLINEQ,"Work at all last week",Household Composition
+ZADULT,"Number of adults 18+ in household",Household Composition
+ZMVGRP,"Total Number of mover groups in the household",Household Composition
+CROPSL,"Receive farm income",Income
+FOOD,"Meals included in rent paid to household",Income
+HHFOOD,"Lodger contributes to household for food",Income
+HHMORT,"Lodger contributes to household for mortgage/rent",Income
+HHOTH,"Lodger contributes to household for other costs",Income
+HHPQALIM,"Householder received alimony or child support",Income
+HHPQDIV,"Householder received dividends from stocks",Income
+HHPQINT,"Householder received interest from saving, cd, etc.",Income
+HHPQOTHER,"Householder received unemployment/vet payments/other income",Income
+HHPQRENT,"Householder received rental income",Income
+HHPQRETIR,"Householder received retirement or survivor pension",Income
+HHPQSAL,"Householder has wages/salary",Income
+HHPQSELF,"Householder received self-employment income",Income
+HHPQSS,"Householder received social security or pension",Income
+HHPQSSI,"Householder received supplemental security income",Income
+HHPQWELF,"Householder received AFDC, TANF or other public assistance",Income
+HHPQWKCMP,"Householder received workers compensation or other disability payments",Income
+HHPVOTHER,"Sum of householder’s other income",Income
+HHSAL,"Wage and salary income of householder",Income
+HHUTFU,"Lodger contributes to household for utilities",Income
+INV20K,"Total savings/investments over $25,000",Income
+LODG,"Rent paid by lodgers (rounded)",Income
+LODRNT,"Amount lodger pays to household",Income
+LODSTA,"Lodger pays fixed amount to household",Income
+LT25K,"Income in last 12 months over $25,000",Income
+OTHEST,"Anyone home who can estimate nonrelative income",Income
+PQALIM,"Person has alimony or child support income",Income
+PQDIV,"Person has dividends",Income
+PQIDRI,"Received interest, dividends, royalty income",Income
+PQINT,"Person has interest income",Income
+PQOTALM,"Received VA/unemployment/child support/alimony/other income",Income
+PQOTHER,"Person has unempl/workers comp/VA/other pay",Income
+PQOTHNR,"Other income received by nonrelative",Income
+PQRENT,"Person has rental income",Income
+PQRETIR,"Received retirement or survivor pension",Income
+PQSAL,"Wages/salary received by reference person/relative",Income
+PQSALNR,"Salary received by nonrelative",Income
+PQSELF,"Received self-employment income",Income
+PQSELFNR,"Received self-employment income by nonrelative",Income
+PQSS,"Received Social Security or Railroad Retirement pension",Income
+PQSSI,"Received Supplemental Security Income",Income
+PQWELF,"Received AFDC, TANF or other public assistance or welfare program payments",Income
+PQWKCMP,"Received SSDI, work. comp., vet. or other disability payments",Income
+PVOTHER,"Sum of a person’s other income",Income
+QALIM,"Received alimony or child support",Income
+QBINV,"Household has farm or business investments",Income
+QBUS,"Received income from business/farm/ranch",Income
+QDIV,"Received dividends from stock",Income
+QFS1,"Received food stamps in last 12 months",Income
+QIDRI,"Received interest/rental/royalty/estate income",Income
+QINT,"Received interest from savings, cd, etc",Income
+QMEN,"Any income not already mentioned",Income
+QOINV,"Household has other investments",Income
+QOTALM,"Received VA/unemploy/child support/alimony/other income",Income
+QOTHER,"Received unemployment/vet payments/other inc",Income
+QRENT,"Received rental income",Income
+QRETIR,"Received retirement or survivor pension",Income
+QSAVNG,"Household has savings",Income
+QSELF,"Received self-employment income",Income
+QSS,"Received social security or pension",Income
+QSSI,"Received supplemental security income",Income
+QWELF,"Received AFDC, TANF or other public assistance or welfare program payments",Income
+QWKCMP,"Received workers compensation or other disability payments",Income
+RCARP,"Receive help w/ transportation expenses",Income
+RCLOT,"Receive help with clothing expenses",Income
+RCOST,"Receive help with rent payments",Income
+REPHA,"Report income to public housing authority",Income
+RGROC,"Receive help with grocery bills",Income
+RKIDC,"Receive help with child care payments",Income
+RMEDI,"Receive help with medical bills",Income
+RNTDUE,"Frequency of lodger’s rent payment to household",Income
+ROTHE,"Received other assistance making ends meet",Income
+RUTIL,"Receive help with utility bills",Income
+SAL,"Wage & salary income of person",Income
+SUBRNT,"Government subsidizes rent for unit",Income
+SUBRNT1,"Government subsidizes rent for unit",Income
+SUBRNT2,"Government subsidizes rent for unit",Income
+VCHER,"Received voucher to help pay rent",Income
+VOTHER,"Total amount of other family income",Income
+VOTHER2,"Total amount of other household income",Income
+ZINC,"Family income",Income
+ZINC2,"Household Income",Income
+ZINCH,"This month’s income same as 1 year ago",Income
+ZINCN,"Expected income in next 12 months",Income
