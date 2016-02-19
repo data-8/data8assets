@@ -1,0 +1,12 @@
+{
+  "name": "HW 05",
+  "endpoint": "cal/data8/sp16/hw05",
+  "src": [
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
