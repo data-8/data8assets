@@ -6,8 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> len(daily_temp_with_distances.labels)
-          24
+          >>> 'distance to coast (km)' in daily_temp_with_distances.labels
+          True
           """,
           'hidden': False,
           'locked': False
