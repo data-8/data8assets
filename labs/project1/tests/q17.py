@@ -6,11 +6,11 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> print(high_average_zips.sort(0).take([0, 1, 2]))
-          ZIP   | Average Income
-          90010 | 145010
-          90024 | 299216
-          90025 | 160059
+          >>> print(high_average_zips.sort('ZIP').take([0, 1, 2]).select('ZIP'))
+          ZIP
+          90010
+          90024
+          90025
           """,
           'hidden': False,
           'locked': False

@@ -8,9 +8,9 @@ test = {
           'code': r"""
           >>> print(per_capita_usage.sort(0).relabeled(1, 'V').take([0, 1, 2]))
           PWSID   | V
-          0110001 | 5.80953
-          0110003 | 7.40036
-          0110005 | 6.22523
+          0110001 | 70.7
+          0110003 | 90.2727
+          0110005 | 76
           """,
           'hidden': False,
           'locked': False
