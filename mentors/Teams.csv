@@ -1,0 +1,733 @@
+yearID,lgID,teamID,franchID,divID,W,L,DivWin,WCWin,LgWin,WSWin,name,park,attendance
+1991,AL,BAL,BAL,E,67,95,N,,N,N,Baltimore Orioles,Memorial Stadium,2552753
+1991,AL,BOS,BOS,E,84,78,N,,N,N,Boston Red Sox,Fenway Park II,2562435
+1991,AL,CAL,ANA,W,81,81,N,,N,N,California Angels,Anaheim Stadium,2416236
+1991,AL,CHA,CHW,W,87,75,N,,N,N,Chicago White Sox,Comiskey Park II,2934154
+1991,AL,CLE,CLE,E,57,105,N,,N,N,Cleveland Indians,Cleveland Stadium,1051863
+1991,AL,DET,DET,E,84,78,N,,N,N,Detroit Tigers,Tiger Stadium,1641661
+1991,AL,KCA,KCR,W,82,80,N,,N,N,Kansas City Royals,Royals Stadium,2161537
+1991,AL,MIN,MIN,W,95,67,Y,,Y,Y,Minnesota Twins,Hubert H Humphrey Metrodome,2293842
+1991,AL,ML4,MIL,E,83,79,N,,N,N,Milwaukee Brewers,County Stadium,1478729
+1991,AL,NYA,NYY,E,71,91,N,,N,N,New York Yankees,Yankee Stadium II,1863733
+1991,AL,OAK,OAK,W,84,78,N,,N,N,Oakland Athletics,Oakland Coliseum,2713493
+1991,AL,SEA,SEA,W,83,79,N,,N,N,Seattle Mariners,Kingdome,2147905
+1991,AL,TEX,TEX,W,85,77,N,,N,N,Texas Rangers,Arlington Stadium,2297720
+1991,AL,TOR,TOR,E,91,71,Y,,N,N,Toronto Blue Jays,Skydome,4001527
+1991,NL,ATL,ATL,W,94,68,Y,,Y,N,Atlanta Braves,Atlanta-Fulton County Stadium,2140217
+1991,NL,CHN,CHC,E,77,83,N,,N,N,Chicago Cubs,Wrigley Field,2314250
+1991,NL,CIN,CIN,W,74,88,N,,N,N,Cincinnati Reds,Riverfront Stadium,2372377
+1991,NL,HOU,HOU,W,65,97,N,,N,N,Houston Astros,Astrodome,1196152
+1991,NL,LAN,LAD,W,93,69,N,,N,N,Los Angeles Dodgers,Dodger Stadium,3348170
+1991,NL,MON,WSN,E,71,90,N,,N,N,Montreal Expos,Stade Olympique,934742
+1991,NL,NYN,NYM,E,77,84,N,,N,N,New York Mets,Shea Stadium,2284484
+1991,NL,PHI,PHI,E,78,84,N,,N,N,Philadelphia Phillies,Veterans Stadium,2050012
+1991,NL,PIT,PIT,E,98,64,Y,,N,N,Pittsburgh Pirates,Three Rivers Stadium,2065302
+1991,NL,SDN,SDP,W,84,78,N,,N,N,San Diego Padres,Jack Murphy Stadium,1804289
+1991,NL,SFN,SFG,W,75,87,N,,N,N,San Francisco Giants,Candlestick Park,1737478
+1991,NL,SLN,STL,E,84,78,N,,N,N,St. Louis Cardinals,Busch Stadium II,2448699
+1992,AL,BAL,BAL,E,89,73,N,,N,N,Baltimore Orioles,Oriole Park at Camden Yards,3567819
+1992,AL,BOS,BOS,E,73,89,N,,N,N,Boston Red Sox,Fenway Park II,2468574
+1992,AL,CAL,ANA,W,72,90,N,,N,N,California Angels,Anaheim Stadium,2065444
+1992,AL,CHA,CHW,W,86,76,N,,N,N,Chicago White Sox,Comiskey Park II,2681156
+1992,AL,CLE,CLE,E,76,86,N,,N,N,Cleveland Indians,Cleveland Stadium,1224094
+1992,AL,DET,DET,E,75,87,N,,N,N,Detroit Tigers,Tiger Stadium,1423963
+1992,AL,KCA,KCR,W,72,90,N,,N,N,Kansas City Royals,Royals Stadium,1867689
+1992,AL,MIN,MIN,W,90,72,N,,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,2482428
+1992,AL,ML4,MIL,E,92,70,N,,N,N,Milwaukee Brewers,County Stadium,1857351
+1992,AL,NYA,NYY,E,76,86,N,,N,N,New York Yankees,Yankee Stadium II,1748737
+1992,AL,OAK,OAK,W,96,66,Y,,N,N,Oakland Athletics,Oakland Coliseum,2494160
+1992,AL,SEA,SEA,W,64,98,N,,N,N,Seattle Mariners,Kingdome,1651367
+1992,AL,TEX,TEX,W,77,85,N,,N,N,Texas Rangers,Arlington Stadium,2198231
+1992,AL,TOR,TOR,E,96,66,Y,,Y,Y,Toronto Blue Jays,Skydome,4028318
+1992,NL,ATL,ATL,W,98,64,Y,,Y,N,Atlanta Braves,Atlanta-Fulton County Stadium,3077400
+1992,NL,CHN,CHC,E,78,84,N,,N,N,Chicago Cubs,Wrigley Field,2126720
+1992,NL,CIN,CIN,W,90,72,N,,N,N,Cincinnati Reds,Riverfront Stadium,2315946
+1992,NL,HOU,HOU,W,81,81,N,,N,N,Houston Astros,Astrodome,1211412
+1992,NL,LAN,LAD,W,63,99,N,,N,N,Los Angeles Dodgers,Dodger Stadium,2473266
+1992,NL,MON,WSN,E,87,75,N,,N,N,Montreal Expos,Stade Olympique,1669127
+1992,NL,NYN,NYM,E,72,90,N,,N,N,New York Mets,Shea Stadium,1779534
+1992,NL,PHI,PHI,E,70,92,N,,N,N,Philadelphia Phillies,Veterans Stadium,1927448
+1992,NL,PIT,PIT,E,96,66,Y,,N,N,Pittsburgh Pirates,Three Rivers Stadium,1829395
+1992,NL,SDN,SDP,W,82,80,N,,N,N,San Diego Padres,Jack Murphy Stadium,1721406
+1992,NL,SFN,SFG,W,72,90,N,,N,N,San Francisco Giants,Candlestick Park,1560998
+1992,NL,SLN,STL,E,83,79,N,,N,N,St. Louis Cardinals,Busch Stadium II,2418483
+1993,AL,BAL,BAL,E,85,77,N,,N,N,Baltimore Orioles,Oriole Park at Camden Yards,3644965
+1993,AL,BOS,BOS,E,80,82,N,,N,N,Boston Red Sox,Fenway Park II,2422021
+1993,AL,CAL,ANA,W,71,91,N,,N,N,California Angels,Anaheim Stadium,2057460
+1993,AL,CHA,CHW,W,94,68,Y,,N,N,Chicago White Sox,Comiskey Park II,2581091
+1993,AL,CLE,CLE,E,76,86,N,,N,N,Cleveland Indians,Cleveland Stadium,2177908
+1993,AL,DET,DET,E,85,77,N,,N,N,Detroit Tigers,Tiger Stadium,1971421
+1993,AL,KCA,KCR,W,84,78,N,,N,N,Kansas City Royals,Kauffman Stadium,1934578
+1993,AL,MIN,MIN,W,71,91,N,,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,2048673
+1993,AL,ML4,MIL,E,69,93,N,,N,N,Milwaukee Brewers,County Stadium,1688080
+1993,AL,NYA,NYY,E,88,74,N,,N,N,New York Yankees,Yankee Stadium II,2416942
+1993,AL,OAK,OAK,W,68,94,N,,N,N,Oakland Athletics,Oakland Coliseum,2035025
+1993,AL,SEA,SEA,W,82,80,N,,N,N,Seattle Mariners,Kingdome,2052638
+1993,AL,TEX,TEX,W,86,76,N,,N,N,Texas Rangers,Arlington Stadium,2244616
+1993,AL,TOR,TOR,E,95,67,Y,,Y,Y,Toronto Blue Jays,Skydome,4057947
+1993,NL,ATL,ATL,W,104,58,Y,,N,N,Atlanta Braves,Atlanta-Fulton County Stadium,3884720
+1993,NL,CHN,CHC,E,84,78,N,,N,N,Chicago Cubs,Wrigley Field,2653763
+1993,NL,CIN,CIN,W,73,89,N,,N,N,Cincinnati Reds,Riverfront Stadium,2453232
+1993,NL,COL,COL,W,67,95,N,,N,N,Colorado Rockies,Mile High Stadium,4483350
+1993,NL,FLO,FLA,E,64,98,N,,N,N,Florida Marlins,Joe Robbie Stadium,3064847
+1993,NL,HOU,HOU,W,85,77,N,,N,N,Houston Astros,Astrodome,2084618
+1993,NL,LAN,LAD,W,81,81,N,,N,N,Los Angeles Dodgers,Dodger Stadium,3170393
+1993,NL,MON,WSN,E,94,68,N,,N,N,Montreal Expos,Stade Olympique,1641437
+1993,NL,NYN,NYM,E,59,103,N,,N,N,New York Mets,Shea Stadium,1873183
+1993,NL,PHI,PHI,E,97,65,Y,,Y,N,Philadelphia Phillies,Veterans Stadium,3137674
+1993,NL,PIT,PIT,E,75,87,N,,N,N,Pittsburgh Pirates,Three Rivers Stadium,1650593
+1993,NL,SDN,SDP,W,61,101,N,,N,N,San Diego Padres,Jack Murphy Stadium,1375432
+1993,NL,SFN,SFG,W,103,59,N,,N,N,San Francisco Giants,Candlestick Park,2606354
+1993,NL,SLN,STL,E,87,75,N,,N,N,St. Louis Cardinals,Busch Stadium II,2844977
+1994,AL,BAL,BAL,E,63,49,,,,,Baltimore Orioles,Oriole Park at Camden Yards,2535359
+1994,AL,BOS,BOS,E,54,61,,,,,Boston Red Sox,Fenway Park II,1775818
+1994,AL,CAL,ANA,W,47,68,,,,,California Angels,Anaheim Stadium,1512622
+1994,AL,CHA,CHW,C,67,46,,,,,Chicago White Sox,Comiskey Park II,1697398
+1994,AL,CLE,CLE,C,66,47,,,,,Cleveland Indians,Jacobs Field,1995174
+1994,AL,DET,DET,E,53,62,,,,,Detroit Tigers,Tiger Stadium,1184783
+1994,AL,KCA,KCR,C,64,51,,,,,Kansas City Royals,Kauffman Stadium,1400494
+1994,AL,MIN,MIN,C,53,60,,,,,Minnesota Twins,Hubert H Humphrey Metrodome,1398565
+1994,AL,ML4,MIL,C,53,62,,,,,Milwaukee Brewers,County Stadium,1268399
+1994,AL,NYA,NYY,E,70,43,,,,,New York Yankees,Yankee Stadium II,1675556
+1994,AL,OAK,OAK,W,51,63,,,,,Oakland Athletics,Oakland Coliseum,1242692
+1994,AL,SEA,SEA,W,49,63,,,,,Seattle Mariners,Kingdome,1104206
+1994,AL,TEX,TEX,W,52,62,,,,,Texas Rangers,The Ballpark at Arlington,2503198
+1994,AL,TOR,TOR,E,55,60,,,,,Toronto Blue Jays,Skydome,2907933
+1994,NL,ATL,ATL,E,68,46,,,,,Atlanta Braves,Atlanta-Fulton County Stadium,2539240
+1994,NL,CHN,CHC,C,49,64,,,,,Chicago Cubs,Wrigley Field,1845208
+1994,NL,CIN,CIN,C,66,48,,,,,Cincinnati Reds,Riverfront Stadium,1897681
+1994,NL,COL,COL,W,53,64,,,,,Colorado Rockies,Mile High Stadium,3281511
+1994,NL,FLO,FLA,E,51,64,,,,,Florida Marlins,Joe Robbie Stadium,1937467
+1994,NL,HOU,HOU,C,66,49,,,,,Houston Astros,Astrodome,1561136
+1994,NL,LAN,LAD,W,58,56,,,,,Los Angeles Dodgers,Dodger Stadium,2279355
+1994,NL,MON,WSN,E,74,40,,,,,Montreal Expos,Stade Olympique,1276250
+1994,NL,NYN,NYM,E,55,58,,,,,New York Mets,Shea Stadium,1151471
+1994,NL,PHI,PHI,E,54,61,,,,,Philadelphia Phillies,Veterans Stadium,2290971
+1994,NL,PIT,PIT,C,53,61,,,,,Pittsburgh Pirates,Three Rivers Stadium,1222520
+1994,NL,SDN,SDP,W,47,70,,,,,San Diego Padres,Jack Murphy Stadium,953857
+1994,NL,SFN,SFG,W,55,60,,,,,San Francisco Giants,Candlestick Park,1704608
+1994,NL,SLN,STL,C,53,61,,,,,St. Louis Cardinals,Busch Stadium II,1866544
+1995,AL,BAL,BAL,E,71,73,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,3098475
+1995,AL,BOS,BOS,E,86,58,Y,N,N,N,Boston Red Sox,Fenway Park II,2164410
+1995,AL,CAL,ANA,W,78,67,N,N,N,N,California Angels,Anaheim Stadium,1748680
+1995,AL,CHA,CHW,C,68,76,N,N,N,N,Chicago White Sox,Comiskey Park II,1609773
+1995,AL,CLE,CLE,C,100,44,Y,N,Y,N,Cleveland Indians,Jacobs Field,2842745
+1995,AL,DET,DET,E,60,84,N,N,N,N,Detroit Tigers,Tiger Stadium,1180979
+1995,AL,KCA,KCR,C,70,74,N,N,N,N,Kansas City Royals,Kauffman Stadium,1233530
+1995,AL,MIN,MIN,C,56,88,N,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,1057667
+1995,AL,ML4,MIL,C,65,79,N,N,N,N,Milwaukee Brewers,County Stadium,1087560
+1995,AL,NYA,NYY,E,79,65,N,Y,N,N,New York Yankees,Yankee Stadium II,1705263
+1995,AL,OAK,OAK,W,67,77,N,N,N,N,Oakland Athletics,Oakland Coliseum,1174310
+1995,AL,SEA,SEA,W,79,66,Y,N,N,N,Seattle Mariners,Kingdome,1643203
+1995,AL,TEX,TEX,W,74,70,N,N,N,N,Texas Rangers,The Ballpark at Arlington,1985910
+1995,AL,TOR,TOR,E,56,88,N,N,N,N,Toronto Blue Jays,Skydome,2826483
+1995,NL,ATL,ATL,E,90,54,Y,N,Y,Y,Atlanta Braves,Atlanta-Fulton County Stadium,2561831
+1995,NL,CHN,CHC,C,73,71,N,N,N,N,Chicago Cubs,Wrigley Field,1918265
+1995,NL,CIN,CIN,C,85,59,Y,N,N,N,Cincinnati Reds,Riverfront Stadium,1837649
+1995,NL,COL,COL,W,77,67,N,Y,N,N,Colorado Rockies,Coors Field,3390037
+1995,NL,FLO,FLA,E,67,76,N,N,N,N,Florida Marlins,Joe Robbie Stadium,1700466
+1995,NL,HOU,HOU,C,76,68,N,N,N,N,Houston Astros,Astrodome,1363801
+1995,NL,LAN,LAD,W,78,66,Y,N,N,N,Los Angeles Dodgers,Dodger Stadium,2766251
+1995,NL,MON,WSN,E,66,78,N,N,N,N,Montreal Expos,Stade Olympique,1309618
+1995,NL,NYN,NYM,E,69,75,N,N,N,N,New York Mets,Shea Stadium,1273183
+1995,NL,PHI,PHI,E,69,75,N,N,N,N,Philadelphia Phillies,Veterans Stadium,2043598
+1995,NL,PIT,PIT,C,58,86,N,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,905517
+1995,NL,SDN,SDP,W,70,74,N,N,N,N,San Diego Padres,Jack Murphy Stadium,1041805
+1995,NL,SFN,SFG,W,67,77,N,N,N,N,San Francisco Giants,Candlestick Park,1241500
+1995,NL,SLN,STL,C,62,81,N,N,N,N,St. Louis Cardinals,Busch Stadium II,1756727
+1996,AL,BAL,BAL,E,88,74,N,Y,N,N,Baltimore Orioles,Oriole Park at Camden Yards,3646950
+1996,AL,BOS,BOS,E,85,77,N,N,N,N,Boston Red Sox,Fenway Park II,2315231
+1996,AL,CAL,ANA,W,70,91,N,N,N,N,California Angels,Anaheim Stadium,1820521
+1996,AL,CHA,CHW,C,85,77,N,N,N,N,Chicago White Sox,Comiskey Park II,1676403
+1996,AL,CLE,CLE,C,99,62,Y,N,N,N,Cleveland Indians,Jacobs Field,3318174
+1996,AL,DET,DET,E,53,109,N,N,N,N,Detroit Tigers,Tiger Stadium,1168610
+1996,AL,KCA,KCR,C,75,86,N,N,N,N,Kansas City Royals,Kauffman Stadium,1435997
+1996,AL,MIN,MIN,C,78,84,N,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,1437352
+1996,AL,ML4,MIL,C,80,82,N,N,N,N,Milwaukee Brewers,County Stadium,1327155
+1996,AL,NYA,NYY,E,92,70,Y,N,Y,Y,New York Yankees,Yankee Stadium II,2250877
+1996,AL,OAK,OAK,W,78,84,N,N,N,N,Oakland Athletics,Oakland Coliseum,1148380
+1996,AL,SEA,SEA,W,85,76,N,N,N,N,Seattle Mariners,Kingdome,2723850
+1996,AL,TEX,TEX,W,90,72,Y,N,N,N,Texas Rangers,The Ballpark at Arlington,2889020
+1996,AL,TOR,TOR,E,74,88,N,N,N,N,Toronto Blue Jays,Skydome,2559573
+1996,NL,ATL,ATL,E,96,66,Y,N,Y,N,Atlanta Braves,Atlanta-Fulton County Stadium,2901242
+1996,NL,CHN,CHC,C,76,86,N,N,N,N,Chicago Cubs,Wrigley Field,2219110
+1996,NL,CIN,CIN,C,81,81,N,N,N,N,Cincinnati Reds,Riverfront Stadium,1861428
+1996,NL,COL,COL,W,83,79,N,N,N,N,Colorado Rockies,Coors Field,3891014
+1996,NL,FLO,FLA,E,80,82,N,N,N,N,Florida Marlins,Joe Robbie Stadium,1746767
+1996,NL,HOU,HOU,C,82,80,N,N,N,N,Houston Astros,Astrodome,1975888
+1996,NL,LAN,LAD,W,90,72,N,Y,N,N,Los Angeles Dodgers,Dodger Stadium,3188454
+1996,NL,MON,WSN,E,88,74,N,N,N,N,Montreal Expos,Stade Olympique,1616709
+1996,NL,NYN,NYM,E,71,91,N,N,N,N,New York Mets,Shea Stadium,1588323
+1996,NL,PHI,PHI,E,67,95,N,N,N,N,Philadelphia Phillies,Veterans Stadium,1801677
+1996,NL,PIT,PIT,C,73,89,N,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,1332150
+1996,NL,SDN,SDP,W,91,71,Y,N,N,N,San Diego Padres,Jack Murphy Stadium,2187886
+1996,NL,SFN,SFG,W,68,94,N,N,N,N,San Francisco Giants,Candlestick Park,1413922
+1996,NL,SLN,STL,C,88,74,Y,N,N,N,St. Louis Cardinals,Busch Stadium II,2654718
+1997,AL,ANA,ANA,W,84,78,N,N,N,N,Anaheim Angels,Edison International Field,1767330
+1997,AL,BAL,BAL,E,98,64,Y,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,3711132
+1997,AL,BOS,BOS,E,78,84,N,N,N,N,Boston Red Sox,Fenway Park II,2226136
+1997,AL,CHA,CHW,C,80,81,N,N,N,N,Chicago White Sox,Comiskey Park II,1864782
+1997,AL,CLE,CLE,C,86,75,Y,N,Y,N,Cleveland Indians,Jacobs Field,3404750
+1997,AL,DET,DET,E,79,83,N,N,N,N,Detroit Tigers,Tiger Stadium,1365157
+1997,AL,KCA,KCR,C,67,94,N,N,N,N,Kansas City Royals,Kauffman Stadium,1517638
+1997,AL,MIN,MIN,C,68,94,N,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,1411064
+1997,AL,ML4,MIL,C,78,83,N,N,N,N,Milwaukee Brewers,County Stadium,1444027
+1997,AL,NYA,NYY,E,96,66,N,Y,N,N,New York Yankees,Yankee Stadium II,2580325
+1997,AL,OAK,OAK,W,65,97,N,N,N,N,Oakland Athletics,Oakland Coliseum,1264218
+1997,AL,SEA,SEA,W,90,72,Y,N,N,N,Seattle Mariners,Kingdome,3192237
+1997,AL,TEX,TEX,W,77,85,N,N,N,N,Texas Rangers,The Ballpark at Arlington,2945228
+1997,AL,TOR,TOR,E,76,86,N,N,N,N,Toronto Blue Jays,Skydome,2589297
+1997,NL,ATL,ATL,E,101,61,Y,N,N,N,Atlanta Braves,Turner Field,3464488
+1997,NL,CHN,CHC,C,68,94,N,N,N,N,Chicago Cubs,Wrigley Field,2190308
+1997,NL,CIN,CIN,C,76,86,N,N,N,N,Cincinnati Reds,Cinergy Field,1785788
+1997,NL,COL,COL,W,83,79,N,N,N,N,Colorado Rockies,Coors Field,3888453
+1997,NL,FLO,FLA,E,92,70,N,Y,Y,Y,Florida Marlins,Joe Robbie Stadium,2364387
+1997,NL,HOU,HOU,C,84,78,Y,N,N,N,Houston Astros,Astrodome,2046781
+1997,NL,LAN,LAD,W,88,74,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,3319504
+1997,NL,MON,WSN,E,78,84,N,N,N,N,Montreal Expos,Stade Olympique,1497609
+1997,NL,NYN,NYM,E,88,74,N,N,N,N,New York Mets,Shea Stadium,1766174
+1997,NL,PHI,PHI,E,68,94,N,N,N,N,Philadelphia Phillies,Veterans Stadium,1490638
+1997,NL,PIT,PIT,C,79,83,N,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,1657022
+1997,NL,SDN,SDP,W,76,86,N,N,N,N,San Diego Padres,Qualcomm Stadium,2089333
+1997,NL,SFN,SFG,W,90,72,Y,N,N,N,San Francisco Giants,3Com Park,1690869
+1997,NL,SLN,STL,C,73,89,N,N,N,N,St. Louis Cardinals,Busch Stadium II,2634014
+1998,AL,ANA,ANA,W,85,77,N,N,N,N,Anaheim Angels,Edison International Field,2519280
+1998,AL,BAL,BAL,E,79,83,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,3684650
+1998,AL,BOS,BOS,E,92,70,N,Y,N,N,Boston Red Sox,Fenway Park II,2314704
+1998,AL,CHA,CHW,C,80,82,N,N,N,N,Chicago White Sox,Comiskey Park II,1391146
+1998,AL,CLE,CLE,C,89,73,Y,N,N,N,Cleveland Indians,Jacobs Field,3467299
+1998,AL,DET,DET,C,65,97,N,N,N,N,Detroit Tigers,Tiger Stadium,1409391
+1998,AL,KCA,KCR,C,72,89,N,N,N,N,Kansas City Royals,Kauffman Stadium,1494875
+1998,AL,MIN,MIN,C,70,92,N,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,1165976
+1998,AL,NYA,NYY,E,114,48,Y,N,Y,Y,New York Yankees,Yankee Stadium II,2955193
+1998,AL,OAK,OAK,W,74,88,N,N,N,N,Oakland Athletics,Oakland Coliseum,1232343
+1998,AL,SEA,SEA,W,76,85,N,N,N,N,Seattle Mariners,Kingdome,2651511
+1998,AL,TBA,TBD,E,63,99,N,N,N,N,Tampa Bay Devil Rays,Tropicana Field,2506293
+1998,AL,TEX,TEX,W,88,74,Y,N,N,N,Texas Rangers,The Ballpark at Arlington,2927399
+1998,AL,TOR,TOR,E,88,74,N,N,N,N,Toronto Blue Jays,Skydome,2454303
+1998,NL,ARI,ARI,W,65,97,N,N,N,N,Arizona Diamondbacks,Bank One Ballpark,3610290
+1998,NL,ATL,ATL,E,106,56,Y,N,N,N,Atlanta Braves,Turner Field,3360860
+1998,NL,CHN,CHC,C,90,73,N,Y,N,N,Chicago Cubs,Wrigley Field,2623194
+1998,NL,CIN,CIN,C,77,85,N,N,N,N,Cincinnati Reds,Cinergy Field,1793649
+1998,NL,COL,COL,W,77,85,N,N,N,N,Colorado Rockies,Coors Field,3792683
+1998,NL,FLO,FLA,E,54,108,N,N,N,N,Florida Marlins,Joe Robbie Stadium,1730384
+1998,NL,HOU,HOU,C,102,60,Y,N,N,N,Houston Astros,Astrodome,2458451
+1998,NL,LAN,LAD,W,83,79,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,3089222
+1998,NL,MIL,MIL,C,74,88,N,N,N,N,Milwaukee Brewers,County Stadium,1811593
+1998,NL,MON,WSN,E,65,97,N,N,N,N,Montreal Expos,Stade Olympique,914909
+1998,NL,NYN,NYM,E,88,74,N,N,N,N,New York Mets,Shea Stadium,2287948
+1998,NL,PHI,PHI,E,75,87,N,N,N,N,Philadelphia Phillies,Veterans Stadium,1715722
+1998,NL,PIT,PIT,C,69,93,N,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,1560950
+1998,NL,SDN,SDP,W,98,64,Y,N,Y,N,San Diego Padres,Qualcomm Stadium,2555874
+1998,NL,SFN,SFG,W,89,74,N,N,N,N,San Francisco Giants,3Com Park,1925364
+1998,NL,SLN,STL,C,83,79,N,N,N,N,St. Louis Cardinals,Busch Stadium II,3195691
+1999,AL,ANA,ANA,W,70,92,N,N,N,N,Anaheim Angels,Edison International Field,2253123
+1999,AL,BAL,BAL,E,78,84,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,3433150
+1999,AL,BOS,BOS,E,94,68,N,Y,N,N,Boston Red Sox,Fenway Park II,2446162
+1999,AL,CHA,CHW,C,75,86,N,N,N,N,Chicago White Sox,Comiskey Park II,1338851
+1999,AL,CLE,CLE,C,97,65,Y,N,N,N,Cleveland Indians,Jacobs Field,3468456
+1999,AL,DET,DET,C,69,92,N,N,N,N,Detroit Tigers,Tiger Stadium,2026441
+1999,AL,KCA,KCR,C,64,97,N,N,N,N,Kansas City Royals,Kauffman Stadium,1506068
+1999,AL,MIN,MIN,C,63,97,N,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,1202829
+1999,AL,NYA,NYY,E,98,64,Y,N,Y,Y,New York Yankees,Yankee Stadium II,3292736
+1999,AL,OAK,OAK,W,87,75,N,N,N,N,Oakland Athletics,Oakland Coliseum,1434610
+1999,AL,SEA,SEA,W,79,83,N,N,N,N,Seattle Mariners,Kingdome / Safeco Field,2916346
+1999,AL,TBA,TBD,E,69,93,N,N,N,N,Tampa Bay Devil Rays,Tropicana Field,1562827
+1999,AL,TEX,TEX,W,95,67,Y,N,N,N,Texas Rangers,The Ballpark at Arlington,2771469
+1999,AL,TOR,TOR,E,84,78,N,N,N,N,Toronto Blue Jays,Skydome,2163464
+1999,NL,ARI,ARI,W,100,62,Y,N,N,N,Arizona Diamondbacks,Bank One Ballpark,3019654
+1999,NL,ATL,ATL,E,103,59,Y,N,Y,N,Atlanta Braves,Turner Field,3284897
+1999,NL,CHN,CHC,C,67,95,N,N,N,N,Chicago Cubs,Wrigley Field,2813854
+1999,NL,CIN,CIN,C,96,67,N,N,N,N,Cincinnati Reds,Cinergy Field,2061222
+1999,NL,COL,COL,W,72,90,N,N,N,N,Colorado Rockies,Coors Field,3481065
+1999,NL,FLO,FLA,E,64,98,N,N,N,N,Florida Marlins,Pro Player Stadium,1369421
+1999,NL,HOU,HOU,C,97,65,Y,N,N,N,Houston Astros,Astrodome,2706017
+1999,NL,LAN,LAD,W,77,85,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,3095346
+1999,NL,MIL,MIL,C,74,87,N,N,N,N,Milwaukee Brewers,County Stadium,1701796
+1999,NL,MON,WSN,E,68,94,N,N,N,N,Montreal Expos,Stade Olympique,773277
+1999,NL,NYN,NYM,E,97,66,N,Y,N,N,New York Mets,Shea Stadium,2725668
+1999,NL,PHI,PHI,E,77,85,N,N,N,N,Philadelphia Phillies,Veterans Stadium,1825337
+1999,NL,PIT,PIT,C,78,83,N,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,1638023
+1999,NL,SDN,SDP,W,74,88,N,N,N,N,San Diego Padres,Qualcomm Stadium,2523538
+1999,NL,SFN,SFG,W,86,76,N,N,N,N,San Francisco Giants,3Com Park,2078399
+1999,NL,SLN,STL,C,75,86,N,N,N,N,St. Louis Cardinals,Busch Stadium II,3225334
+2000,AL,ANA,ANA,W,82,80,N,N,N,N,Anaheim Angels,Edison International Field,2066982
+2000,AL,BAL,BAL,E,74,88,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,3297031
+2000,AL,BOS,BOS,E,85,77,N,N,N,N,Boston Red Sox,Fenway Park II,2585895
+2000,AL,CHA,CHW,C,95,67,Y,N,N,N,Chicago White Sox,Comiskey Park II,1947799
+2000,AL,CLE,CLE,C,90,72,N,N,N,N,Cleveland Indians,Jacobs Field,3456278
+2000,AL,DET,DET,C,79,83,N,N,N,N,Detroit Tigers,Comerica Park,2438617
+2000,AL,KCA,KCR,C,77,85,N,N,N,N,Kansas City Royals,Kauffman Stadium,1564847
+2000,AL,MIN,MIN,C,69,93,N,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,1000760
+2000,AL,NYA,NYY,E,87,74,Y,N,Y,Y,New York Yankees,Yankee Stadium II,3055435
+2000,AL,OAK,OAK,W,91,70,Y,N,N,N,Oakland Athletics,Oakland Coliseum,1603744
+2000,AL,SEA,SEA,W,91,71,N,Y,N,N,Seattle Mariners,Safeco Field,2914624
+2000,AL,TBA,TBD,E,69,92,N,N,N,N,Tampa Bay Devil Rays,Tropicana Field,1449673
+2000,AL,TEX,TEX,W,71,91,N,N,N,N,Texas Rangers,The Ballpark at Arlington,2588401
+2000,AL,TOR,TOR,E,83,79,N,N,N,N,Toronto Blue Jays,Skydome,1705712
+2000,NL,ARI,ARI,W,85,77,N,N,N,N,Arizona Diamondbacks,Bank One Ballpark,2942251
+2000,NL,ATL,ATL,E,95,67,Y,N,N,N,Atlanta Braves,Turner Field,3234304
+2000,NL,CHN,CHC,C,65,97,N,N,N,N,Chicago Cubs,Wrigley Field,2789511
+2000,NL,CIN,CIN,C,85,77,N,N,N,N,Cincinnati Reds,Cinergy Field,2577371
+2000,NL,COL,COL,W,82,80,N,N,N,N,Colorado Rockies,Coors Field,3295129
+2000,NL,FLO,FLA,E,79,82,N,N,N,N,Florida Marlins,Pro Player Stadium,1218326
+2000,NL,HOU,HOU,C,72,90,N,N,N,N,Houston Astros,Enron Field,3056139
+2000,NL,LAN,LAD,W,86,76,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,2880242
+2000,NL,MIL,MIL,C,73,89,N,N,N,N,Milwaukee Brewers,County Stadium,1573621
+2000,NL,MON,WSN,E,67,95,N,N,N,N,Montreal Expos,Stade Olympique,926272
+2000,NL,NYN,NYM,E,94,68,N,Y,Y,N,New York Mets,Shea Stadium,2820530
+2000,NL,PHI,PHI,E,65,97,N,N,N,N,Philadelphia Phillies,Veterans Stadium,1612769
+2000,NL,PIT,PIT,C,69,93,N,N,N,N,Pittsburgh Pirates,Three Rivers Stadium,1748908
+2000,NL,SDN,SDP,W,76,86,N,N,N,N,San Diego Padres,Qualcomm Stadium,2352443
+2000,NL,SFN,SFG,W,97,65,Y,N,N,N,San Francisco Giants,PacBell Park,3318800
+2000,NL,SLN,STL,C,95,67,Y,N,N,N,St. Louis Cardinals,Busch Stadium II,3336493
+2001,AL,ANA,ANA,W,75,87,N,N,N,N,Anaheim Angels,Edison International Field,2000919
+2001,AL,BAL,BAL,E,63,98,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,3094841
+2001,AL,BOS,BOS,E,82,79,N,N,N,N,Boston Red Sox,Fenway Park II,2625333
+2001,AL,CHA,CHW,C,83,79,N,N,N,N,Chicago White Sox,Comiskey Park II,1766172
+2001,AL,CLE,CLE,C,91,71,Y,N,N,N,Cleveland Indians,Jacobs Field,3175523
+2001,AL,DET,DET,C,66,96,N,N,N,N,Detroit Tigers,Comerica Park,1921305
+2001,AL,KCA,KCR,C,65,97,N,N,N,N,Kansas City Royals,Kauffman Stadium,1536371
+2001,AL,MIN,MIN,C,85,77,N,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,1782929
+2001,AL,NYA,NYY,E,95,65,Y,N,Y,N,New York Yankees,Yankee Stadium II,3264907
+2001,AL,OAK,OAK,W,102,60,N,Y,N,N,Oakland Athletics,Oakland Coliseum,2133277
+2001,AL,SEA,SEA,W,116,46,Y,N,N,N,Seattle Mariners,Safeco Field,3507326
+2001,AL,TBA,TBD,E,62,100,N,N,N,N,Tampa Bay Devil Rays,Tropicana Field,1298365
+2001,AL,TEX,TEX,W,73,89,N,N,N,N,Texas Rangers,The Ballpark at Arlington,2831021
+2001,AL,TOR,TOR,E,80,82,N,N,N,N,Toronto Blue Jays,Skydome,1915438
+2001,NL,ARI,ARI,W,92,70,Y,N,Y,Y,Arizona Diamondbacks,Bank One Ballpark,2736451
+2001,NL,ATL,ATL,E,88,74,Y,N,N,N,Atlanta Braves,Turner Field,2823530
+2001,NL,CHN,CHC,C,88,74,N,N,N,N,Chicago Cubs,Wrigley Field,2779465
+2001,NL,CIN,CIN,C,66,96,N,N,N,N,Cincinnati Reds,Cinergy Field,1879757
+2001,NL,COL,COL,W,73,89,N,N,N,N,Colorado Rockies,Coors Field,3166821
+2001,NL,FLO,FLA,E,76,86,N,N,N,N,Florida Marlins,Pro Player Stadium,1261226
+2001,NL,HOU,HOU,C,93,69,Y,N,N,N,Houston Astros,Enron Field,2904277
+2001,NL,LAN,LAD,W,86,76,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,3017143
+2001,NL,MIL,MIL,C,68,94,N,N,N,N,Milwaukee Brewers,Miller Park,2811041
+2001,NL,MON,WSN,E,68,94,N,N,N,N,Montreal Expos,Stade Olympique,642745
+2001,NL,NYN,NYM,E,82,80,N,N,N,N,New York Mets,Shea Stadium,2658330
+2001,NL,PHI,PHI,E,86,76,N,N,N,N,Philadelphia Phillies,Veterans Stadium,1782054
+2001,NL,PIT,PIT,C,62,100,N,N,N,N,Pittsburgh Pirates,PNC Park,2464870
+2001,NL,SDN,SDP,W,79,83,N,N,N,N,San Diego Padres,Qualcomm Stadium,2378128
+2001,NL,SFN,SFG,W,90,72,N,N,N,N,San Francisco Giants,PacBell Park,3311958
+2001,NL,SLN,STL,C,93,69,N,Y,N,N,St. Louis Cardinals,Busch Stadium II,3109578
+2002,AL,ANA,ANA,W,99,63,N,Y,Y,Y,Anaheim Angels,Edison International Field,2305547
+2002,AL,BAL,BAL,E,67,95,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2682439
+2002,AL,BOS,BOS,E,93,69,N,N,N,N,Boston Red Sox,Fenway Park II,2650862
+2002,AL,CHA,CHW,C,81,81,N,N,N,N,Chicago White Sox,Comiskey Park II,1676911
+2002,AL,CLE,CLE,C,74,88,N,N,N,N,Cleveland Indians,Jacobs Field,2616940
+2002,AL,DET,DET,C,55,106,N,N,N,N,Detroit Tigers,Comerica Park,1503623
+2002,AL,KCA,KCR,C,62,100,N,N,N,N,Kansas City Royals,Kauffman Stadium,1323036
+2002,AL,MIN,MIN,C,94,67,Y,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,1924473
+2002,AL,NYA,NYY,E,103,58,Y,N,N,N,New York Yankees,Yankee Stadium II,3465807
+2002,AL,OAK,OAK,W,103,59,Y,N,N,N,Oakland Athletics,Oakland Coliseum,2169811
+2002,AL,SEA,SEA,W,93,69,N,N,N,N,Seattle Mariners,Safeco Field,3542938
+2002,AL,TBA,TBD,E,55,106,N,N,N,N,Tampa Bay Devil Rays,Tropicana Field,1065742
+2002,AL,TEX,TEX,W,72,90,N,N,N,N,Texas Rangers,The Ballpark at Arlington,2352397
+2002,AL,TOR,TOR,E,78,84,N,N,N,N,Toronto Blue Jays,Skydome,1637900
+2002,NL,ARI,ARI,W,98,64,Y,N,N,N,Arizona Diamondbacks,Bank One Ballpark,3198977
+2002,NL,ATL,ATL,E,101,59,Y,N,N,N,Atlanta Braves,Turner Field,2603484
+2002,NL,CHN,CHC,C,67,95,N,N,N,N,Chicago Cubs,Wrigley Field,2693096
+2002,NL,CIN,CIN,C,78,84,N,N,N,N,Cincinnati Reds,Cinergy Field,1855787
+2002,NL,COL,COL,W,73,89,N,N,N,N,Colorado Rockies,Coors Field,2737838
+2002,NL,FLO,FLA,E,79,83,N,N,N,N,Florida Marlins,Pro Player Stadium,813118
+2002,NL,HOU,HOU,C,84,78,N,N,N,N,Houston Astros,Minute Maid Park,2517357
+2002,NL,LAN,LAD,W,92,70,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,3131255
+2002,NL,MIL,MIL,C,56,106,N,N,N,N,Milwaukee Brewers,Miller Park,1969153
+2002,NL,MON,WSN,E,83,79,N,N,N,N,Montreal Expos,Stade Olympique,812045
+2002,NL,NYN,NYM,E,75,86,N,N,N,N,New York Mets,Shea Stadium,2804838
+2002,NL,PHI,PHI,E,80,81,N,N,N,N,Philadelphia Phillies,Veterans Stadium,1618467
+2002,NL,PIT,PIT,C,72,89,N,N,N,N,Pittsburgh Pirates,PNC Park,1784988
+2002,NL,SDN,SDP,W,66,96,N,N,N,N,San Diego Padres,Qualcomm Stadium,2220601
+2002,NL,SFN,SFG,W,95,66,N,Y,Y,N,San Francisco Giants,PacBell Park,3253203
+2002,NL,SLN,STL,C,97,65,Y,N,N,N,St. Louis Cardinals,Busch Stadium II,3011756
+2003,AL,ANA,ANA,W,77,85,N,N,N,N,Anaheim Angels,Edison International Field,3061094
+2003,AL,BAL,BAL,E,71,91,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2454523
+2003,AL,BOS,BOS,E,95,67,N,Y,N,N,Boston Red Sox,Fenway Park II,2724165
+2003,AL,CHA,CHW,C,86,76,N,N,N,N,Chicago White Sox,U.S. Cellular Field,1939524
+2003,AL,CLE,CLE,C,68,94,N,N,N,N,Cleveland Indians,Jacobs Field,1730002
+2003,AL,DET,DET,C,43,119,N,N,N,N,Detroit Tigers,Comerica Park,1368245
+2003,AL,KCA,KCR,C,83,79,N,N,N,N,Kansas City Royals,Kauffman Stadium,1779895
+2003,AL,MIN,MIN,C,90,72,Y,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,1946011
+2003,AL,NYA,NYY,E,101,61,Y,N,Y,N,New York Yankees,Yankee Stadium II,3465600
+2003,AL,OAK,OAK,W,96,66,Y,N,N,N,Oakland Athletics,Oakland Coliseum,2216596
+2003,AL,SEA,SEA,W,93,69,N,N,N,N,Seattle Mariners,Safeco Field,3268509
+2003,AL,TBA,TBD,E,63,99,N,N,N,N,Tampa Bay Devil Rays,Tropicana Field,1058695
+2003,AL,TEX,TEX,W,71,91,N,N,N,N,Texas Rangers,The Ballpark at Arlington,2094394
+2003,AL,TOR,TOR,E,86,76,N,N,N,N,Toronto Blue Jays,Skydome,1799458
+2003,NL,ARI,ARI,W,84,78,N,N,N,N,Arizona Diamondbacks,Bank One Ballpark,2805542
+2003,NL,ATL,ATL,E,101,61,Y,N,N,N,Atlanta Braves,Turner Field,2401084
+2003,NL,CHN,CHC,C,88,74,Y,N,N,N,Chicago Cubs,Wrigley Field,2962630
+2003,NL,CIN,CIN,C,69,93,N,N,N,N,Cincinnati Reds,Great American Ball Park,2355259
+2003,NL,COL,COL,W,74,88,N,N,N,N,Colorado Rockies,Coors Field,2334085
+2003,NL,FLO,FLA,E,91,71,N,Y,Y,Y,Florida Marlins,Pro Player Stadium,1303215
+2003,NL,HOU,HOU,C,87,75,N,N,N,N,Houston Astros,Minute Maid Park,2454241
+2003,NL,LAN,LAD,W,85,77,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,3138626
+2003,NL,MIL,MIL,C,68,94,N,N,N,N,Milwaukee Brewers,Miller Park,1700354
+2003,NL,MON,WSN,E,83,79,N,N,N,N,Montreal Expos,Stade Olympique/Hiram Bithorn Stadium,1025639
+2003,NL,NYN,NYM,E,66,95,N,N,N,N,New York Mets,Shea Stadium,2140599
+2003,NL,PHI,PHI,E,86,76,N,N,N,N,Philadelphia Phillies,Veterans Stadium,2259948
+2003,NL,PIT,PIT,C,75,87,N,N,N,N,Pittsburgh Pirates,PNC Park,1636751
+2003,NL,SDN,SDP,W,64,98,N,N,N,N,San Diego Padres,Qualcomm Stadium,2030084
+2003,NL,SFN,SFG,W,100,61,Y,N,N,N,San Francisco Giants,PacBell Park,3264898
+2003,NL,SLN,STL,C,85,77,N,N,N,N,St. Louis Cardinals,Busch Stadium II,2910386
+2004,AL,ANA,ANA,W,92,70,Y,N,N,N,Anaheim Angels,Angels Stadium of Anaheim,3375677
+2004,AL,BAL,BAL,E,78,84,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2744018
+2004,AL,BOS,BOS,E,98,64,N,Y,Y,Y,Boston Red Sox,Fenway Park II,2837294
+2004,AL,CHA,CHW,C,83,79,N,N,N,N,Chicago White Sox,U.S. Cellular Field,1930537
+2004,AL,CLE,CLE,C,80,82,N,N,N,N,Cleveland Indians,Jacobs Field,1814401
+2004,AL,DET,DET,C,72,90,N,N,N,N,Detroit Tigers,Comerica Park,1917004
+2004,AL,KCA,KCR,C,58,104,N,N,N,N,Kansas City Royals,Kauffman Stadium,1661478
+2004,AL,MIN,MIN,C,92,70,Y,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,1911490
+2004,AL,NYA,NYY,E,101,61,Y,N,N,N,New York Yankees,Yankee Stadium II,3775292
+2004,AL,OAK,OAK,W,91,71,N,N,N,N,Oakland Athletics,Network Associates Coliseum,2201516
+2004,AL,SEA,SEA,W,63,99,N,N,N,N,Seattle Mariners,Safeco Field,2940731
+2004,AL,TBA,TBD,E,70,91,N,N,N,N,Tampa Bay Devil Rays,Tropicana Field,1274911
+2004,AL,TEX,TEX,W,89,73,N,N,N,N,Texas Rangers,The Ballpark at Arlington,2513685
+2004,AL,TOR,TOR,E,67,94,N,N,N,N,Toronto Blue Jays,Skydome,1900041
+2004,NL,ARI,ARI,W,51,111,N,N,N,N,Arizona Diamondbacks,Bank One Ballpark,2519560
+2004,NL,ATL,ATL,E,96,66,Y,N,N,N,Atlanta Braves,Turner Field,2327565
+2004,NL,CHN,CHC,C,89,73,N,N,N,N,Chicago Cubs,Wrigley Field,3170154
+2004,NL,CIN,CIN,C,76,86,N,N,N,N,Cincinnati Reds,Great American Ball Park,2287250
+2004,NL,COL,COL,W,68,94,N,N,N,N,Colorado Rockies,Coors Field,2338069
+2004,NL,FLO,FLA,E,83,79,N,N,N,N,Florida Marlins,Pro Player Stadium,1723105
+2004,NL,HOU,HOU,C,92,70,N,Y,N,N,Houston Astros,Minute Maid Park,3087872
+2004,NL,LAN,LAD,W,93,69,Y,N,N,N,Los Angeles Dodgers,Dodger Stadium,3488283
+2004,NL,MIL,MIL,C,67,94,N,N,N,N,Milwaukee Brewers,Miller Park,2062382
+2004,NL,MON,WSN,E,67,95,N,N,N,N,Montreal Expos,Stade Olympique/Hiram Bithorn Stadium,749550
+2004,NL,NYN,NYM,E,71,91,N,N,N,N,New York Mets,Shea Stadium,2318951
+2004,NL,PHI,PHI,E,86,76,N,N,N,N,Philadelphia Phillies,Citizens Bank Park,3250092
+2004,NL,PIT,PIT,C,72,89,N,N,N,N,Pittsburgh Pirates,PNC Park,1580031
+2004,NL,SDN,SDP,W,87,75,N,N,N,N,San Diego Padres,Petco Park,3016752
+2004,NL,SFN,SFG,W,91,71,N,N,N,N,San Francisco Giants,SBC Park,3256854
+2004,NL,SLN,STL,C,105,57,Y,N,Y,N,St. Louis Cardinals,Busch Stadium II,3048427
+2005,AL,BAL,BAL,E,74,88,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2624740
+2005,AL,BOS,BOS,E,95,67,N,Y,N,N,Boston Red Sox,Fenway Park II,2847888
+2005,AL,CHA,CHW,C,99,63,Y,N,Y,Y,Chicago White Sox,U.S. Cellular Field,2342833
+2005,AL,CLE,CLE,C,93,69,N,N,N,N,Cleveland Indians,Jacobs Field,2013763
+2005,AL,DET,DET,C,71,91,N,N,N,N,Detroit Tigers,Comerica Park,2024431
+2005,AL,KCA,KCR,C,56,106,N,N,N,N,Kansas City Royals,Kauffman Stadium,1371181
+2005,AL,LAA,ANA,W,95,67,Y,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium,3404686
+2005,AL,MIN,MIN,C,83,79,N,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,2034243
+2005,AL,NYA,NYY,E,95,67,Y,N,N,N,New York Yankees,Yankee Stadium II,4090696
+2005,AL,OAK,OAK,W,88,74,N,N,N,N,Oakland Athletics,McAfee Coliseum,2109118
+2005,AL,SEA,SEA,W,69,93,N,N,N,N,Seattle Mariners,Safeco Field,2725459
+2005,AL,TBA,TBD,E,67,95,N,N,N,N,Tampa Bay Devil Rays,Tropicana Field,1141669
+2005,AL,TEX,TEX,W,79,83,N,N,N,N,Texas Rangers,Ameriquest Field,2525221
+2005,AL,TOR,TOR,E,80,82,N,N,N,N,Toronto Blue Jays,Rogers Centre,2014995
+2005,NL,ARI,ARI,W,77,85,N,N,N,N,Arizona Diamondbacks,Bank One Ballpark,2059424
+2005,NL,ATL,ATL,E,90,72,Y,N,N,N,Atlanta Braves,Turner Field,2521167
+2005,NL,CHN,CHC,C,79,83,N,N,N,N,Chicago Cubs,Wrigley Field,3099992
+2005,NL,CIN,CIN,C,73,89,N,N,N,N,Cincinnati Reds,Great American Ball Park,1943067
+2005,NL,COL,COL,W,67,95,N,N,N,N,Colorado Rockies,Coors Field,1914389
+2005,NL,FLO,FLA,E,83,79,N,N,N,N,Florida Marlins,Dolphin Stadium,1852608
+2005,NL,HOU,HOU,C,89,73,N,Y,Y,N,Houston Astros,Minute Maid Park,2804760
+2005,NL,LAN,LAD,W,71,91,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,3603646
+2005,NL,MIL,MIL,C,81,81,N,N,N,N,Milwaukee Brewers,Miller Park,2211023
+2005,NL,NYN,NYM,E,83,79,N,N,N,N,New York Mets,Shea Stadium,2829929
+2005,NL,PHI,PHI,E,88,74,N,N,N,N,Philadelphia Phillies,Citizens Bank Park,2665304
+2005,NL,PIT,PIT,C,67,95,N,N,N,N,Pittsburgh Pirates,PNC Park,1817245
+2005,NL,SDN,SDP,W,82,80,Y,N,N,N,San Diego Padres,Petco Park,2869787
+2005,NL,SFN,SFG,W,75,87,N,N,N,N,San Francisco Giants,SBC Park,3181023
+2005,NL,SLN,STL,C,100,62,Y,N,N,N,St. Louis Cardinals,Busch Stadium II,3538988
+2005,NL,WAS,WSN,E,81,81,N,N,N,N,Washington Nationals,R.F.K. Stadium,2731993
+2006,AL,BAL,BAL,E,70,92,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2153139
+2006,AL,BOS,BOS,E,86,76,N,N,N,N,Boston Red Sox,Fenway Park II,2930588
+2006,AL,CHA,CHW,C,90,72,N,N,N,N,Chicago White Sox,U.S. Cellular Field,2957414
+2006,AL,CLE,CLE,C,78,84,N,N,N,N,Cleveland Indians,Jacobs Field,1997995
+2006,AL,DET,DET,C,95,67,N,Y,Y,N,Detroit Tigers,Comerica Park,2595937
+2006,AL,KCA,KCR,C,62,100,N,N,N,N,Kansas City Royals,Kauffman Stadium,1372638
+2006,AL,LAA,ANA,W,89,73,N,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium,3406790
+2006,AL,MIN,MIN,C,96,66,Y,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,2285018
+2006,AL,NYA,NYY,E,97,65,Y,N,N,N,New York Yankees,Yankee Stadium II,4248067
+2006,AL,OAK,OAK,W,93,69,Y,N,N,N,Oakland Athletics,McAfee Coliseum,1976625
+2006,AL,SEA,SEA,W,78,84,N,N,N,N,Seattle Mariners,Safeco Field,2481165
+2006,AL,TBA,TBD,E,61,101,N,N,N,N,Tampa Bay Devil Rays,Tropicana Field,1368950
+2006,AL,TEX,TEX,W,80,82,N,N,N,N,Texas Rangers,Ameriquest Field,2388757
+2006,AL,TOR,TOR,E,87,75,N,N,N,N,Toronto Blue Jays,Rogers Centre,2302212
+2006,NL,ARI,ARI,W,76,86,N,N,N,N,Arizona Diamondbacks,Chase Field,2091685
+2006,NL,ATL,ATL,E,79,83,N,N,N,N,Atlanta Braves,Turner Field,2550524
+2006,NL,CHN,CHC,C,66,96,N,N,N,N,Chicago Cubs,Wrigley Field,3123215
+2006,NL,CIN,CIN,C,80,82,N,N,N,N,Cincinnati Reds,Great American Ball Park,2134607
+2006,NL,COL,COL,W,76,86,N,N,N,N,Colorado Rockies,Coors Field,2104362
+2006,NL,FLO,FLA,E,78,84,N,N,N,N,Florida Marlins,Dolphin Stadium,1164134
+2006,NL,HOU,HOU,C,82,80,N,N,N,N,Houston Astros,Minute Maid Park,3022763
+2006,NL,LAN,LAD,W,88,74,N,Y,N,N,Los Angeles Dodgers,Dodger Stadium,3758545
+2006,NL,MIL,MIL,C,75,87,N,N,N,N,Milwaukee Brewers,Miller Park,2335643
+2006,NL,NYN,NYM,E,97,65,Y,N,N,N,New York Mets,Shea Stadium,3379535
+2006,NL,PHI,PHI,E,85,77,N,N,N,N,Philadelphia Phillies,Citizens Bank Park,2701815
+2006,NL,PIT,PIT,C,67,95,N,N,N,N,Pittsburgh Pirates,PNC Park,1861549
+2006,NL,SDN,SDP,W,88,74,Y,N,N,N,San Diego Padres,Petco Park,2659757
+2006,NL,SFN,SFG,W,76,85,N,N,N,N,San Francisco Giants,AT&T Park,3130313
+2006,NL,SLN,STL,C,83,78,Y,N,Y,Y,St. Louis Cardinals,Busch Stadium III,3407104
+2006,NL,WAS,WSN,E,71,91,N,N,N,N,Washington Nationals,R.F.K. Stadium,2153056
+2007,AL,BAL,BAL,E,69,93,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2164822
+2007,AL,BOS,BOS,E,96,66,Y,N,Y,Y,Boston Red Sox,Fenway Park II,2970755
+2007,AL,CHA,CHW,C,72,90,N,N,N,N,Chicago White Sox,U.S. Cellular Field,2684395
+2007,AL,CLE,CLE,C,96,66,Y,N,N,N,Cleveland Indians,Jacobs Field,2275912
+2007,AL,DET,DET,C,88,74,N,N,N,N,Detroit Tigers,Comerica Park,3047133
+2007,AL,KCA,KCR,C,69,93,N,N,N,N,Kansas City Royals,Kauffman Stadium,1616867
+2007,AL,LAA,ANA,W,94,68,Y,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium,3365632
+2007,AL,MIN,MIN,C,79,83,N,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,2296383
+2007,AL,NYA,NYY,E,94,68,N,Y,N,N,New York Yankees,Yankee Stadium II,4271083
+2007,AL,OAK,OAK,W,76,86,N,N,N,N,Oakland Athletics,McAfee Coliseum,1921844
+2007,AL,SEA,SEA,W,88,74,N,N,N,N,Seattle Mariners,Safeco Field,2672223
+2007,AL,TBA,TBD,E,66,96,N,N,N,N,Tampa Bay Devil Rays,Tropicana Field,1387603
+2007,AL,TEX,TEX,W,75,87,N,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,2353862
+2007,AL,TOR,TOR,E,83,79,N,N,N,N,Toronto Blue Jays,Rogers Centre,2360644
+2007,NL,ARI,ARI,W,90,72,Y,N,N,N,Arizona Diamondbacks,Chase Field,2325249
+2007,NL,ATL,ATL,E,84,78,N,N,N,N,Atlanta Braves,Turner Field,2745207
+2007,NL,CHN,CHC,C,85,77,Y,N,N,N,Chicago Cubs,Wrigley Field,3252462
+2007,NL,CIN,CIN,C,72,90,N,N,N,N,Cincinnati Reds,Great American Ball Park,2058593
+2007,NL,COL,COL,W,90,73,N,Y,Y,N,Colorado Rockies,Coors Field,2376250
+2007,NL,FLO,FLA,E,71,91,N,N,N,N,Florida Marlins,Dolphin Stadium,1370511
+2007,NL,HOU,HOU,C,73,89,N,N,N,N,Houston Astros,Minute Maid Park,3020405
+2007,NL,LAN,LAD,W,82,80,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,3857036
+2007,NL,MIL,MIL,C,83,79,N,N,N,N,Milwaukee Brewers,Miller Park,2869144
+2007,NL,NYN,NYM,E,88,74,N,N,N,N,New York Mets,Shea Stadium,3853955
+2007,NL,PHI,PHI,E,89,73,Y,N,N,N,Philadelphia Phillies,Citizens Bank Park,3108325
+2007,NL,PIT,PIT,C,68,94,N,N,N,N,Pittsburgh Pirates,PNC Park,1749142
+2007,NL,SDN,SDP,W,89,74,N,N,N,N,San Diego Padres,Petco Park,2790074
+2007,NL,SFN,SFG,W,71,91,N,N,N,N,San Francisco Giants,AT&T Park,3223215
+2007,NL,SLN,STL,C,78,84,N,N,N,N,St. Louis Cardinals,Busch Stadium III,3552180
+2007,NL,WAS,WSN,E,73,89,N,N,N,N,Washington Nationals,R.F.K. Stadium,1943812
+2008,AL,BAL,BAL,E,68,93,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,1950075
+2008,AL,BOS,BOS,E,95,67,N,Y,N,N,Boston Red Sox,Fenway Park II,3048250
+2008,AL,CHA,CHW,C,89,74,Y,N,N,N,Chicago White Sox,U.S. Cellular Field,2500648
+2008,AL,CLE,CLE,C,81,81,N,N,N,N,Cleveland Indians,Jacobs Field,2169760
+2008,AL,DET,DET,C,74,88,N,N,N,N,Detroit Tigers,Comerica Park,3202645
+2008,AL,KCA,KCR,C,75,87,N,N,N,N,Kansas City Royals,Kauffman Stadium,1578922
+2008,AL,LAA,ANA,W,100,62,Y,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium,3336747
+2008,AL,MIN,MIN,C,88,75,N,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,2302431
+2008,AL,NYA,NYY,E,89,73,N,N,N,N,New York Yankees,Yankee Stadium II,4298655
+2008,AL,OAK,OAK,W,75,86,N,N,N,N,Oakland Athletics,McAfee Coliseum,1665256
+2008,AL,SEA,SEA,W,61,101,N,N,N,N,Seattle Mariners,Safeco Field,2329702
+2008,AL,TBA,TBD,E,97,65,Y,N,Y,N,Tampa Bay Rays,Tropicana Field,1811986
+2008,AL,TEX,TEX,W,79,83,N,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,1945677
+2008,AL,TOR,TOR,E,86,76,N,N,N,N,Toronto Blue Jays,Rogers Centre,2399786
+2008,NL,ARI,ARI,W,82,80,N,N,N,N,Arizona Diamondbacks,Chase Field,2509924
+2008,NL,ATL,ATL,E,72,90,N,N,N,N,Atlanta Braves,Turner Field,2532834
+2008,NL,CHN,CHC,C,97,64,Y,N,N,N,Chicago Cubs,Wrigley Field,3300200
+2008,NL,CIN,CIN,C,74,88,N,N,N,N,Cincinnati Reds,Great American Ball Park,2058632
+2008,NL,COL,COL,W,74,88,N,N,N,N,Colorado Rockies,Coors Field,2650218
+2008,NL,FLO,FLA,E,84,77,N,N,N,N,Florida Marlins,Dolphin Stadium,1335076
+2008,NL,HOU,HOU,C,86,75,N,N,N,N,Houston Astros,Minute Maid Park,2779487
+2008,NL,LAN,LAD,W,84,78,Y,N,N,N,Los Angeles Dodgers,Dodger Stadium,3730553
+2008,NL,MIL,MIL,C,90,72,N,Y,N,N,Milwaukee Brewers,Miller Park,3068458
+2008,NL,NYN,NYM,E,89,73,N,N,N,N,New York Mets,Shea Stadium,4042045
+2008,NL,PHI,PHI,E,92,70,Y,N,Y,Y,Philadelphia Phillies,Citizens Bank Park,3422583
+2008,NL,PIT,PIT,C,67,95,N,N,N,N,Pittsburgh Pirates,PNC Park,1609076
+2008,NL,SDN,SDP,W,63,99,N,N,N,N,San Diego Padres,Petco Park,2427535
+2008,NL,SFN,SFG,W,72,90,N,N,N,N,San Francisco Giants,AT&T Park,2863837
+2008,NL,SLN,STL,C,86,76,N,N,N,N,St. Louis Cardinals,Busch Stadium III,3432917
+2008,NL,WAS,WSN,E,59,102,N,N,N,N,Washington Nationals,Nationals Park,2320400
+2009,AL,BAL,BAL,E,64,98,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,1907163
+2009,AL,BOS,BOS,E,95,67,N,Y,N,N,Boston Red Sox,Fenway Park II,3062699
+2009,AL,CHA,CHW,C,79,83,N,N,N,N,Chicago White Sox,U.S. Cellular Field,2284163
+2009,AL,CLE,CLE,C,65,97,N,N,N,N,Cleveland Indians,Jacobs Field,1766242
+2009,AL,DET,DET,C,86,77,N,N,N,N,Detroit Tigers,Comerica Park,2567165
+2009,AL,KCA,KCR,C,65,97,N,N,N,N,Kansas City Royals,Kauffman Stadium,1797891
+2009,AL,LAA,ANA,W,97,65,Y,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium,3240386
+2009,AL,MIN,MIN,C,87,76,Y,N,N,N,Minnesota Twins,Hubert H Humphrey Metrodome,2416237
+2009,AL,NYA,NYY,E,103,59,Y,N,Y,Y,New York Yankees,Yankee Stadium III,3719358
+2009,AL,OAK,OAK,W,75,87,N,N,N,N,Oakland Athletics,Oakland-Alameda Country Coliseum,1408783
+2009,AL,SEA,SEA,W,85,77,N,N,N,N,Seattle Mariners,Safeco Field,2195533
+2009,AL,TBA,TBD,E,84,78,N,N,N,N,Tampa Bay Rays,Tropicana Field,1874962
+2009,AL,TEX,TEX,W,87,75,N,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,2156016
+2009,AL,TOR,TOR,E,75,87,N,N,N,N,Toronto Blue Jays,Rogers Centre,1876129
+2009,NL,ARI,ARI,W,70,92,N,N,N,N,Arizona Diamondbacks,Chase Field,2128765
+2009,NL,ATL,ATL,E,86,76,N,N,N,N,Atlanta Braves,Turner Field,2373631
+2009,NL,CHN,CHC,C,83,78,N,N,N,N,Chicago Cubs,Wrigley Field,3168859
+2009,NL,CIN,CIN,C,78,84,N,N,N,N,Cincinnati Reds,Great American Ball Park,1747919
+2009,NL,COL,COL,W,92,70,N,Y,N,N,Colorado Rockies,Coors Field,2665080
+2009,NL,FLO,FLA,E,87,75,N,N,N,N,Florida Marlins,Dolphin Stadium,1464109
+2009,NL,HOU,HOU,C,74,88,N,N,N,N,Houston Astros,Minute Maid Park,2521076
+2009,NL,LAN,LAD,W,95,67,Y,N,N,N,Los Angeles Dodgers,Dodger Stadium,3761655
+2009,NL,MIL,MIL,C,80,82,N,N,N,N,Milwaukee Brewers,Miller Park,3037451
+2009,NL,NYN,NYM,E,70,92,N,N,N,N,New York Mets,Citi Field,3168571
+2009,NL,PHI,PHI,E,93,69,Y,N,Y,N,Philadelphia Phillies,Citizens Bank Park,3600693
+2009,NL,PIT,PIT,C,62,99,N,N,N,N,Pittsburgh Pirates,PNC Park,1577853
+2009,NL,SDN,SDP,W,75,87,N,N,N,N,San Diego Padres,Petco Park,1919603
+2009,NL,SFN,SFG,W,88,74,N,N,N,N,San Francisco Giants,AT&T Park,2862110
+2009,NL,SLN,STL,C,91,71,Y,N,N,N,St. Louis Cardinals,Busch Stadium III,3343252
+2009,NL,WAS,WSN,E,59,103,N,N,N,N,Washington Nationals,Nationals Park,1817226
+2010,AL,BAL,BAL,E,66,96,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,1733018
+2010,AL,BOS,BOS,E,89,73,N,N,N,N,Boston Red Sox,Fenway Park II,3046443
+2010,AL,CHA,CHW,C,88,74,N,N,N,N,Chicago White Sox,U.S. Cellular Field,2194378
+2010,AL,CLE,CLE,C,69,93,N,N,N,N,Cleveland Indians,Jacobs Field,1394812
+2010,AL,DET,DET,C,81,81,N,N,N,N,Detroit Tigers,Comerica Park,2461237
+2010,AL,KCA,KCR,C,67,95,N,N,N,N,Kansas City Royals,Kauffman Stadium,1615324
+2010,AL,LAA,ANA,W,80,82,N,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium,3250816
+2010,AL,MIN,MIN,C,94,68,Y,N,N,N,Minnesota Twins,Target Field,3223640
+2010,AL,NYA,NYY,E,95,67,N,Y,N,N,New York Yankees,Yankee Stadium III,3765807
+2010,AL,OAK,OAK,W,81,81,N,N,N,N,Oakland Athletics,Oakland-Alameda Country Coliseum,1418391
+2010,AL,SEA,SEA,W,61,101,N,N,N,N,Seattle Mariners,Safeco Field,2085488
+2010,AL,TBA,TBD,E,96,66,Y,N,N,N,Tampa Bay Rays,Tropicana Field,1843445
+2010,AL,TEX,TEX,W,90,72,Y,N,Y,N,Texas Rangers,Rangers Ballpark in Arlington,2505171
+2010,AL,TOR,TOR,E,85,77,N,N,N,N,Toronto Blue Jays,Rogers Centre,1625555
+2010,NL,ARI,ARI,W,65,97,N,N,N,N,Arizona Diamondbacks,Chase Field,2056941
+2010,NL,ATL,ATL,E,91,71,N,Y,N,N,Atlanta Braves,Turner Field,2510119
+2010,NL,CHN,CHC,C,75,87,N,N,N,N,Chicago Cubs,Wrigley Field,3062973
+2010,NL,CIN,CIN,C,91,71,Y,N,N,N,Cincinnati Reds,Great American Ball Park,2060550
+2010,NL,COL,COL,W,83,79,N,N,N,N,Colorado Rockies,Coors Field,2875245
+2010,NL,FLO,FLA,E,80,82,N,N,N,N,Florida Marlins,Dolphin Stadium,1535226
+2010,NL,HOU,HOU,C,76,86,N,N,N,N,Houston Astros,Minute Maid Park,2331490
+2010,NL,LAN,LAD,W,80,82,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,3562320
+2010,NL,MIL,MIL,C,77,85,N,N,N,N,Milwaukee Brewers,Miller Park,2776531
+2010,NL,NYN,NYM,E,79,83,N,N,N,N,New York Mets,Citi Field,2559738
+2010,NL,PHI,PHI,E,97,65,Y,N,N,N,Philadelphia Phillies,Citizens Bank Park,3647249
+2010,NL,PIT,PIT,C,57,105,N,N,N,N,Pittsburgh Pirates,PNC Park,1613399
+2010,NL,SDN,SDP,W,90,72,N,N,N,N,San Diego Padres,Petco Park,2131774
+2010,NL,SFN,SFG,W,92,70,Y,N,Y,Y,San Francisco Giants,AT&T Park,3037443
+2010,NL,SLN,STL,C,86,76,N,N,N,N,St. Louis Cardinals,Busch Stadium III,3301218
+2010,NL,WAS,WSN,E,69,93,N,N,N,N,Washington Nationals,Nationals Park,1828066
+2011,AL,BAL,BAL,E,69,93,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,1755461
+2011,AL,BOS,BOS,E,90,72,N,N,N,N,Boston Red Sox,Fenway Park II,3054001
+2011,AL,CHA,CHW,C,79,83,N,N,N,N,Chicago White Sox,U.S. Cellular Field,2001117
+2011,AL,CLE,CLE,C,80,82,N,N,N,N,Cleveland Indians,Jacobs Field,1840835
+2011,AL,DET,DET,C,95,67,Y,N,N,N,Detroit Tigers,Comerica Park,2642045
+2011,AL,KCA,KCR,C,71,91,N,N,N,N,Kansas City Royals,Kauffman Stadium,1724450
+2011,AL,LAA,ANA,W,86,76,N,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium,3166321
+2011,AL,MIN,MIN,C,63,99,N,N,N,N,Minnesota Twins,Target Field,3168116
+2011,AL,NYA,NYY,E,97,65,Y,N,N,N,New York Yankees,Yankee Stadium III,3653680
+2011,AL,OAK,OAK,W,74,88,N,N,N,N,Oakland Athletics,Oakland-Alameda Country Coliseum,1476791
+2011,AL,SEA,SEA,W,67,95,N,N,N,N,Seattle Mariners,Safeco Field,1939421
+2011,AL,TBA,TBD,E,91,71,N,Y,N,N,Tampa Bay Rays,Tropicana Field,1529188
+2011,AL,TEX,TEX,W,96,66,Y,N,Y,N,Texas Rangers,Rangers Ballpark in Arlington,2946949
+2011,AL,TOR,TOR,E,81,81,N,N,N,N,Toronto Blue Jays,Rogers Centre,1818103
+2011,NL,ARI,ARI,W,94,68,Y,N,N,N,Arizona Diamondbacks,Chase Field,2105432
+2011,NL,ATL,ATL,E,89,73,N,N,N,N,Atlanta Braves,Turner Field,2372940
+2011,NL,CHN,CHC,C,71,91,N,N,N,N,Chicago Cubs,Wrigley Field,3017966
+2011,NL,CIN,CIN,C,79,83,N,N,N,N,Cincinnati Reds,Great American Ball Park,2213588
+2011,NL,COL,COL,W,73,89,N,N,N,N,Colorado Rockies,Coors Field,2909777
+2011,NL,FLO,FLA,E,72,90,N,N,N,N,Florida Marlins,Sun Life Stadium,1477462
+2011,NL,HOU,HOU,C,56,106,N,N,N,N,Houston Astros,Minute Maid Park,2067016
+2011,NL,LAN,LAD,W,82,79,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,2935139
+2011,NL,MIL,MIL,C,96,66,Y,N,N,N,Milwaukee Brewers,Miller Park,3071373
+2011,NL,NYN,NYM,E,77,85,N,N,N,N,New York Mets,Citi Field,2352596
+2011,NL,PHI,PHI,E,102,60,Y,N,N,N,Philadelphia Phillies,Citizens Bank Park,3680718
+2011,NL,PIT,PIT,C,72,90,N,N,N,N,Pittsburgh Pirates,PNC Park,1940429
+2011,NL,SDN,SDP,W,71,91,N,N,N,N,San Diego Padres,Petco Park,2143018
+2011,NL,SFN,SFG,W,86,76,N,N,N,N,San Francisco Giants,AT&T Park,3387303
+2011,NL,SLN,STL,C,90,72,N,Y,Y,Y,St. Louis Cardinals,Busch Stadium III,3093954
+2011,NL,WAS,WSN,E,80,81,N,N,N,N,Washington Nationals,Nationals Park,1940478
+2012,AL,BAL,BAL,E,93,69,N,Y,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2102240
+2012,AL,BOS,BOS,E,69,93,N,N,N,N,Boston Red Sox,Fenway Park II,3043003
+2012,AL,CHA,CHW,C,85,77,N,N,N,N,Chicago White Sox,U.S. Cellular Field,1965955
+2012,AL,CLE,CLE,C,68,94,N,N,N,N,Cleveland Indians,Progressive Field,1603596
+2012,AL,DET,DET,C,88,74,Y,N,Y,N,Detroit Tigers,Comerica Park,3028033
+2012,AL,KCA,KCR,C,72,90,N,N,N,N,Kansas City Royals,Kauffman Stadium,1739859
+2012,AL,LAA,ANA,W,89,73,N,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3061770
+2012,AL,MIN,MIN,C,66,96,N,N,N,N,Minnesota Twins,Target Field,2776354
+2012,AL,NYA,NYY,E,95,67,Y,N,N,N,New York Yankees,Yankee Stadium III,3542406
+2012,AL,OAK,OAK,W,94,68,Y,N,N,N,Oakland Athletics,O.co Coliseum,1679013
+2012,AL,SEA,SEA,W,75,87,N,N,N,N,Seattle Mariners,Safeco Field,1721920
+2012,AL,TBA,TBD,E,90,72,N,N,N,N,Tampa Bay Rays,Tropicana Field,1559681
+2012,AL,TEX,TEX,W,93,69,N,Y,N,N,Texas Rangers,Rangers Ballpark in Arlington,3460280
+2012,AL,TOR,TOR,E,73,89,N,N,N,N,Toronto Blue Jays,Rogers Centre,2099663
+2012,NL,ARI,ARI,W,81,81,N,N,N,N,Arizona Diamondbacks,Chase Field,2177617
+2012,NL,ATL,ATL,E,94,68,N,Y,N,N,Atlanta Braves,Turner Field,2420171
+2012,NL,CHN,CHC,C,61,101,N,N,N,N,Chicago Cubs,Wrigley Field,2882756
+2012,NL,CIN,CIN,C,97,65,Y,N,N,N,Cincinnati Reds,Great American Ball Park,2347251
+2012,NL,COL,COL,W,64,98,N,N,N,N,Colorado Rockies,Coors Field,2630458
+2012,NL,HOU,HOU,C,55,107,N,N,N,N,Houston Astros,Minute Maid Park,1607733
+2012,NL,LAN,LAD,W,86,76,N,N,N,N,Los Angeles Dodgers,Dodger Stadium,3324246
+2012,NL,MIA,FLA,E,69,93,N,N,N,N,Miami Marlins,Marlins Park,2219444
+2012,NL,MIL,MIL,C,83,79,N,N,N,N,Milwaukee Brewers,Miller Park,2831385
+2012,NL,NYN,NYM,E,74,88,N,N,N,N,New York Mets,Citi Field,2242803
+2012,NL,PHI,PHI,E,81,81,N,N,N,N,Philadelphia Phillies,Citizens Bank Park,3565718
+2012,NL,PIT,PIT,C,79,83,N,N,N,N,Pittsburgh Pirates,PNC Park,2091918
+2012,NL,SDN,SDP,W,76,86,N,N,N,N,San Diego Padres,Petco Park,2123721
+2012,NL,SFN,SFG,W,94,68,Y,N,Y,Y,San Francisco Giants,AT&T Park,3377371
+2012,NL,SLN,STL,C,88,74,N,Y,N,N,St. Louis Cardinals,Busch Stadium III,3262109
+2012,NL,WAS,WSN,E,98,64,Y,N,N,N,Washington Nationals,Nationals Park,2370794
+2013,AL,BAL,BAL,E,85,77,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2357561
+2013,AL,BOS,BOS,E,97,65,Y,N,Y,Y,Boston Red Sox,Fenway Park II,2833333
+2013,AL,CHA,CHW,C,63,99,N,N,N,N,Chicago White Sox,U.S. Cellular Field,1768413
+2013,AL,CLE,CLE,C,92,70,N,Y,N,N,Cleveland Indians,Progressive Field,1572926
+2013,AL,DET,DET,C,93,69,Y,N,N,N,Detroit Tigers,Comerica Park,3083397
+2013,AL,HOU,HOU,W,51,111,N,N,N,N,Houston Astros,Minute Maid Park,1651883
+2013,AL,KCA,KCR,C,86,76,N,N,N,N,Kansas City Royals,Kauffman Stadium,1750754
+2013,AL,LAA,ANA,W,78,84,N,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3019505
+2013,AL,MIN,MIN,C,66,96,N,N,N,N,Minnesota Twins,Target Field,2477644
+2013,AL,NYA,NYY,E,85,77,N,N,N,N,New York Yankees,Yankee Stadium III,3279589
+2013,AL,OAK,OAK,W,96,66,Y,N,N,N,Oakland Athletics,O.co Coliseum,1809302
+2013,AL,SEA,SEA,W,71,91,N,N,N,N,Seattle Mariners,Safeco Field,1761546
+2013,AL,TBA,TBD,E,92,71,N,Y,N,N,Tampa Bay Rays,Tropicana Field,1510300
+2013,AL,TEX,TEX,W,91,72,N,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,3178273
+2013,AL,TOR,TOR,E,74,88,N,N,N,N,Toronto Blue Jays,Rogers Centre,2536562
+2013,NL,ARI,ARI,W,81,81,N,N,N,N,Arizona Diamondbacks,Chase Field,2134795
+2013,NL,ATL,ATL,E,96,66,Y,N,N,N,Atlanta Braves,Turner Field,2548679
+2013,NL,CHN,CHC,C,66,96,N,N,N,N,Chicago Cubs,Wrigley Field,2642682
+2013,NL,CIN,CIN,C,90,72,N,Y,N,N,Cincinnati Reds,Great American Ball Park,2534369
+2013,NL,COL,COL,W,74,88,N,N,N,N,Colorado Rockies,Coors Field,2793828
+2013,NL,LAN,LAD,W,92,70,Y,N,N,N,Los Angeles Dodgers,Dodger Stadium,3743527
+2013,NL,MIA,FLA,E,62,100,N,N,N,N,Miami Marlins,Marlins Park,1586322
+2013,NL,MIL,MIL,C,74,88,N,N,N,N,Milwaukee Brewers,Miller Park,2531105
+2013,NL,NYN,NYM,E,74,88,N,N,N,N,New York Mets,Citi Field,2135657
+2013,NL,PHI,PHI,E,73,89,N,N,N,N,Philadelphia Phillies,Citizens Bank Park,3012403
+2013,NL,PIT,PIT,C,94,68,N,Y,N,N,Pittsburgh Pirates,PNC Park,2256862
+2013,NL,SDN,SDP,W,76,86,N,N,N,N,San Diego Padres,Petco Park,2166691
+2013,NL,SFN,SFG,W,76,86,N,N,N,N,San Francisco Giants,AT&T Park,3326796
+2013,NL,SLN,STL,C,97,65,Y,N,Y,N,St. Louis Cardinals,Busch Stadium III,3369769
+2013,NL,WAS,WSN,E,86,76,N,N,N,N,Washington Nationals,Nationals Park,2652422
+2014,AL,BAL,BAL,E,96,66,Y,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2464473
+2014,AL,BOS,BOS,E,71,91,N,N,N,N,Boston Red Sox,Fenway Park II,2956089
+2014,AL,CHA,CHW,C,73,89,N,N,N,N,Chicago White Sox,U.S. Cellular Field,1650821
+2014,AL,CLE,CLE,C,85,77,N,N,N,N,Cleveland Indians,Progressive Field,1437393
+2014,AL,DET,DET,C,90,72,Y,N,N,N,Detroit Tigers,Comerica Park,2917209
+2014,AL,HOU,HOU,W,70,92,N,N,N,N,Houston Astros,Minute Maid Park,1751829
+2014,AL,KCA,KCR,C,89,73,N,Y,Y,N,Kansas City Royals,Kauffman Stadium,1956482
+2014,AL,LAA,ANA,W,98,64,Y,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3095935
+2014,AL,MIN,MIN,C,70,92,N,N,N,N,Minnesota Twins,Target Field,2250606
+2014,AL,NYA,NYY,E,84,78,N,N,N,N,New York Yankees,Yankee Stadium III,3401624
+2014,AL,OAK,OAK,W,88,74,N,Y,N,N,Oakland Athletics,O.co Coliseum,2003628
+2014,AL,SEA,SEA,W,87,75,N,N,N,N,Seattle Mariners,Safeco Field,2064334
+2014,AL,TBA,TBD,E,77,85,N,N,N,N,Tampa Bay Rays,Tropicana Field,1446464
+2014,AL,TEX,TEX,W,67,95,N,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,2718733
+2014,AL,TOR,TOR,E,83,79,N,N,N,N,Toronto Blue Jays,Rogers Centre,2375525
+2014,NL,ARI,ARI,W,64,98,N,N,N,N,Arizona Diamondbacks,Chase Field,2073730
+2014,NL,ATL,ATL,E,79,83,N,N,N,N,Atlanta Braves,Turner Field,2354305
+2014,NL,CHN,CHC,C,73,89,N,N,N,N,Chicago Cubs,Wrigley Field,2652113
+2014,NL,CIN,CIN,C,76,86,N,N,N,N,Cincinnati Reds,Great American Ball Park,2476664
+2014,NL,COL,COL,W,66,96,N,N,N,N,Colorado Rockies,Coors Field,2680329
+2014,NL,LAN,LAD,W,94,68,Y,N,N,N,Los Angeles Dodgers,Dodger Stadium,3782337
+2014,NL,MIA,FLA,E,77,85,N,N,N,N,Miami Marlins,Marlins Park,1732283
+2014,NL,MIL,MIL,C,82,80,N,N,N,N,Milwaukee Brewers,Miller Park,2797384
+2014,NL,NYN,NYM,E,79,83,N,N,N,N,New York Mets,Citi Field,2148808
+2014,NL,PHI,PHI,E,73,89,N,N,N,N,Philadelphia Phillies,Citizens Bank Park,2423852
+2014,NL,PIT,PIT,C,88,74,N,Y,N,N,Pittsburgh Pirates,PNC Park,2442564
+2014,NL,SDN,SDP,W,77,85,N,N,N,N,San Diego Padres,Petco Park,2195373
+2014,NL,SFN,SFG,W,88,74,N,Y,Y,Y,San Francisco Giants,AT&T Park,3368697
+2014,NL,SLN,STL,C,90,72,Y,N,N,N,St. Louis Cardinals,Busch Stadium III,3540649
+2014,NL,WAS,WSN,E,96,66,Y,N,N,N,Washington Nationals,Nationals Park,2579389
+2015,AL,BAL,BAL,E,81,81,N,N,N,N,Baltimore Orioles,Oriole Park at Camden Yards,2281202
+2015,AL,BOS,BOS,E,78,84,N,N,N,N,Boston Red Sox,Fenway Park II,2880694
+2015,AL,CHA,CHW,C,76,86,N,N,N,N,Chicago White Sox,U.S. Cellular Field,1755810
+2015,AL,CLE,CLE,C,81,80,N,N,N,N,Cleveland Indians,Progressive Field,1388905
+2015,AL,DET,DET,C,74,87,N,N,N,N,Detroit Tigers,Comerica Park,2726048
+2015,AL,HOU,HOU,W,86,76,N,Y,N,N,Houston Astros,Minute Maid Park,2153585
+2015,AL,KCA,KCR,C,95,67,Y,N,Y,Y,Kansas City Royals,Kauffman Stadium,2708549
+2015,AL,LAA,ANA,W,85,77,N,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3012765
+2015,AL,MIN,MIN,C,83,79,N,N,N,N,Minnesota Twins,Target Field,2220054
+2015,AL,NYA,NYY,E,87,75,N,Y,N,N,New York Yankees,Yankee Stadium III,3193795
+2015,AL,OAK,OAK,W,68,94,N,N,N,N,Oakland Athletics,O.co Coliseum,1768175
+2015,AL,SEA,SEA,W,76,86,N,N,N,N,Seattle Mariners,Safeco Field,2193581
+2015,AL,TBA,TBD,E,80,82,N,N,N,N,Tampa Bay Rays,Tropicana Field,1287054
+2015,AL,TEX,TEX,W,88,74,Y,N,N,N,Texas Rangers,Rangers Ballpark in Arlington,2491875
+2015,AL,TOR,TOR,E,93,69,Y,N,N,N,Toronto Blue Jays,Rogers Centre,2794891
+2015,NL,ARI,ARI,W,79,83,N,N,N,N,Arizona Diamondbacks,Chase Field,2080145
+2015,NL,ATL,ATL,E,67,95,N,N,N,N,Atlanta Braves,Turner Field,2001392
+2015,NL,CHN,CHC,C,97,65,N,Y,N,N,Chicago Cubs,Wrigley Field,2959812
+2015,NL,CIN,CIN,C,64,98,N,N,N,N,Cincinnati Reds,Great American Ball Park,2419506
+2015,NL,COL,COL,W,68,94,N,N,N,N,Colorado Rockies,Coors Field,2506789
+2015,NL,LAN,LAD,W,92,70,Y,N,N,N,Los Angeles Dodgers,Dodger Stadium,3764815
+2015,NL,MIA,FLA,E,71,91,N,N,N,N,Miami Marlins,Marlins Park,1752235
+2015,NL,MIL,MIL,C,68,94,N,N,N,N,Milwaukee Brewers,Miller Park,2542558
+2015,NL,NYN,NYM,E,90,72,Y,N,Y,N,New York Mets,Citi Field,2569753
+2015,NL,PHI,PHI,E,63,99,N,N,N,N,Philadelphia Phillies,Citizens Bank Park,1831080
+2015,NL,PIT,PIT,C,98,64,N,Y,N,N,Pittsburgh Pirates,PNC Park,2498596
+2015,NL,SDN,SDP,W,74,88,N,N,N,N,San Diego Padres,Petco Park,2459742
+2015,NL,SFN,SFG,W,84,78,N,N,N,N,San Francisco Giants,AT&T Park,3375882
+2015,NL,SLN,STL,C,100,62,Y,N,N,N,St. Louis Cardinals,Busch Stadium III,3520889
+2015,NL,WAS,WSN,E,83,79,N,N,N,N,Washington Nationals,Nationals Park,2619843
