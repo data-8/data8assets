@@ -6,8 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> round(predicted_price_difference)
-          113926
+          >>> float(round(predicted_price_difference / 100000) * 100000)
+          100000.0
           """,
           'hidden': False,
           'locked': False

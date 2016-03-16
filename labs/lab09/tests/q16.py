@@ -14,16 +14,16 @@ test = {
         },
         {
           'code': r"""
-          >>> round(np.mean(coefficients))
-          1556.0
+          >>> float(round(np.mean(coefficients) / 1500) * 1500)
+          1500.0
           """,
           'hidden': False,
           'locked': False
         },
         {
           'code': r"""
-          >>> round(np.std(coefficients))
-          26534.0
+          >>> float(round(np.std(coefficients) / 25000) * 25000)
+          25000.0
           """,
           'hidden': False,
           'locked': False
