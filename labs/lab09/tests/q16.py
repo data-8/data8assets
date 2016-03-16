@@ -14,16 +14,8 @@ test = {
         },
         {
           'code': r"""
-          >>> float(round(np.mean(coefficients) / 1500) * 1500)
-          1500.0
-          """,
-          'hidden': False,
-          'locked': False
-        },
-        {
-          'code': r"""
-          >>> float(round(np.std(coefficients) / 25000) * 25000)
-          25000.0
+          >>> np.mean(np.abs(coefficients)) > 300
+          True
           """,
           'hidden': False,
           'locked': False
