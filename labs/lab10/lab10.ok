@@ -1,0 +1,12 @@
+{
+  "name": "Lab 10",
+  "endpoint": "cal/data8/sp16/lab10",
+  "src": [
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
