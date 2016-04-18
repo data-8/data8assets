@@ -6,6 +6,9 @@ test = {
       'cases': [
         {
           'code': r"""
+          >>> # Make sure the columns are in the right order.
+          >>> ak_mn.labels != ('Year', 'Minnesota', 'Alaska')
+          True
           >>> ak_mn.labels
           ('Year', 'Alaska', 'Minnesota')
           >>> ak_mn.num_rows
