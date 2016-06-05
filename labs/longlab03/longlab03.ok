@@ -1,0 +1,13 @@
+{
+  "name": "Lab 3",
+  "endpoint": "cal/data8/su16/lab03",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
