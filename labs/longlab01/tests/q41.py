@@ -19,6 +19,19 @@ test = {
         },
         {
           'code': r"""
+          >>> # It looks like you didn't change the cell to define
+          >>> # seconds_in_a_decade appropriately.  It should be a number,
+          >>> # computed using Python's arithmetic.  For example, this is
+          >>> # almost right:
+          >>> #   seconds_in_a_decade = 10*365*24*60*60
+          >>> seconds_in_a_decade != ...
+          True
+          """,
+          'hidden': False,
+          'locked': False
+        },
+        {
+          'code': r"""
           >>> # It looks like you didn't account for leap years.
           >>> # There were 2 leap years and 8 non-leap years in this period.
           >>> # Leap years have 366 days instead of 365.
