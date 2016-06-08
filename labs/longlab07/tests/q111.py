@@ -6,8 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> round(q111_avg_distance, 2)
-          366.67
+          >>> "%0.2f" % q111_avg_distance
+          '366.67'
           """,
           'hidden': False,
           'locked': False
