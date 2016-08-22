@@ -6,8 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> abs(last_interesting_number - 2.718281828459045) < 1e-6
-          True
+          >>> population_1973
+          3942096442
           """,
           'hidden': False,
           'locked': False

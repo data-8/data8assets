@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> type(interesting_numbers) == np.ndarray
+          >>> type(small_numbers) == np.ndarray
           True
           """,
           'hidden': False,
@@ -14,15 +14,15 @@ test = {
         },
         {
           'code': r"""
-          >>> len(interesting_numbers)
-          5
+          >>> len(small_numbers)
+          3
           """,
           'hidden': False,
           'locked': False
         },
         {
           'code': r"""
-          >>> all(interesting_numbers == np.array([0, 1, -1, math.pi, math.e]))
+          >>> all(small_numbers == np.arange(1, 4, 1))
           True
           """,
           'hidden': False,

@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> type(hello_world_components) == np.ndarray
+          >>> type(interesting_numbers) == np.ndarray
           True
           """,
           'hidden': False,
@@ -14,7 +14,7 @@ test = {
         },
         {
           'code': r"""
-          >>> len(hello_world_components)
+          >>> len(interesting_numbers)
           5
           """,
           'hidden': False,
@@ -22,7 +22,7 @@ test = {
         },
         {
           'code': r"""
-          >>> all(hello_world_components == np.array(["Hello", ",", " ", "world", "!"]))
+          >>> all(interesting_numbers == np.array([0, 1, -1, math.pi, math.e]))
           True
           """,
           'hidden': False,

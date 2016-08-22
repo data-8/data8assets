@@ -1,0 +1,13 @@
+{
+  "name": "Homework 1: Causality and Expressions",
+  "endpoint": "cal/data8/fa16/assignments/build/fa16/hw/hw01",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
