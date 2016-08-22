@@ -1,0 +1,13 @@
+{
+  "name": "Basic Arithmetic in Python",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/expressions/basic_arithmetic",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
