@@ -43,8 +43,8 @@ test = {
         },
         {
           'code': r"""
-          >>> seconds_in_a_decade
-          315532800
+          >>> seconds_in_a_decade == 315532800
+          True
           """,
           'hidden': False,
           'locked': False
