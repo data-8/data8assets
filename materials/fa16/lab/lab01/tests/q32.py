@@ -1,5 +1,5 @@
 test = {
-  'name': 'Exercise 4.1',
+  'name': '3.2',
   'points': 1,
   'suites': [
     {
@@ -8,7 +8,7 @@ test = {
           'code': r"""
           >>> # It looks like you didn't give anything the name
           >>> # seconds_in_a_decade.  Maybe there's a typo, or maybe you
-          >>> # just need to run the cell below Question 4.2 where you defined
+          >>> # just need to run the cell below Question 3.2 where you defined
           >>> # seconds_in_a_decade.  (Click that cell and then click the "run
           >>> # cell" button in the menu bar above.)
           >>> 'seconds_in_a_decade' in vars()
