@@ -1,0 +1,13 @@
+{
+  "name": "Lab 2: Data Types",
+  "endpoint": "cal/data8/fa16/assignments/build/fa16/lab/lab02",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
