@@ -13,16 +13,16 @@ test = {
           >>> # It looks like you forgot to subtract off the sales.
           >>> remaining_inventory.column("count").item(0) != 45
           True
-          >>> remaining_inventory
+          >>> remaining_inventory.sort(0)
           box ID | fruit name | count
+          25274  | apple      | 20
+          26187  | strawberry | 230
+          43566  | peach      | 23
+          48800  | orange     | 0
+          52357  | strawberry | 0
           53686  | kiwi       | 42
           57181  | strawberry | 22
-          25274  | apple      | 20
-          48800  | orange     | 0
-          26187  | strawberry | 230
           57930  | grape      | 162
-          52357  | strawberry | 0
-          43566  | peach      | 23
           """,
           'hidden': False,
           'locked': False
