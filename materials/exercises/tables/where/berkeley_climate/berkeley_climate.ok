@@ -1,0 +1,13 @@
+{
+  "name": "The Climate near Berkeley",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/tables/where/berkeley_climate",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
