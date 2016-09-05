@@ -1,0 +1,13 @@
+{
+  "name": "Causes of Death by Year",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/tables/pivot/causes_of_death_by_year",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
