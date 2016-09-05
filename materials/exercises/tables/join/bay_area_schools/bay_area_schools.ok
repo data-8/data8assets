@@ -1,0 +1,13 @@
+{
+  "name": "Colleges and Universities in the Bay Area",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/tables/join/bay_area_schools",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
