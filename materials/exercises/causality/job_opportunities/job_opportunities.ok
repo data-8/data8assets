@@ -1,0 +1,13 @@
+{
+  "name": "Job Opportunity Education in Rural India",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/causality/job_opportunities",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
