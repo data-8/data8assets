@@ -1,0 +1,13 @@
+{
+  "name": "Computing Remainders",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/expressions/remainders",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
