@@ -1,0 +1,103 @@
+First Name,Last Name,Company,Headquarters,Total compensation ($),Cash compensation ($),Stock compensation ($),Other compensation ($),Change from previous year
+Lauralee,Martin,HCP,Irvine,6880000.0,2190000.0,4680000.0,10000.0,-0.45
+Burton,Goldfield,TriNet Group,San Leandro,4250000.0,690000.0,3500000.0,60000.0,0.76
+Thomas,Perkins,Core-Mark Holding Company,South San Francisco,1790000.0,910000.0,870000.0,10000.0,0.09
+Margaret,Whitman,Hewlett-Packard,Palo Alto,17100000.0,3950000.0,12850000.0,300000.0,-0.13
+Michael,McMullen,Agilent Technologies,Santa Clara,7210000.0,1960000.0,4950000.0,300000.0,0.0
+Christopher,Sinclair,Mattel,El Segundo,9740000.0,2350000.0,6500000.0,900000.0,0.0
+Lawrence,Page,Alphabet,Mountain View,0.0,0.0,0.0,0.0,0.0
+Gary,Friedman,Restoration Hardware Holdings,Corte Madera,1680000.0,1660000.0,0.0,20000.0,-0.35000000000000003
+Rodney,Sacks,Monster Beverage,Corona,10430000.0,1130000.0,9230000.0,80000.0,0.36
+Sanjay,Mehrotra,SanDisk,Milpitas,10730000.0,1550000.0,9000000.0,170000.0,-0.07
+Michael,Mussallem,Edwards Lifesciences,Irvine,9060000.0,3050000.0,5840000.0,180000.0,0.05
+John,Stumpf,Wells Fargo,San Francisco,19320000.0,6800000.0,12500000.0,20000.0,-0.1
+Carl,Bass,Autodesk,San Rafael,12180000.0,2480000.0,9620000.0,80000.0,0.1
+Marissa,Mayer,Yahoo!,Sunnyvale,35980000.0,1000000.0,34430000.0,550000.0,-0.15
+Arthur,Peck,Gap,San Francisco,6140000.0,1300000.0,4810000.0,30000.0,0.0
+Chi-Foon,Chan,Synopsys,Mountain View,4920000.0,2320000.0,2570000.0,30000.0,0.09
+Safra,Catz,Oracle,Redwood City,53240000.0,950000.0,52270000.0,20000.0,0.0
+Dean,Scarborough,Avery Dennison,Glendale,8570000.0,3020000.0,5240000.0,300000.0,-0.29
+Lisa,Su,Advanced Micro Devices,Sunnyvale,6560000.0,1150000.0,5380000.0,30000.0,0.0
+Michael,Rapino,Live Nation Entertainment,Beverly Hills,9960000.0,7360000.0,2520000.0,80000.0,-0.1
+John,Watson,Chevron,San Ramon,22040000.0,4310000.0,14680000.0,3050000.0,-0.15
+Anthony,Earley,PG&E,San Francisco,12200000.0,3530000.0,7500000.0,1170000.0,0.05
+Michael,Brown,Symantec,Mountain View,16329999.999999998,2130000.0,14180000.0,20000.0,0.0
+Jeffrey,Weiner,LinkedIn,Mountain View,19860000.0,2470000.0,17260000.0,130000.0,0.27
+Robert,Antin,VCA,Los Angeles,8230000.0,3570000.0,4300000.0,370000.0,0.19
+Gregg,Mollins,Reliance Steelæ& Aluminum,Los Angeles,8359999.999999999,2089999.9999999998,5570000.0,700000.0,0.0
+Laura,Alber,Williams-Sonoma,San Francisco,14000000.0,3970000.0,10000000.0,20000.0,-0.05
+Rami,Rahim,Juniper Networks,Sunnyvale,9420000.0,2009999.9999999998,7400000.0,20000.0,0.0
+Jay,Flatley,Illumina,San Diego,9220000.0,2150000.0,7000000.0,60000.0,-0.38
+Robert,Kotick,Activision Blizzard,Santa Monica,7230000.0,7140000.0,0.0,90000.0,0.05
+Debra,Reed,Sempra Energy,San Diego,16140000.0,4520000.0,7160000.0,4460000.0,-0.04
+Aart,Geus,Synopsys,Mountain View,4920000.0,2320000.0,2570000.0,30000.0,0.1
+Gary,Dickerson,Applied Materials,Santa Clara,18090000.0,3090000.0,10820000.0,4190000.0000000005,0.1
+Jure,Sola,Sanmina,San Jose,10180000.0,2320000.0,7810000.0,60000.0,0.22
+Daniel,Schulman,PayPal Holdings,San Jose,14440000.0,3320000.0,10360000.0,760000.0,0.0
+Brian,Krzanich,Intel,Santa Clara,14630000.0,4550000.0,9800000.0,280000.0,0.31
+Ronald,Tutor,Tutor Perini,Sylmar,12050000.0,5500000.0,5640000.0,910000.0,-0.53
+Dow,Wilson,Varian Medical Systems,Palo Alto,7510000.0,1860000.0,5500000.0,150000.0,0.16
+Shantanu,Narayen,Adobe Systems,San Jose,18360000.0,2410000.0,15850000.0,90000.0,0.03
+Jeffrey,Mezger,KB Home,Los Angeles,8860000.0,4970000.0,3810000.0,70000.0,-0.14
+Jen-Hsun,Huang,NVIDIA,Santa Clara,9970000.0,2510000.0,7460000.0,0.0,0.07
+Dennis,Gilmore,First American Financial,Santa Ana,5730000.0,3160000.0,2560000.0,10000.0,0.02
+Ronald,Havner,Public Storage,Glendale,10500000.0,3500000.0,6990000.0,10000.0,0.17
+Steven,Berglund,Trimble Navigation,Sunnyvale,8760000.0,1030000.0,7720000.0,0.0,0.24
+David,Overton,Cheesecake Factory,Calabasas Hills,5920000.0,2200000.0,3590000.0,130000.0,0.1
+Todd,Stevens,California Resources,Los Angeles,6640000.0,1580000.0,4650000.0,410000.0,0.0
+Harold,Messmer,Robert Half International,Menlo Park,9860000.0,3650000.0,6210000.0,0.0,0.08
+David,Hirz,Smartæ& Final Stores,Commerce,1530000.0,1500000.0,0.0,40000.0,-0.66
+Victor,Herrero,Guess,Los Angeles,14090000.0,3690000.0,10290000.0,110000.0,0.0
+James,Roberts,Granite Construction,Watsonville,2830000.0,1730000.0,980000.0,120000.0,0.22
+Reed,Hastings,Netflix,Los Gatos,16629999.999999998,1120000.0,15500000.0,20000.0,0.5
+Steven,Mollenkopf,Qualcomm,San Diego,10370000.0,2170000.0,8000000.0,210000.0,0.0
+Lloyd,Carney,Brocade Communications Systems,San Jose,8350000.0,1980000.0,6370000.0,0.0,-0.17
+Richard,Wallace,KLA-Tencor,Milpitas,8380000.000000001,2049999.9999999998,6300000.0,30000.0,0.22
+Brad,Smith,Intuit,Mountain View,16020000.0,2460000.0,13550000.0,10000.0,-0.03
+Mark,Hurd,Oracle,Redwood City,53250000.0,950000.0,52270000.0,20000.0,0.0
+Stephen,Smith,Equinix,Redwood City,11110000.0,2040000.0,9060000.0,10000.0,-0.03
+Martin,Anstice,Lam Research,Fremont,11160000.0,4750000.0,6410000.0,10000.0,-0.26
+Robert,Mehrabian,Teledyne Technologies,Thousand Oaks,4080000.0,1980000.0,1630000.0,460000.0,-0.52
+Robert,Greenberg,Skechers U.S.A.,Manhattan Beach,7120000.0,6850000.0,0.0,270000.0,-0.25
+Robert,Bradway,Amgen,Thousand Oaks,16100000.000000002,5350000.0,10200000.0,550000.0,0.15
+Gregory,Roberts,A-Mark Precious Metals,Santa Monica,940000.0,930000.0,0.0,20000.0,-0.11
+Jon,Feltheimer,Lions Gate Entertainment,Santa Monica,6770000.0,5550000.0,1000000.0,220000.0,-0.9
+Alain,Monie,Ingram Micro,Irvine,9030000.0,3500000.0,5500000.0,30000.0,0.08
+Mark,Zuckerberg,Facebook,Menlo Park,5040000.0,0.0,0.0,5040000.0,-0.19
+Jack,Dorsey,Twitter,San Francisco,70000.0,0.0,0.0,70000.0,0.0
+Jose,Laparte,PriceSmart,San Diego,810000.0,710000.0,0.0,100000.0,-0.07
+Robert,Iger,Walt Disney,Burbank,44910000.0,24890000.0,17280000.0,2740000.0,-0.03
+Peter,Dameris,On Assignment,Calabasas,7580000.0,2470000.0,5100000.0,10000.0,0.36
+Thomas,Edman,TTM Technologies,Costa Mesa,2820000.0,1890000.0,920000.0,10000.0,0.87
+John,Chambers,Cisco Systems,San Jose,19620000.0,5100000.0,14510000.0,10000.0,0.19
+Thomas,Georgens,NetApp,Sunnyvale,9390000.0,1930000.0,7450000.0,10000.0,0.09
+Walter,Bettinger,Charles Schwab,San Francisco,12340000.0,4710000.0,7500000.0,120000.0,0.04
+Marc,Benioff,salesforce.com,San Francisco,33360000.0,4650000.0,27260000.0,1450000.0,-0.16
+Gabriel,Tirador,Mercury General,Los Angeles,2450000.0,1850000.0,540000.0,60000.0,-0.04
+Tim,Cook,Apple,Cupertino,10280000.0,10000000.0,0.0,280000.0,0.11
+Douglas,Bauer,TRI Pointe Group,Irvine,4470000.0,1330000.0,3120000.0,20000.0,1.1400000000000001
+Benno,Dorer,Clorox,Oakland,7860000.0,2470000.0,5000000.0,390000.0,0.0
+Devin,Wenig,eBay,San Jose,14510000.0,3640000.0,10860000.0,20000.0,0.0
+Gregory,Johnson,Franklin Resources,San Mateo,15100000.0,4430000.0,10600000.0,60000.0,-0.05
+Steven,Demetriou,Jacobs Engineering Group,Pasadena,12130000.0,5780000.0,6350000.0,10000.0,0.0
+Elon,Musk,Tesla Motors,Palo Alto,40000.0,40000.0,0.0,0.0,0.06
+Larry,Nicholson,CalAtlantic Group,Irvine,2880000.0,2850000.0,0.0,30000.0,0.0
+John,Martin,Gilead Sciences,Foster City,18760000.0,5770000.0,12980000.0,10000.0,-0.01
+Ronald,Nersesian,Keysight Technologies,Santa Rosa,13670000.0,2140000.0,11330000.0,200000.0,1.18
+Robert,Sulentic,CBRE Group,Los Angeles,7700000.0,3570000.0,4120000.0,0.0,0.21
+J.,Molina,Molina Healthcare,Long Beach,10270000.0,2360000.0,7890000.0,20000.0,0.31
+Michael,Burke,AECOM Technology,Los Angeles,18610000.0,4120000.0,14000000.0,490000.0,0.0
+Theodore,Craver,Edison International,Rosemead,11110000.0,2900000.0,5940000.0,2280000.0,-0.22
+Jay,Gellert,Health Net,Woodland Hills,14310000.0,4550000.0,7240000.0,2520000.0,0.15
+Hamid,Moghadam,Prologis,San Francisco,14980000.0,3270000.0,11620000.0,100000.0,-0.09
+Kevin,Murai,SYNNEX,Fremont,3930000.0,1840000.0,2069999.9999999998,10000.0,-0.48
+Stephen,Milligan,Western Digital,Irvine,11710000.0,2550000.0,9150000.0,10000.0,0.04
+John,Hammergren,McKesson,San Francisco,24840000.0,12100000.0,12370000.0,370000.0,-0.04
+Charles,Scharf,Visa,San Francisco,11840000.0,4310000.0,7470000.0,60000.0,0.54
+Andrew,Wilson,Electronic Arts,Redwood City,11630000.0,2880000.0,8700000.0,60000.0,0.0
+Dan,Batrack,Tetra Tech,Pasadena,5420000.0,1950000.0,3430000.0,40000.0,0.2
+Moshe,Gavrielov,Xilinx,San Jose,5900000.0,1610000.0,4290000.0,0.0,-0.09
+Gary,Guthart,Intuitive Surgical,Sunnyvale,3720000.0,1210000.0,2520000.0,0.0,0.42
+Patrick,Gelsinger,VMware,Palo Alto,14360000.0,2440000.0,11900000.0,10000.0,0.68
+Tunc,Doluca,Maxim Integrated Products,San Jose,5890000.0,1590000.0,4290000.0,20000.0,0.5700000000000001
+Barbara,Rentler,Ross Stores,Dublin,10160000.0,3850000.0,6200000.0,110000.0,0.0
