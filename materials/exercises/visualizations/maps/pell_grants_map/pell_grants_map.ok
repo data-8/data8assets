@@ -1,0 +1,13 @@
+{
+  "name": "Mapping Pell Grants",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/visualizations/maps/pell_grants_map",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
