@@ -1,0 +1,13 @@
+{
+  "name": "Pell Grants by State (Discussion Questions)",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/tables/join/pell_grants_discussion",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
