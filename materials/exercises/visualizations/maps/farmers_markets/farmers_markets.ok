@@ -1,0 +1,13 @@
+{
+  "name": "Mapping Farmers' Markets",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/visualizations/maps/farmers_markets",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
