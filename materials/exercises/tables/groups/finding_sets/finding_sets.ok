@@ -1,0 +1,13 @@
+{
+  "name": "Finding Sets in Poker Hands",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/tables/groups/finding_sets",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
