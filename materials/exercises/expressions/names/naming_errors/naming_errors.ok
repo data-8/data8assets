@@ -1,0 +1,13 @@
+{
+  "name": "Errors in Naming",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/expressions/names/naming_errors",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
