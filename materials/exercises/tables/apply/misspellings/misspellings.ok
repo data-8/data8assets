@@ -1,0 +1,13 @@
+{
+  "name": "Fixing Misspellings",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/tables/apply/misspellings",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}

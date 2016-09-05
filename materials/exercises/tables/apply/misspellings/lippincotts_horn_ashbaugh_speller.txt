@@ -1,0 +1,3514 @@
+
+The Project Gutenberg EBook of Lippincott's Horn-Ashbaugh Speller, by 
+Ernest Horn and Ernest J. Ashbaugh
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Lippincott's Horn-Ashbaugh Speller
+       For Grades One to Eight
+
+Author: Ernest Horn
+        Ernest J. Ashbaugh
+
+Release Date: October 1, 2010 [EBook #33826]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LIPPINCOTT'S HORN-ASHBAUGH SPELLER ***
+
+
+
+
+Produced by Larry B. Harrison and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+LIPPINCOTT'S
+
+HORN-ASHBAUGH
+SPELLER
+
+FOR GRADES ONE TO EIGHT
+
+ 
+
+BY
+
+ERNEST HORN, Ph.D.
+
+PROFESSOR OF EDUCATION AND DIRECTOR
+OF THE UNIVERSITY ELEMENTARY SCHOOL
+THE STATE UNIVERSITY OF IOWA
+
+AND
+
+ERNEST J. ASHBAUGH, Ph.D.
+
+ASSOCIATE PROFESSOR OF EDUCATION AND CHIEF OF THE
+BUREAU OF EDUCATIONAL TESTS AND MEASUREMENTS
+THE STATE UNIVERSITY OF IOWA
+
+ 
+
+PHILADELPHIA, LONDON, CHICAGO
+J. B. LIPPINCOTT COMPANY
+
+COPYRIGHT, 1920, BY J. B. LIPPINCOTT COMPANY
+
+PRINTED BY J. B. LIPPINCOTT COMPANY
+AT THE WASHINGTON SQUARE PRESS
+PHILADELPHIA, U. S. A.
+
+[Pg iii]
+
+PREFACE
+
+It is the intention of the authors to include sufficient discussion and directions to teachers so that this book may be taught with the highest possible degree of efficiency. Under general directions to teachers will be found a discussion of those points which concern all teachers regardless of grade. In addition, preceding the word list for each grade will be found supplementary directions to aid the teachers in facing the problems peculiar to that grade.
+
+Special attention is called to the elaborate provision for making the pupil intelligent and responsible in his attack on his own spelling problems. This result is achieved by the testing plan which discovers to the pupil his deficiencies; by the standard scores which enable him to compare his accomplishment with that of other children; by the efficient method of study which is provided; and by the unusually rigorous follow-up work given in the review lessons. The authors therefore present this book to the pupils and teachers of the United States as a contribution to the solution of the problem of developing a nation of good spellers.
+
+The Authors.
+December, 1920.
+[Pg v]
+
+CONTENTS
+
+ 	 	PAGE
+Preface	 	iii
+ 	 	 
+General Directions to Teachers	 	vii-xiv
+ 	 	 
+Directions to Pupils	 	xiv-xvi
+ 	 	 
+Directions to Teachers of Grade I	 	2
+    Word List, Grade I	 	3-5
+ 	 	 
+Directions to Teachers of Grade II	 	8
+    Word List, Grade II	 	9-14
+ 	 	 
+Directions to Teachers of Grade III	 	16-17
+    Word List, Grade III	 	19-27
+ 	 	 
+Directions to Teachers of Grade IV	 	30
+    Word List, Grade IV	 	31-40
+ 	 	 
+Directions to Teachers of Grade V	 	42
+    Word List, Grade V	 	43-52
+ 	 	 
+Directions to Teachers of Grade VI	 	54
+    Word List, Grade VI	 	55-64
+ 	 	 
+Directions to Teachers of Grade VII	 	66
+    Word List, Grade VII	 	67-78
+ 	 	 
+Directions to Teachers of Grade VIII	 	80
+    Word List, Grade VIII	 	81-95
+ 	 	 
+Dictation Exercises	 	97-105
+[Pg vii]
+
+LIPPINCOTT'S
+HORN-ASHBAUGH SPELLER
+
+GENERAL DIRECTIONS TO TEACHERS.
+
+How the Teaching of Spelling May be Improved.—The teaching of spelling may be improved in three ways: first, by selecting a better list of words for the pupil to study; second, by placing before the pupils of each grade the words that are most appropriate for them; and third, by introducing economical procedures in learning. The first is the problem of the course of study; the second, the problem of grading; and the third, the problem of method.
+
+The Vocabulary.—To solve the first problem one must insure that the pupils will study all words they are likely to use in life outside the school. One must also insure that the pupils' time will not be wasted through their being required to learn words which they will never use. This problem has been solved for you by the authors of the text. The vocabulary of the lessons is taken from a compilation which Doctor Horn has made of ten scientific investigations of the words used in writing letters. These investigations, taken together, represent the careful analysis of over three-quarters of a million running words of correspondence. If you will analyze one letter, you will see what a very great amount of work these investigations have required. It seems very unlikely that any word commonly and frequently used should have been overlooked in all of these investigations.
+
+These ten studies contain all of the information which is available at the present time concerning what words are likely to be used in writing letters. Accordingly, there is no word in this speller which has not been reported in one or more of these investigations. In addition, this vocabulary has been carefully compared with all of the other types of reading and writing vocabularies.
+
+[Pg viii] Among these are the studies of children's themes, such as those by Jones, by the teachers of New Orleans, Kansas City, and Richmond, Virginia; the various studies of adult reading vocabularies, such as those by Eldridge and Knowles, aggregating over 140,000 running words; the studies of the vocabulary of school readers, such as those by Packer, Housh, and Miller, aggregating over one-half million running words. No word has been taken from these studies which did not occur in the investigations of the vocabulary of personal and business letters. On the other hand, these studies showed quite clearly that the words found as the result of the analysis of three-quarters of a million running words of correspondence are really basic in any writing vocabulary.
+
+If you will examine the book, you will see that most of the lessons are numbered with arabic numerals. These lessons contain a minimum list of 3998 words found to be used most frequently. You will notice, also, that beginning with grade three there are in each grade supplementary lessons, marked S-1, S-2, etc. These lessons include 580 additional words which are somewhat less frequently used. The supplementary lessons are distributed by grades, so that pupils who finish the minimum work for any grade will have additional lessons to study for the remainder of the year. However, before undertaking these supplementary lessons, the teacher should make sure that her pupils have learned thoroughly the minimum list which contains the important words.
+
+Plan of Review.—The provision for the complete elimination of spelling errors is particularly efficient and thoroughgoing. Not only are those words which most commonly give difficulty arranged for, but the method of testing insures that each pupil will eliminate his own peculiar errors. No pains have been spared to obtain this thoroughness without wasting the pupils' time in mere routine review.
+
+During the week in which each lesson is taught for the first time, each pupil is tested three times on every word in the lesson. He spends his time in concentrated attack on the words which have given him difficulty. One month later this lesson is given as a test, and the words missed by each pupil re-learned by him. At the end of the week this lesson is again given as a test.
+
+[Pg ix] In addition, at the beginning of each grade above the first, the words which have been previously taught, but which according to Doctor Ashbaugh's investigation still give difficulty, are thoroughly reviewed. Finally, in the seventh grade, the words which are most frequently missed by grammar grade pupils are given additional review.
+
+It must be kept in mind that these reviews are not haphazard, nor are they a matter of guesswork. Each review list is made up on the basis of the most careful scientific study of persistent errors.
+
+Grading.—The lessons in each grade are those which the pupils in that grade may most profitably study. The words have been graded in the following manner: On the basis of Doctor Horn's compilation of correspondence vocabularies, all of the 4578 words were ranked according to the frequency with which they are used in correspondence. On the basis of Doctor Ashbaugh's study of the difficulty of these words in the various grades, the words were arranged in order of ease of spelling. With these two sources of data, the lessons are arranged so that in general the easiest words and those most commonly and frequently used are placed in the lower grades. In addition, on the basis of scientific analysis of the vocabulary of first, second, and third readers, the authors determined which words occurred most often in these readers. The words included in the lessons for the first three grades are not only easy and fairly common, but are found also in popular readers of the grades in which they are placed. For example, the word "and" was found 23,773 times in the letters analyzed in the various investigations upon which the book is based; and it is mispeled by but four second grade children out of a hundred. It also occurs in every one of ten commonly used first readers. Since it is one of the very commonest words, is easy to spell, and is found in all first readers, it is placed in the first list in the book. In a similar way every lesson in the first three grades has been a matter of computation. The lessons in grades above the third have been made in the same careful fashion, except that occurrences in readers were not taken into consideration. It is clear that the lessons increase gradually in difficulty in each successive grade, and that a pupil who is forced to leave school [Pg x] at the end of grade six or seven will have learned the words which he is most likely to need in writing.
+
+Standard Scores.—By means of standard errors at the close of each lesson, the pupils and teachers may compare results with those of other grades and with those obtained in the country at large. These standards were taken from the Ashbaugh Scale and from a supplementary study conducted by Doctor Ashbaugh and Doctor Horn to determine the standards for words not included in the original scale. It must be kept in mind that these standard errors are high, being the result of the present unfavorable conditions of the teaching of spelling in the country at large. They are used merely for the purpose of comparison. The ideal to keep before your class is that they should learn their lessons so that they will not mispel a single word, but this ideal is intensified by the use of the standard errors.
+
+How to Teach the Lesson.—Four points must be kept in mind as more important than any others:
+
+1. The teacher must test her pupils on each lesson before they begin to study.
+
+2. Each pupil should study only the words which he mispeled on the test.
+
+3. He must be taught an economical method of study.
+
+4. He must see clearly what progress he is making.
+
+Detailed suggestions for teaching the lessons are given in the paragraphs which follow. These suggestions are based upon the investigations reviewed by Doctor Horn in the Eighteenth Yearbook of the National Society for the Study of Education. The method has been tried out thoroughly in public school classrooms, and has proved uniformly successful. Teachers are urged to follow it as closely as possible. If, however, the teacher prefers another method of study, she may use it. The book may be used with any method.
+
+Getting Started Right.—The first few lessons may well be spent in systematizing class procedure and teaching pupils how to study a spelling lesson. Begin by pointing out the importance of spelling. Give cases, if possible, where people have been discredited because of spelling errors in letters. Discuss with the class how the words in this book were selected, how the standard errors at the close of each lesson were secured, and how the [Pg xi] method of study was determined. The pupils may now be introduced to the procedure which will be used in conducting the spelling class, and to the method of study.
+
+Teaching Pupils How to Work.—Many teachers have found the following procedure very satisfactory. Have the pupils open their books at the first lesson for their grade. Explain to them that a great many men have spent much time and money in finding out the best way to learn to spell, and that the method which is to be used is based on what these men have recommended. Have the class read the directions to pupils given on pages xiv–xvi. After the directions have been read, have several pupils summarize them. When you have made sure that the class has the main points clearly in mind, the actual work of habituating the method may be begun. The first few lessons in each term should consist of practice in the method of study. This practice should be continued until you are satisfied that the pupils understand thoroughly how to go about their work. Remember that even though teachers in the preceding grades are using the method, there may be pupils in your grade who are new to the system, as well as some who have forgotten how to study. From the nature of the method, it is easy to detect any child who is not using it. Insist that the correct method be used from the outset. As soon as the pupils have learned the method of study, the regular work of learning the lessons may begin.
+
+How the Lessons Should be Taught.—The lessons are planned to be completed in a week. A week's work, therefore, consists of twenty new words and twenty review words except in grade one, where the week's work consists of ten new words and ten review words. The following schedule is recommended.
+
+Monday.—The first step in teaching a lesson is an exercise in pronunciation. Have the pupils open their books at the advanced lesson. Pronounce each word, enunciating the syllables very distinctly. Each word which in your judgment is not understood by the class should be used in a sentence. All homonyms should be so used. Have the pupils pronounce each word after you in concert, enunciating the syllables very distinctly. Insist on careful pronunciation on the part of every pupil.
+
+This exercise precedes the spelling test because of the importance of pronunciation in the method of study, and because of [Pg xii] the probability that this initial attention to the correct form of the word is desirable. Since the pupils undoubtedly learn something as a result of this exercise, they may be expected to make somewhat better scores than those given in the book. These scores are the results of tests given without such a preliminary exercise in pronunciation.
+
+After all the words have been pronounced, have the pupils close their texts and prepare papers for a written test. This test will include the new lesson. It may be written on any sort of paper, the words being written in columns of twenty to correspond to the arrangement of the words in the book. Pronounce each word once only. Pupils should write the words without hesitation. No alterations in the first attempt at spelling the word should be allowed.
+
+After the words have all been dictated, have the pupils exchange papers for the purpose of correcting. Be sure that each pupil understands that he is marking his neighbor's paper, so that errors which have been made may be corrected. Instruct the class to mark a word wrong if it is mispeled, if it cannot be read, or if any change in the first attempt at spelling has been made. Be sure that each pupil understands that, until he is able to write a word correctly the first time, he has not sufficiently learned it.
+
+The words may be corrected on the basis of the teacher's oral spelling or by the book. Each word found to be mispeled should be marked wrong by placing after it an X.
+
+When the papers have been returned to the owners, each pupil should write the correct form of the words which he has mispeled. The words missed on the test will constitute his task for the week.
+
+Tuesday.—On Tuesday the pupils study, each working on his own errors and using the method recommended under directions to pupils. Pupils who made no errors on the test may be excused from this study period, but not from the succeeding test. It frequently happens that a pupil will spell a word correctly on one test and mispel it on a following test.
+
+The teacher should closely supervise the pupils' study in order to insure that proper methods of learning are used. She may also help to direct the work of those who, having made no [Pg xiii] errors on the preceding test, have been allowed to undertake some other task. The class should not be tested on this day.
+
+Wednesday.—Test on the new and on the review lesson. This review lesson should consist of a lesson taught one month before. Since the first four lessons in each grade are made up of words taught in the preceding grade, these may well be used for the first month as review lessons. The words may be corrected and the errors recorded as on Monday. Compare the number of errors made on this test with those made on the preceding test. This comparison will show the pupil what progress he has made. The remainder of the period may be spent in studying the words missed on this test.
+
+Thursday.—Study as on Tuesday.
+
+Friday.—Test on the new and on the review lesson, correct the papers as on Monday, and spend the rest of the period studying the errors made on this final test. Compare the number of errors made on this test with the number made on the first and second tests. The comparison gives the child a measure of accomplishment for the week. The teacher should check this day's papers in order to have an accurate record of the status of the pupils at the close of the week's work. Many teachers have found it helpful to keep a chart of progress on the blackboard.
+
+Individual Instruction.—It is clear from the preceding directions that the method of learning and the class administration are intended to insure that each pupil will learn those words which give him difficulty, and that he will, at the same time, progress at his own rate. With the possible exception of the fact that only the commonly used words are taught, this is the most important provision in the book.
+
+The Spelling Notebook.—It has been found to be very helpful to have each pupil keep a notebook in which to record words missed in the various spelling tests or in papers written in connection with other subjects. This notebook tends to make the pupil more conscientious with regard to his spelling. It also gives him a record of his errors so that when he has time for review work he can utilize it properly.
+
+The Problem of Interest.—Teachers who have used the method which is here recommended have been unanimous in reporting not only that the pupils learned more rapidly, but also [Pg xiv] that they worked with greater enthusiasm. This increased interest is secured without any use of soft pedagogy. It comes from several sources. First, the pupils know that the words in the book are those most commonly needed in writing. Second, the pupils quickly see the advantage of centering their efforts on words which they have actually missed. Third, by means of standard scores they are enabled to compare their spelling ability with that of children in other parts of the country. Fourth, they can see what they are accomplishing. Fifth, these provisions make possible the joy which comes from doing vigorously and thoroughly a clean-cut task that needs to be done. These are the interests which appeal to sensible men and women in life outside the school, and they have proved sufficient for children. Many attempts have been made to substitute devices for these wholesome and fundamental interests. Such attempts not only fail in their purpose, but actually distract the child's mind from the work he has to do. Sugar-coating inevitably destroys the child's appetite for healthy vigorous work.
+
+DIRECTIONS TO PUPILS
+
+Why These Words Should be Studied.—One of the ways by which people judge the writer of a letter is by the presence or absence of spelling errors. Often a young man or young woman has failed to obtain a desirable position because of spelling errors in a letter of application. Even in the ordinary friendly letter, spelling errors make a bad impression. The words which you are to learn from this spelling book are the words which people most frequently use in writing letters. Thousands of letters were read, and each word found was recorded. This book, therefore, contains the words most commonly used in writing, and does not contain any word which has not been found in letters.
+
+How to Learn the Words.—The first step in the study of each lesson will be an exercise in pronunciation. Your teacher will pronounce each word for you. Look at your book closely, noticing each syllable as she pronounces it. When the teacher asks you to pronounce the word after her, look at each syllable closely as you pronounce it.
+
+The second step in learning the lesson is the test. Write each word as plainly as you can and without hesitation. The purpose [Pg xv] of this test is to see whether or not there are any words in the lesson which you cannot spell. The words which you cannot spell will be your work in spelling for the week.
+
+If your teacher asks you to exchange papers for the purpose of correcting them, be sure to do your work very carefully. If you fail to mark a word wrong that has been mispeled, the pupil whose paper you marked will not be able to know that the word should be studied, and so will suffer an injury. On the other hand, it will be very confusing if you mark a word wrong which is really correct. Mark any word wrong that you cannot easily read; also any word if a letter has been written over or a change made. Remember that the purpose of the test is to find out which words need to be studied. The grades of the pupil whose papers you correct are not affected in any way by your marking.
+
+The Meaning of "The Standard Number of Errors."—The words in this book have been given to a great many children in each grade in a number of cities. In that way it was possible to find out the number of errors which children of each grade ordinarily make. If you will compare the number of errors which you make on the test with the number of errors at the bottom of your lesson, you will be able to see how your spelling compares with that of pupils in other parts of the country.
+
+How to Learn to Spell a Word.—A great many men have spent much time and money in finding out for you the best way to learn to spell. The directions which follow are based on what these men have discovered.
+
+1. The first thing to do in learning to spell a word is to pronounce it correctly. Pronounce the word, saying each syllable very distinctly, and looking closely at each syllable as you say it.
+
+2. With closed eyes try to see the word in your book, syllable by syllable, as you pronounce it in a whisper. In pronouncing the words, be sure to say each syllable distinctly. After saying the word, keep trying to recall how the word looked in your book, and at the same time say the letters. Spell by syllables.
+
+3. Open your eyes, and look at the word to see whether or not you had it right.
+
+4. Look at the word again, saying the syllables very distinctly. If you did not have the word right on your first trial, say the letters this time as you look sharply at the syllables.
+
+[Pg xvi] 5. Try again with closed eyes to see the word as you spell the syllables in a whisper.
+
+6. Look again at your book to see if you had the word right. Keep trying until you can spell each syllable correctly with closed eyes.
+
+7. When you feel sure that you have learned the word, write it without looking at your book, and then compare your attempt with the book to see whether or not you wrote it correctly.
+
+8. Now write the word three times, covering each trial with your hand before you write the word the next time, so that you cannot copy. If all of these trials are right, you may say that you have learned the word for the present. If you make a single mistake, begin with the first direction and go through each step again.
+
+9. Study each word by this method. Take special pains to attend closely to each step in the method. Hard and careful work is what counts.
+
+Take Pains with Your Spelling in all Writing.—Take pride in having your compositions and letters free from spelling errors. When you are in the slightest doubt as to how to spell a word, look it up in the dictionary before you write it. When you have found the word in the dictionary, learn it by the method by which you study your regular spelling lessons. In a similar way, if you do make a mistake in spelling in your compositions, learn the word which you mispeled by this same method.
+
+Reviews.—Whenever you have a few minutes after having prepared some lesson, turn back to the errors which you have made on previous spelling tests and spend some time going over the words which you missed on those tests. Occasionally when you are at home, you will find it interesting to have your mother or father or some friend test you over all the words you have missed during the year. You should not be satisfied until you can spell every word correctly.
+
+Notebook.—Keep a spelling notebook. Whether your teacher requires it or not, you will find it very much worth while to keep a spelling notebook. In this you should record all words missed on any test or in compositions which you write. If you find that you are frequently missing a word, write it in a special list and review it frequently.
+
+[Pg 1]
+
+FIRST GRADE
+
+[Pg 2]
+
+DIRECTIONS TO FIRST GRADE TEACHERS
+
+The words in the lessons for first grade children are few in number and relatively easy. You will notice that most of them are phonetic. Each word has been found to be used in correspondence and in a majority of first grade readers. This list is therefore particularly appropriate for first grade children and may be easily learned by them. The authors recommend that this work be begun in the second half year.
+
+Directions for Teaching.—Read again the general directions on pages vii to xvi, inclusive. In general the method used in grade one is the same as that used in later grades. There are, however, certain important differences. You will notice, for example, that first grade lessons contain ten instead of twenty words. You will need also to give more attention for the first two or three weeks to initiating correct habits of study. Remember that teachers above grade one will build upon habits which you initiate.
+
+The words in the first grade list are very simple, so that there should be no difficulty in learning to spell them. Neither should the children have any difficulty in understanding any of the one hundred fifty words.
+
+Directions for Schools in Which the Pupils do Not Write in Grade One.—The pupils in such schools should be taught to study according to the first six directions given under How to Learn to Spell a Word, page xv. The tests in these cases will have to be oral tests. Otherwise, the methods recommended in the general directions may be used.
+
+ 
+
+  1	  2	  3	  4 [Pg 3]
+is	be	but	that
+and	can	dear	to-day
+are	dog	did	up
+day	good	do	was
+he	my	go	an
+in	see	his	as
+it	she	little	big
+me	you	look	come
+all	book	not	for
+at	boy	out	get
+ 
+
+Standard Number of Errors
+I. ( )	I. ( )	I. ( )	I. ( )
+II. 1	II. 1	II. 2	II. 2
+III. 0	III. 1	III. 1	III. 1
+ 
+
+ 
+
+  5	  6	  7	  8 [Pg 4]
+hand	old	way	gold
+have	on	will	hat
+if	one	your	her
+into	over	away	home
+land	run	by	how
+last	say	cannot	ice
+let	tell	doing	looking
+like	the	down	love
+man	this	eat	of
+may	tree	give	play
+ 
+
+Standard Number of Errors
+I. ( )	I. ( )	I. ( )	I. ( )
+II. 2	II. 2	II. 3	II. 3
+III. 1	III. 1	III. 1	III. 1
+ 
+
+ 
+
+   9	 10	 11	 12 [Pg 5]
+so	us	bee	far
+some	we	box	fast
+ten	when	call	fat
+thank	wind	cane	five
+them	with	cat	from
+then	after	coat	gave
+thing	am	cold	girl
+think	apple	corn	going
+three	baby	cow	green
+time	bed	each	had
+ 
+
+Standard Number of Errors
+I. ( )	I. ( )	I. ( )	I. ( )
+II. 3	II. 3	II 4	II. 4
+III. 1	III. 2	III. 2	III. 2
+ 
+
+ 
+
+ 13	 14	 15	 16 [Pg 6]
+hard	must	school	all
+has	night	send	be
+hen	no	six	see
+just	or	snow	not
+live	pig	sun	may
+made	playing	they	for
+make	put	top	in
+milk	red	what	do
+mother	ring	wood	so
+much	sat	ran	no
+ 
+
+Standard Number of Errors
+I. ( )	I. ( )	I. ( )	I. ( )
+II. 4	II. 4	II. 4	II. 1
+III. 2	III. 2	III. 2	III. 1
+ 
+
+[Pg 7]
+
+SECOND GRADE
+
+[Pg 8]
+
+DIRECTIONS TO SECOND GRADE TEACHERS
+
+The second grade list of words contains 340 new words in addition to the review lessons, which include 80 of the most difficult first grade words, and 60 of the homonyms which give the most trouble. The new words are all words frequently used, are words which second grade children can learn easily and, for the most part, are frequently found in the second readers most commonly used. You will find that the method outlined below will enable you to teach these words so that your classes will make very nearly a perfect score on them.
+
+Directions for Teaching.—Read again the directions for teaching as given on pages vii to xvi. You will find it advisable to take some time at the beginning of the term to teach pupils how to study. You will still find it necessary to correct the papers yourself. You may follow the same schedule as that outlined in the general directions. Watch particularly for improper methods of study.
+
+Second grade pupils should write their tests without hesitation and with fair speed. Explain to the pupils with great care that letters which are not made plainly will be counted wrong.
+
+Remember that the lessons are arranged by weeks rather than by days. The work for each week consists of one advance column and one review column. The review column in each case is the fourth column preceding the advance work. That is, it is made up of a week's work one month old. For example, column 5 contains 20 new words to be learned in one week. During the same week, column 1 should be reviewed. The lesson for the first week consists of column 1, which is the advance lesson, and of column R 1, which is the review.
+
+ 
+
+ R-1	 R-2	 R-3	 R-4 [Pg 9]
+dear	sat	top	make
+fat	bee	playing	milk
+cow	baby	came	her
+get	has	pig	apple
+some	home	give	with
+we	looking	had	when
+way	love	from	down
+run	red	far	six
+gold	like	call	send
+cat	going	ice	school
+cold	corn	thank	live
+or	box	put	gave
+them	am	fast	snow
+girl	then	by	what
+this	eat	made	mother
+three	thing	night	after
+ring	much	one	just
+cannot	time	bed	hard
+wind	over	sun	wood
+hat	they	must	five
+ 
+
+Standard Number of Errors
+I. ( )	I. ( )	I. ( )	I. ( )
+II. 5	II. 6	II. 7	II. 8
+III. 3	III. 3	III. 3	III. 4
+ 
+
+ 
+
+  1	  2	  3	  4 [Pg 10]
+ask	forget	ear	year
+back	fun	days	ago
+best	grass	sing	door
+bill	happy	doll	got
+black	hay	hope	May
+blow	hill	grow	bad
+bring	him	boys	ball
+butter	hot	fly	bank
+cake	inside	hands	bell
+cap	its	pink	end
+child	joy	dry	foot
+cup	keep	times	free
+cut	kind	string	king
+ever	kiss	bread	letter
+face	late	needs	most
+farm	lay	rise	same
+feet	left	skin	ship
+fill	light	cry	till
+fish	low	story	yet
+food	meat	tall	about
+ 
+
+Standard Number of Errors
+I. ( )	I. ( )	I. ( )	I. ( )
+II. 8	II. 8	II. 7	II 6
+III. 4	III. 4	III. 3	III. 3
+ 
+
+ 
+
+  5	  6	  7	  8 [Pg 11]
+more	said	very	beside
+morning	sand	wall	better
+Mr.	sent	want	bird
+name	side	war	blue
+never	sister	week	brother
+nine	small	well	calling
+now	stand	west	mild
+off	standing	where	care
+once	state	why	city
+papa	stay	win	cook
+part	sweet	wish	cover
+pen	take	work	cream
+place	telling	yes	dark
+poor	there	afternoon	deep
+rain	to	any	dinner
+read	told	around	drive
+rest	took	barn	drop
+rich	town	bear	dust
+ride	two	became	east
+room	under	become	even
+ 
+
+Standard Number of Errors
+I. ( )	I. ( )	I. ( )	I. ( )
+II. 8	II. 8	II. 9	II. 10
+III. 4	III. 4	III. 5	III. 5
+ 
+
+ 
+
+  9	 10	 11	 12 [Pg 12]
+eye	large	pick	sold
+fall	life	pine	son
+fell	lived	plan	song
+felt	lives	river	soon
+find	long	road	spring
+fine	longer	rock	step
+flat	looked	rose	stop
+found	mine	sad	store
+four	Miss	saw	such
+gate	mud	saying	summer
+glad	myself	seed	supper
+gone	near	seen	table
+gray	now	sell	thin
+head	nice	set	thinking
+hear	noon	sheep	to-night
+help	oh	shop	too
+here	older	show	trust
+hold	open	sleep	upon
+house	our	slow	walk
+hunt	outside	soft	water
+ 
+
+Standard Number of Errors
+I. ( )	I. ( )	I. ( )	I. ( )
+II. 10	II. 10	II. 10	II. 10
+III. 5	III. 5	III. 5	III. 5
+ 
+
+ 
+
+ 13	 14	 15	 16 [Pg 13]
+went	bright	fellow	market
+were	bringing	fire	master
+while	buy	first	meal
+who	children	flower	meet
+wide	clear	frost	met
+wife	clock	gather	might
+window	close	given	mind
+winter	coming	glass	move
+without	cool	ground	nap
+air	could	hang	neck
+alive	dance	held	next
+also	die	horse	north
+asleep	done	June	nothing
+ate	pale	know	other
+been	dress	lady	pass
+behind	every	leave	goats
+bid	fair	leg	right
+bit	farmer	lift	round
+boat	father	loved	rush
+both	feed	many	seven
+ 
+
+Standard Number of Errors
+I. ( )	I. ( )	I. ( )	I. ( )
+II. 12	II. 12	II. 12	II. 12
+III. 6	III. 7	III. 7	III. 7
+ 
+
+ 
+
+ 17	 18	 19	 20 [Pg 14]
+shall	to	seen	oh
+short	way	him	wood
+shut	we	hay	blue
+sick	dear	rain	hear
+sit	some	can't	fair
+something	ring	here	might
+sound	ball	there	new
+south	bee	son	buy
+start	May	too	know
+stick	bad	bear	meet
+still	red	two	right
+stood	one	low	road
+street	by	sell	die
+taken	made	ate	done
+taking	sun	very	flower
+teach	feet	read	air
+then	Miss	our	be
+these	do	four	bread
+true	sent	gray	needs
+try	week	meat	not
+ 
+
+Standard Number of Errors
+I. ( )	I. ( )	I. ( )	I. ( )
+II. 12	II. 6	II. 9	II. 12
+III. 7	III. 3	III. 5	III. 7
+ 
+
+[Pg 15]
+
+THIRD GRADE
+
+[Pg 16]
+
+DIRECTIONS TO THIRD GRADE TEACHERS
+
+The advance lessons, numbered 1 to 28 inclusive, contain a minimum list of 528 new words. The supplementary list contains 80 words, which although easy to spell are not so frequently used in writing letters as are the words of the minimum list. This supplementary list is meant for those schools which because of the long school term or for other reasons, finish the minimum list before the end of the term or year. The lessons marked R-1, R-2, R-3, R-4, are made up of the eighty words taught in preceding grades, but which still give considerable difficulty to third grade children. They should be thoroughly mastered.
+
+Directions for Teacher.—For the first few lessons direct your attention to systematizing class procedure and to teaching pupils how to study effectively. Read carefully again the suggestions on pages vii to xvi.
+
+Pupils in the third grade should be able to make their own corrections so that time may now be saved by having the pupils exchange papers during the first two tests. The teacher should continue to correct the papers written on the final test. The following suggestions will be helpful in getting the coöperation of pupils. After the papers have been exchanged say, "In writing, it is important not only that you know how to spell, but also that you make your letters so that the person who reads your paper can tell easily what you have written. This is the reason that I have asked you to exchange papers. Many people write so that certain letters cannot be told from other letters. This is true of z, g, and y; o and a; t and l; n and u; h and k. When you correct papers and cannot tell which of two letters the writer intended, mark the word wrong. Also mark it wrong if a letter has been [Pg 17] written over or a change made. Words should be learned so that they will be written correctly without hesitation the first time. Any word which has not been learned so that it may be written correctly the first time should be studied again.
+
+"Remember that the purpose of this test is to find out which words need further study. It does not affect your grades. You will do the pupil whose paper you have a favor by marking his errors so that he may correct them. Mark each error by placing after it a cross—so (x)."
+
+Pupils should keep a special list of words which they have missed in their compositions. These words should be studied by the same method used in studying the regular spelling lesson. Such words will not be taken up, however, in the regular lessons.
+
+Remember that the lessons are arranged by weeks rather than by days. The work for each week consists of one advance column and one review column. The review column in each case is the fourth column preceding the advance work. That is, it is made up of a week's work one month old. For example, column 5 contains 20 new words to be learned in one week. During the same week, column 1 should be reviewed. The lesson for the first week consists of column 1, which is the advance lesson, and of column R 1, which is the review.
+
+ 
+
+ R-1	 R-2	 R-3	 R-4 [Pg 18]
+[Pg 19]
+dark	meal	also	five
+fair	market	held	shed
+feed	leave	nap	leg
+June	gather	sound	might
+sit	air	these	frost
+nothing	alive	lift	shall
+nor	street	hope	white
+saying	stick	buy	looked
+step	something	neck	taken
+drop	took	next	loved
+dress	master	short	than
+road	glass	such	hang
+ground	both	right	pass
+given	been	move	asleep
+other	behind	mind	fellow
+bit	bright	met	small
+beside	lady	done	farmer
+became	walk	seven	know
+gray	try	fire	bringing
+water	thinking	rush	taking
+ 
+
+Standard Number of Errors
+II. 6	II. 7	II. 7	II. 8
+III. 3	III. 3	III. 3	III. 4
+IV. 1	IV. 1	IV. 1	IV. 2
+ 
+
+ 
+
+  1	  2	  3	  4 [Pg 20]
+tone	banks	toy	bay
+blush	yours	age	cent
+cramp	tan	being	grade
+goods	bag	lot	Monday
+tub	line	pay	pie
+blot	dine	seeing	pin
+cards	guns	along	stove
+cars	map	aside	trip
+cave	bind	band	bat
+chase	girls	belong	blank
+darn	save	game	car
+hook	kinds	hall	card
+keg	bath	lake	date
+lip	lap	lost	hog
+yell	lock	mad	kid
+pave	weeks	March	landing
+peck	fool	nut	mail
+plants	salt	oil	mark
+sole	near-by	silk	net
+split	plans	singing	park
+ 
+
+Standard Number of Errors
+II. 4	II. 8	II. 8	II. 9
+III. 2	III. 4	III. 4	III. 5
+IV. 1	IV. 2	IV. 1	IV. 2
+ 
+
+ 
+
+  5	  6	  7	  8 [Pg 21]
+horn	sport	page	rent
+looks	Sunday	paper	spell
+dig	tent	plate	post
+gives	working	price	thanking
+pant	able	spent	train
+mouse	arm	walking	add
+shore	art	willing	bean
+tall	bake	within	bet
+bless	born	yard	bunch
+fond	faster	added	cane
+showing	finding	asking	cash
+mat	forgot	below	cattle
+pipe	form	blame	clay
+books	grand	camp	colder
+tender	helping	cast	cooking
+steam	hit	Christmas	cord
+roar	ill	class	farming
+star	kill	clean	list
+tool	mill	cost	lunch
+bone	note	danger	paying
+ 
+
+Standard Number of Errors
+II. 9	II. 10	II. 11	II. 11
+III. 5	III. 5	III. 6	III. 6
+V. 2	IV. 2	IV. 3	IV. 3
+ 
+
+ 
+
+  9	 10	 11	 12 [Pg 22]
+ink	drum	lump	rice
+inch	egg	mate	rug
+print	feeding	mouth	slip
+brand	finger	number	smart
+tenth	fit	order	spelling
+tip	forgive	ours	stamp
+plow	Friday	pole	test
+wake	fur	porch	washing
+whenever	glee	race	wishing
+wild	goat	rate	belt
+fort	grant	reading	grape
+peach	heat	real	eve
+sin	holding	report	glove
+wool	hour	saved	job
+sum	however	seat	lace
+rail	hunting	shot	law
+sack	July	sink	mend
+rank	kindly	sort	ranch
+brick	larger	spot	roll
+write	luck	stone	self
+ 
+
+Standard Number of Errors
+II. 11	II. 12	II. 12	II. 12
+II. 7	III. 7	III. 7	III. 8
+IV. 3	IV. 3	IV. 3	IV. 4
+ 
+
+ 
+
+ 13	 14	 15	 16 [Pg 23]
+wash	rather	teacher	birthday
+wet	full	tie	bite
+slide	strong	whatever	block
+stock	hug	across	body
+swell	strange	again	dig
+trade	draw	ahead	boxes
+wheel	lines	alone	broke
+word	candy	always	brought
+drew	sail	another	called
+shows	drink	apart	case
+blood	goes	April	catch
+lots	comes	asked	chair
+grapes	pile	aunt	check
+forms	dare	badly	church
+mix	means	basket	cloth
+rub	shake	beat	clothing
+sake	swing	because	club
+maid	hide	beg	coal
+sweep	desk	begin	contest
+fry	wants	bench	corner
+ 
+
+Standard Number of Errors
+II. 13	II. 13	II. 13	II. 13
+III. 8	III. 8	III. 8	III. 8
+IV. 4	IV. 4	IV. 4	IV. 4
+ 
+
+ 
+
+ 17	 18	 19	 20 [Pg 24]
+count	garden	killed	own
+cross	gift	later	pack
+darling	grandma	least	pain
+dead	great	less	party
+deal	soda	lie	passing
+dearly	hair	lovely	past
+December	half	making	picking
+deed	happen	matter	please
+died	harder	mean	plum
+early	hardly	miss	pocket
+eighth	having	money	point
+enter	hearing	nearly	pound
+evening	apples	shame	pure
+fear	herself	need	queen
+fight	high	nobody	rabbit
+file	himself	none	reach
+floor	hole	nor	riding
+flour	hundred	nose	rolling
+forest	indeed	oats	roof
+forth	jump	only	row
+ 
+
+Standard Number of Errors
+II. 13	II. 13	II. 13	II. 13
+III. 8	III. 8	III. 8	III. 8
+IV. 4	IV. 4	IV. 4	IV. 4
+ 
+
+ 
+
+ 21	 22	 23	 24 [Pg 25]
+safe	alike	those	hour
+seem	white	thought	mail
+sending	pork	thus	write
+shade	yellow	tiny	flour
+shape	yourself	twenty	eight
+shoe	shoot	warm	weak
+sight	spite	washed	sole
+silver	swim	weak	ours
+sir	things	which	past
+sorry	gay	wonder	their
+space	grave	erect	beat
+spend	golden	worked	pain
+spending	sharp	world	flower
+spoke	smell	woven	hall
+storm	smile	yesterday	maid
+sunshine	stir	above	sum
+talk	boy	act	real
+talking	drawn	almost	ate
+teeth	blanket	anything	cent
+their	feather	before	need
+ 
+
+Standard Number of Errors
+II. 13	II. 13	II. 14	II. 13
+III. 8	III. 9	III. 9	III. 8
+IV. 4	IV. 4	IV. 4	IV. 4
+ 
+
+ 
+
+ 25	 26	 27	 28 [Pg 26]
+feast	fix	quilt	sent
+men	figs	rag	fur
+moon	kept	rid	real
+mile	lamp	sauce	sail
+plant	pan	speech	roll
+bags	soul	spoon	sour
+beans	spoil	steak	stain
+dish	truth	straw	boy
+lead	wed	vines	died
+hogs	roots	worms	forth
+crutch	bare	ants	great
+prune	fought	bark	mid
+smoke	blight	bend	bus
+spray	led	bills	dirt
+tea	comb	breath	hair
+thanks	farms	fields	choose
+sea	eggs	bud	lie
+laugh	lawn	lend	seem
+knee	miles	hills	taste
+pears	pail	key	skip
+ 
+
+Standard Number of Errors
+II. 12	II. 15	II. 15	II. 15
+III. 7	III. 10	III. 10	III. 10
+IV. 3	IV. 5	IV. 5	IV. 5
+ 
+
+ 
+
+ S-1	 S-2	 S-3	 S-4 [Pg 27]
+cab	pet	asks	trick
+cape	heal	bald	mumps
+bug	heel	pails	takes
+dull	hens	blind	bedtime
+fold	grin	crack	pants
+poem	pour	bush	hilly
+gun	pray	bull	flight
+kick	hose	cords	houses
+scratch	pond	cuff	postman
+mop	twin	dusty	hoarse
+nail	make	dwell	hopes
+pint	rode	drag	knife
+ties	loaf	drown	greet
+push	loop	desk	lamps
+rope	root	plush	makes
+split	scar	sadly	gloves
+mob	tuck	scalp	gentle
+nod	moth	roses	glance
+pad	oars	glue	manly
+rob	weed	grab	shelf
+ 
+
+Standard Number of Errors
+II. 15	II. 15	II. 15	II. 15
+III. 10	III. 10	III. 10	III. 10
+IV. 5	IV. 5	IV. 5	IV. 5
+ 
+
+[Pg 28]
+[Pg 29]
+
+FOURTH GRADE
+
+[Pg 30]
+
+DIRECTIONS TO FOURTH GRADE TEACHERS
+
+The advanced lessons numbered 1 to 32 inclusive contain 620 new words. The supplementary list containing 80 new words is meant for schools which because of the long term or for other reasons, finish the minimum list of words before the end of the year. The lessons marked R-1, R-2, R-3, R-4, are made up of the 80 words in the third grade list which are most commonly mispeled by fourth grade children. These 80 words should be thoroughly mastered. There are also reviewed 20 homonyms which commonly are confused by children of this grade.
+
+Directions for Teaching.—Read the preface and study with particular care the suggestions given on pages vii to xvi. It would be well also to read the suggestions to first, second and third grade teachers. You will need to supervise the correction of papers by pupils very closely.
+
+Remember that the lessons are arranged by weeks rather than by days. The work for each week consists of one advance column and one review column. The review column in each case is the fourth column preceding the advance work. That is, it is made up of a week's work one month old. For example, column 5 contains 20 new words to be learned in one week. During the same week, column 1 should be reviewed. The lesson for the first week consists of column 1, which is the advance lesson, and of column R 1, which is the review.
+
+ 
+
+ R-1	 R-2	 R-3	 R-4 [Pg 31]
+[Pg 19]
+ranch	herself	check	pound
+movement	rabbit	file	roof
+badly	shame	garden	sending
+before	those	himself	shade
+lie	lovely	lace	silver
+nor	need	miss	spoke
+past	rolling	only	stock
+beg	seem	tiny	trade
+corner	beg	which	begin
+cast	bench	across	darling
+least	bite	act	deed
+slide	drew	beat	feeding
+fear	flour	belt	fit
+gift	forth	called	goat
+indeed	happen	cloth	soda
+roll	killed	club	jump
+almost	none	hundred	mend
+anything	their	list	pack
+enter	woven	matter	queen
+spend	brick	nearly	rank
+ 
+
+Standard Number of Errors
+III. 12	III. 10	III. 10	III. 6
+IV. 6	IV. 5	IV. 5	IV. 3
+V. 2	V. 2	V. 2	V. 1
+ 
+
+ 
+
+  1	  2	  3	  4 [Pg 32]
+Jan.	October	brush	kitten
+Nov.	oven	burn	leader
+banker	printed	carpet	lover
+delay	soil	cleaning	liver
+Feb.	remove	counting	lumber
+goldfish	snowed	dandy	mailed
+overcoat	snowing	depend	enroll
+Sat.	stage	dollar	nation
+worker	tank	dresser	office
+officers	teaching	fence	outfit
+overlook	Tuesday	fifty	paint
+backing	yearly	football	banking
+covering	dislike	friend	stated
+Dec.	scratch	garment	proper
+fishing	agree	handed	sixty
+grove	Aug.	heating	rained
+handy	belonging	homesick	recall
+longest	board	inches	recover
+maker	boss	January	remark
+Oct.	bother	kinder	renter
+ 
+
+Standard Number of Errors
+III. 6	III. 7	III. 8	III. 8
+IV. 3	IV. 4	IV. 4	IV. 4
+V. 1	V. 1	V. 2	V. 2
+ 
+
+ 
+
+  5	  6	  7	  8 [Pg 33]
+reader	sample	fork	know
+adding	sickness	ham	speak
+size	railroad	rule	blew
+rust	post card	Mrs.	wheat
+likely	some one	pair	third
+skate	speaker	use	easy
+soap	starting	quick	earth
+press	staying	wear	twice
+tire	unable	sure	music
+ten	wanting	trunk	moved
+wire	leaving	turn	wagon
+zone	driver	news	visit
+neat	marking	fail	wanted
+witch	display	grain	thick
+best	straight	few	watch
+cedar	anyone	lead	sugar
+term	rushed	march	does
+draft	largely	used	worth
+per	understanding	wise	would
+inclosed	alley	crop	young
+ 
+
+Standard Number of Errors
+III. 8	III. 8	III. 10	III. 10
+IV. 4	IV. 4	IV. 5	IV. 5
+V. 2	V. 2	V. 2	V. 2
+ 
+
+ 
+
+  9	 10	 11	 12 [Pg 34]
+simple	heard	granted	should
+carry	patch	seventh	sirs
+learned	chop	raining	export
+Sept.	heap	raised	suffer
+shortly	stunt	rubber	paid
+invited	front	sofa	ends
+cared	velvet	dressed	hoops
+lone	dearest	goose	tear
+drill	render	death	rates
+drug	thread	protest	grandpa
+fruit	brain	cleaner	tooth
+tile	ocean	trace	clip
+dream	rented	chart	beach
+leaves	ford	dozen	giving
+pride	lame	packing	charge
+renew	tend	month	opens
+grown	sixth	wedding	steamer
+partly	temple	cheer	event
+pencil	handle	damp	soup
+eighty	folder	removed	couch
+ 
+
+Standard Number of Errors
+III. 10	III. 10	III. 10	III. 10
+IV. 5	IV. 5	IV. 5	IV. 5
+V. 2	V. 2	V. 2	V. 2
+ 
+
+ 
+
+ 13	 14	 15	 16 [Pg 35]
+started	battle	gladly	classes
+bought	island	team	filling
+branch	sooner	content	match
+thankful	lesson	pillow	closed
+change	mamma	travel	seventy
+country	mighty	booklet	track
+printing	moment	center	behalf
+feeling	strongest	newspaper	calf
+harvest	oldest	prevent	cotton
+somewhere	unless	treat	grew
+finish	trying	forme$1	inspect
+welcome	o'clock	mostly	postage
+ready	opening	range	pump
+township	walked	awhile	coast
+everyone	people	growing	holder
+bathroom	person	keeping	western
+weather	picture	bottle	army
+together	getting	provide	leather
+everything	good-night	bushel	merry
+understand	September	quart	noise
+ 
+
+Standard Number of Errors
+III. 10	III. 10	III. 10	III. 11
+IV. 5	IV. 5	IV. 5	IV. 5
+V. 2	V. 2	V. 2	V. 2
+ 
+
+ 
+
+ 17	 18	 19	 20 [Pg 36]
+station	member	company	income
+brown	wrote	return	bankers
+funny	agent	answer	bookcase
+twelve	sometime	pleased	reports
+coffee	between	remain	teapot
+filled	follow	enough	undress
+noted	uncle	amount	waken
+plain	build	doctor	pancake
+mailing	county	meeting	papers
+otherwise	payment	fact	plaster
+somewhat	whole	chance	defeat
+itself	building	learn	inclose
+pull	study	November	mess
+kindness	vote	present	pulse
+bleed	heavy	pretty	rake
+hate	trusting	since	slice
+labor	Thursday	through	toast
+reached	chicken	busy	frozen
+largest	selling	guess	bloom
+scout	ticket	waited	climb
+ 
+
+Standard Number of Errors
+III. 11	III. 11	III. 11	III. 11
+IV. 5	IV. 5	IV. 6	IV. 6
+V. 2	V. 2	V. 3	V. 3
+ 
+
+ 
+
+ 21	 22	 23	 24 [Pg 37]
+expert	fade	saving	gallon
+poorly	knock	thousand	stair
+tax	whip	value	excuse
+turkey	causes	request	iron
+understood	storage	afraid	exchange
+zero	sudden	suit	demand
+absent	noisy	hotel	hurry
+moving	enclosed	idea	sale
+named	ugly	program	figure
+rack	windy	among	inform
+retail	impress	fully	returned
+sock	orders	August	wonderful
+chapter	prison	cause	nicely
+dread	replied	vacation	auto
+household	charges	serve	valued
+leaf	cracker	thirty	wished
+cloudy	cupboard	intend	kitchen
+dispose	dishes	anyway	sheet
+farther	distant	everybody	duty
+packed	eleven	hurt	plenty
+ 
+
+Standard Number of Errors
+III. 11	III. 12	III. 12	III. 12
+IV. 7	IV. 7	IV. 7	IV. 7
+V. 3	V. 3	V. 3	V. 3
+ 
+
+ 
+
+ 25	 26	 27	 28 [Pg 38]
+rip	cheek	respect	fancy
+steel	delight	voter	located
+chill	awake	single	talked
+joined	repair	anywhere	dealing
+kisses	living	fresh	lower
+knowing	power	higher	bonnet
+reported	smaller	officer	spread
+retain	nature	raw	running
+treated	changed	title	branches
+French	contain	improve	broken
+jar	monthly	deliver	greater
+learning	gain	liberty	provided
+seal	court	proud	afterward
+lamb	kindest	failed	anyhow
+snap	offering	chain	elect
+strongly	meantime	cleaned	gown
+froze	wrong	dated	greeting
+junk	grind	produce	honest
+ordering	share	bugs	lung
+circus	extent	locate	remind
+ 
+
+Standard Number of Errors
+III. 12	III. 12	III. 12	III. 12
+IV. 7	IV. 7	IV. 7	IV. 7
+V. 3	V. 3	V. 3	V. 3
+ 
+
+ 
+
+ 29	 30	 31	 32 [Pg 39]
+owe	male	gem	plain
+worm	most	tail	per
+earn	melt	task	board
+yoke	mode	tape	size
+pearl	mood	lack	haul
+offer	rural	thrown	tax
+years	pear	through	wrote
+heart	peas	toe	build
+often	mouse	legal	whole
+shirt	pests	tore	cast
+hoped	sales	trim	stair
+firms	scold	mental	sale
+bail	seek	urged	beet
+marry	shell	vest	pair
+rainy	sneeze	booster	wear
+silly	path	wipe	knew
+fudge	jelly	yield	blew
+broad	staid	manual	would
+shine	stoves	boost	lone
+equal	stuck	walnut	grown
+ 
+
+Standard Number of Errors
+III. 12	III. 13	III. 15	III. 11
+IV. 7	IV. 8	IV. 9	IV. 5
+V. 3	V. 4	V. 5	V. 2
+ 
+
+ 
+
+ S-1	 S-2	 S-3	 S-4 [Pg 40]
+shirts	tempt	ages	jolly
+muddy	boy's	alarm	layer
+skim	charm	amuse	breast
+sky	faith	bitter	mince
+slap	yards	blanks	legging
+slick	bead	brine	dean
+stack	grate	cabin	oyster
+stands	socks	pages	pantry
+steep	dates	Co.	parade
+sting	yarn	drift	player
+stool	wring	dies	wave
+stoop	limp	empty	polish
+strip	states	escape	puzzle
+stump	stretch	floss	rules
+tack	bruise	strap	saucer
+tag	wreck	frank	scream
+tease	peep	haul	screen
+tune	peak	heaven	stag
+ways	sketch	lard	steal
+words	tact	lean	eighth
+ 
+
+Standard Number of Errors
+III. 10	III. 13	III. 15	III. 15
+IV. 5	IV. 8	IV. 9	IV. 10
+V. 2	V. 4	V. 5	V. 5
+ 
+
+[Pg 41]
+
+FIFTH GRADE
+
+[Pg 42]
+
+DIRECTIONS TO FIFTH GRADE TEACHERS
+
+The minimum lessons for this grade are numbered from 1 to 32, and contain 620 new words of the minimum list. The lessons marked R-1, R-2, R-3, R-4, are made up of words from the fourth grade lessons which are most frequently mispeled by fifth grade children. In addition to these eighty review words, there is one review lesson containing homonyms. There are also two supplementary lessons made up of words which are new but which are not so commonly used as those in the minimum list. As in preceding grades, these supplementary lessons are introduced in order to afford additional work for classes which finish the regular lessons before the end of the year. There are also two lessons containing names of the months, days of the week, and certain abbreviations.
+
+Directions for Teaching.—Read carefully the suggestions on pages vii to xvi. Read also the suggestions to teachers of the first four grades. See to it that your pupils attack their lessons in an aggressive manner. The pupils in grade five do considerable work in written composition, so it will be well to watch very closely the errors made in such work. Have the pupils learn all words mispeled in their written work, using the same method as in their regular spelling lessons.
+
+Remember that the lessons are arranged by weeks rather than by days. The work for each week consists of one advance column and one review column. The review column in each case is the fourth column preceding the advance work. That is, it is made up of a week's work one month old. For example, column 5 contains 20 new words to be learned in one week. During the same week, column 1 should be reviewed. The lesson for the first week consists of column 1, which is the advance lesson, and of column R 1, which is the review.
+
+ 
+
+ R-1	 R-2	 R-3	 R-4 [Pg 43]
+running	joined	wrong	broad
+legal	tax	anyway	cleaned
+mental	chapter	greater	eighty
+process	dread	hurt	everybody
+booster	farther	junk	froze
+rural	fully	o'clock	fruit
+manual	idea	ordering	granted
+straight	inspect	anyhow	kindest
+enroll	jar	blew	lamb
+mamma	kitchen	chain	leaf
+rainy	knowing	enclosed	liberty
+owe	dealing	circus	living
+French	expert	gallon	Mrs.
+largely	frozen	greeting	neat
+cedar	guess	opening	ocean
+together	moment	noisy	officer
+term	reached	retail	pencil
+busy	remind	worm	pretty
+gain	serve	afterward	program
+intend	valued	among	provided
+ 
+
+Standard Number of Errors
+IV. 13	IV. 8	IV. 8	IV. 7
+V. 8	V. 4	V. 4	V. 3
+VI. 5	VI. 2	VI. 2	VI. 2
+ 
+
+ 
+
+  1	  2	  3	  4 [Pg 44]
+acting	charming	copy	shed
+Bible	chum	wait	birth
+closer	clever	edge	speed
+crib	colt	won	odd
+depending	drilling	brace	mass
+glasses	earning	beef	youth
+grandfather	flesh	enjoy	fuel
+maple	formed	joke	worse
+overlooked	globe	favor	hare
+painted	hardware	until	loud
+pending	joyful	peace	jaw
+planted	lighting	reply	main
+posted	likewise	frame	wage
+printer	loaded	rough	tread
+renting	lucky	family	score
+stranger	painter	slipper	scale
+tested	reaching	wishes	cure
+trained	respond	united	rye
+whereby	red	nerve	graze
+candle	sash	caused	creep
+ 
+
+Standard Number of Errors
+IV. 5	IV. 7	IV. 7	IV. 8
+V. 2	V. 3	V. 3	V. 4
+VI. 1	VI. 2	VI. 2	VI. 2
+ 
+
+ 
+
+  5	  6	  7	  8 [Pg 45]
+scare	sore	diner	sewing
+fifth	gas	burst	steady
+hers	says	listen	dirty
+ease	whom	powder	ivory
+scrap	union	pitcher	turned
+dose	women	voice	eager
+throw	stuff	linen	bridge
+tried	crazy	built	freeze
+checks	tired	fixed	narrow
+hasten	force	penny	refuse
+chore	habit	liked	strike
+notes	piano	taught	insist
+scrub	cough	rapid	seemed
+seems	nurse	finest	caught
+Ave.	raise	dairy	valley
+finds	ought	loyal	comply
+bulbs	extra	devil	weary
+grit	appear	organ	reduce
+dodge	fourth	await	showed
+weekly	button	blessed	angry
+ 
+
+Standard Number of Errors
+IV. 8	IV. 8	IV. 8	IV. 8
+V. 4	V. 4	V. 4	V. 4
+VI. 2	VI. 2	VI. 2	VI. 2
+ 
+
+ 
+
+  9	 10	 11	 12 [Pg 46]
+admire	needed	placing	eighteen
+bundle	bottom	reaches	northern
+runner	figured	somebody	thirteen
+sentence	comfort	movement	amounting
+shadow	throat	informed	withdraw
+insure	stating	handsome	including
+friendly	surface	inviting	industry
+papered	foolish	contained	breaking
+circle	carried	English	post-office
+gaining	message	helpful	homestead
+cooler	central	improved	workmanship
+Easter	helped	changing	housekeeping
+boiler	active	checking	handled
+elbow	shoulder	intended	inclosing
+enlarge	closing	visited	returning
+formal	opened	dealings	settlement
+regain	played	stamped	nevertheless
+bracelet	covered	watching	language
+amounts	damage	anybody	hereafter
+charged	quickly	pavement	production
+ 
+
+Standard Number of Errors
+IV. 8	IV. 8	IV. 8	IV. 8
+V. 4	V. 4	V. 4	V. 4
+VI. 2	VI. 2	VI. 2	VI. 2
+ 
+
+ 
+
+ 13	 14	 15	 16 [Pg 47]
+picnic	directed	detail	perfect
+taxes	fitting	action	capital
+raising	flavor	ladies	misplaced
+repeat	products	latter	writing
+cheaper	disposed	manage	subject
+decline	recovered	parlor	furnish
+lowest	discovered	degree	instead
+cutting	checked	useful	advance
+stopped	needle	reason	handling
+proven	cheerful	season	daughter
+latest	eleventh	writer	chairman
+setting	deeply	second	requested
+conduct	feeder	record	mountain
+dancing	German	notice	potatoes
+devoted	prevented	direct	answered
+studies	suffering	cousin	contract
+hence	crowded	enjoyed	treatment
+skating	coasting	explain	delightful
+drafts	divide	married	delivered
+clearly	shower	highest	answering
+ 
+
+Standard Number of Errors
+IV. 8	IV. 8	IV. 8	IV. 8
+V. 4	V. 4	V. 4	V. 4
+VI. 2	VI. 2	VI. 2	VI. 2
+ 
+
+ 
+
+ 17	 18	 19	 20 [Pg 48]
+sew	ordered	though	import
+deer	factory	during	changes
+join	middle	enclose	builder
+daily	lonesome	address	mistake
+prize	placed	perhaps	baseball
+began	breakfast	providing	suitable
+public	postal	ashamed	relations
+color	beaten	cottage	appoint
+field	extend	already	department
+cheap	awaiting	express	nearer
+prove	package	Saturday	months
+chest	history	greatest	expect
+waist	obtain	delighted	preach
+kept	square	shipment	proved
+known	finished	painting	cheese
+judge	fifteen	pleasure	sleepy
+settle	waiting	trouble	frankly
+woman	invite	several	prices
+dealer	orange	training	poultry
+health	require	slippery	writer's
+ 
+
+Standard Number of Errors
+IV. 8	IV. 8	IV. 8	IV. 10
+V. 4	V. 4	V. 4	V. 5
+VI. 2	VI. 2	VI. 2	VI. 3
+ 
+
+ 
+
+ 21	 22	 23	 24 [Pg 49]
+buyer	begun	length	ribbon
+proof	buggy	normal	adjust
+spare	sleet	barrel	notion
+apply	topic	begged	quoted
+bluff	chose	submit	unpaid
+waste	admit	borrow	employ
+coach	slept	barley	winner
+honor	upper	weight	famous
+claim	credit	bigger	gained
+ample	attend	collar	recess
+lodge	supply	gotten	served
+blaze	result	object	namely
+level	secure	sleeve	sorrow
+aware	couple	debate	misses
+filing	advice	animal	voting
+shock	dainty	cities	agreed
+owned	profit	beauty	offers
+actor	regret	lonely	artist
+worst	permit	beyond	factor
+acted	buying	loving	recite
+ 
+
+Standard Number of Errors
+IV. 10	IV. 10	IV. 10	IV. 10
+V. 5	V. 5	V. 5	V. 5
+VI. 3	VI. 3	VI. 3	VI. 3
+ 
+
+ 
+
+ 25	 26	 27	 28 [Pg 50]
+points	truly	bond	lbs.
+roast	account	sign	bulk
+soak	feel	fee	Tues.
+thumb	quite	quit	germ
+warn	regard	view	solo
+bathe	suppose	aid	local
+blouse	advise	loss	skirt
+cloud	to-morrow	diet	worry
+friends	desire	fund	pupil
+gorge	further	text	quiet
+plait	enclosing	aim	break
+stew	question	base	owner
+strain	acre	grip	fever
+stroll	balance	duet	owing
+wealth	else	film	shown
+guard	hoping	gravy	crowd
+juice	except	limb	model
+kegs	statement	lazy	touch
+lease	minute	bowl	weigh
+stitch	oblige	knot	clerk
+ 
+
+Standard Number of Errors
+IV. 9	IV. 10	IV. 10	IV. 10
+V. 5	V. 5	V. 5	V. 5
+VI. 3	VI. 3	VI. 3	VI. 3
+ 
+
+ 
+
+ 29	 30	 31	 32 [Pg 51]
+saddle	husband	deserve	Sunday
+fitted	parties	illness	Monday
+insert	putting	neglect	Tuesday
+backed	invoice	reduced	Wednesday
+baking	obliged	sitting	Thursday
+struck	evident	stories	Friday
+forward	product	excited	Saturday
+against	matters	letting	January
+written	climate	breathe	February
+machine	primary	needing	March
+careful	delayed	offices	April
+student	fashion	captain	May
+greatly	rapidly	percent	June
+quarter	noticed	blossom	July
+correct	plainly	fullest	August
+lecture	elected	renewed	September
+holiday	butcher	serving	October
+include	example	silence	November
+pattern	reserve	uniform	December
+measure	soldier	although	Christmas
+ 
+
+Standard Number of Errors
+IV. 10	IV. 10	IV. 10	IV. 5
+V. 5	V. 5	V. 5	V. 2
+VI. 3	VI. 3	VI. 3	VI. 1
+ 
+
+ 
+
+ 33	 34	 S-1	 S-2 [Pg 52]
+Sun.	feet	fireman	acres
+Mon.	needed	solve	argue
+Tues.	main	stable	border
+Wed.	weigh	starve	mason
+Thurs.	weight	stiff	acid
+Fri.	freeze	stingy	China
+Sat.	grip	switch	civil
+Jan.	birth	tablet	harm
+Feb.	won	undo	false
+Aug.	sewing	unpack	acute
+Sept.	base	verse	deny
+Oct.	break	grocer	shove
+Nov.	prize	whisper	envy
+Dec.	peace	clothes	feat
+Co.	waste	drawing	tool
+Dr.	shown	happens	attic
+Mr.	waist	pretend	voted
+Mrs.	fourth	groom	muddy
+St.	capital	olive	shave
+Ave.	wait	launch	veal
+ 
+
+Standard Number of Errors
+IV. 5	IV. 9	IV. 9	IV. 9
+V. 2	V. 6	V. 6	V. 6
+VI. 1	VI. 3	VI. 3	VI. 3
+ 
+
+[Pg 53]
+
+SIXTH GRADE
+
+[Pg 54]
+
+DIRECTIONS TO SIXTH GRADE TEACHERS
+
+The advance lessons numbered 1 to 32 inclusive contain 640 new words. The supplementary list containing 80 new words is meant for schools which, because of the long term or for other reasons, finish the minimum list of words before the end of the year. The lessons marked R-l, R-2, R-3, R-4, are made up of 80 words in the fifth grade list which are most commonly mispeled by sixth grade children.
+
+Directions for Teaching.—Read the preface and study with particular care the suggestions given on pages vii to xvi. It would be well also to read the suggestions given to teachers of the first five grades. Give particular attention to the correction of all written work.
+
+Remember that the lessons are arranged by weeks rather than by days. The work for each week consists of one advance column and one review column. The review column in each case is the fourth column preceding the advance work. That is, it is made up of a week's work one month old. For example, column 5 contains 20 new words to be learned in one week. During the same week, column 1 should be reviewed. The lesson for the first week consists of column 1, which is the advance lesson, and of column R 1, which is the review.
+
+ 
+
+ R-1	 R-2	 R-3	 R-4 [Pg 55]
+fund	pattern	buying	advise
+habit	caught	fee	collar
+owing	writing	invoice	fever
+parties	buyer	oblige	quarter
+proof	couple	opened	to-morrow
+pupil	forward	rough	its
+quiet	gotten	scrap	hoping
+sigh	voting	aid	measure
+until	minute	crazy	owing
+barrel	needed	enclosing	level
+clerk	question	greatly	obliged
+color	sew	grip	putting
+dealer	throw	loss	regard
+handling	although	ought	touch
+husband	ample	picnic	truly
+model	quite	profit	weigh
+parlor	breakfast	shown	loving
+placing	delayed	break	crowd
+though	feel	explain	further
+account	fourth	shock	waste
+ 
+
+Standard Number of Errors
+V. 5	V. 6	V. 7	V. 8
+VI. 3	VI. 4	VI. 4	VI. 5
+VII. 1	VII. 2	VII. 2	VII. 3
+ 
+
+ 
+
+  1	  2	  3	  4 [Pg 56]
+delivery	entering	improving	accept
+election	dreadful	performed	herewith
+continue	dwelling	crippled	attack
+property	boarding	requesting	barrels
+prospect	following	increasing	cactus
+shipping	gentleman	investment	destroy
+standard	perfectly	throughout	pepper
+enjoying	Wednesday	explained	errand
+properly	directory	addresses	flowers
+visiting	intention	regulation	grower
+relation	happened	containing	nicer
+promised	reduction	furnishing	fabric
+headache	attending	forwarding	lemon
+required	countries	friendship	olives
+gasoline	obtained	yourselves	peaches
+nineteen	enjoyment	deportment	places
+southern	expressed	Thanksgiving Day	mitten
+frighten	presented	headquarter	regards
+fourteen	extending	relationship	sandy
+outlined	traveling	collections	cooky
+ 
+
+Standard Number of Errors
+V. 5	V. 5	V. 5	V. 5
+VI. 3	VI. 3	VI. 3	VI. 3
+VII. 1	VII. 1	VII. 1	VII. 2
+ 
+
+ 
+
+  5	  6	  7	  8 [Pg 57]
+polite	million	problem	wired
+foggy	total	included	exact
+samples	duties	private	humor
+secured	payable	expected	issue
+sections	cigar	advising	moral
+severe	final	furnished	bury
+melons	polls	foundation	royal
+twelfth	carrier	geography	sunny
+escort	worthy	companion	curly
+buttons	pastor	location	appeal
+cabbage	modern	directly	common
+canon	watched	progress	assist
+consent	feature	refreshment	entire
+insects	collect	extended	notify
+jealous	jury	conversation	period
+laundry	refused	promotion	burner
+listed	ideal	adventure	caller
+pickle	burden	expecting	concert
+publish	fortune	protected	carbon
+hinges	female	concluded	memory
+ 
+
+Standard Number of Errors
+V. 5	V. 5	V. 5	V. 6
+VI. 3	VI. 3	VI. 3	VI. 4
+VII. 2	VII. 2	VII. 2	VII. 2
+ 
+
+ 
+
+  9	 10	 11	 12 [Pg 58]
+chilly	personal	encourage	loam
+presume	reliable	factories	dirt
+regular	absolute	inspector	berth
+special	approved	neglected	due
+advised	attended	ourselves	piece
+arrived	commerce	president	loan
+certain	consider	reception	firm
+connect	honestly	situation	lose
+justify	increase	instruction	ache
+liberal	interest	collection	whose
+musical	moderate	composition	fault
+natural	prepared	connecting	passed
+quality	suffered	connection	taste
+baggage	charging	consideration	loose
+bidding	resulting	construction	lime
+educate	appointed	correction	wrap
+happily	corrected	difference	terms
+seasons	correctly	instructed	ditch
+credits	dangerous	particular	loans
+instruct	direction	departments	pity
+ 
+
+Standard Number of Errors
+V. 6	V. 6	V. 6	V. 7
+VI. 4	VI. 4	VI. 4	VI. 4
+VII. 2	VII. 2	VII. 2	VII. 2
+ 
+
+ 
+
+ 13	 14	 15	 16 [Pg 59]
+queer	important	debating	entirely
+growth	prepare	gentlemen	automobile
+tight	inquire	believe	effort
+fare	item	attention	section
+chief	lately	information	maybe
+forced	beautiful	service	arrange
+group	according	future	prompt
+booth	depot	remember	addressed
+ninth	forty	condition	recently
+smooth	hospital	replying	promptly
+guide	offered	interested	carefully
+calm	hello	either	allow
+scarce	channel	advantage	district
+debts	favorable	different	promise
+strict	February	general	instant
+crew	curtain	therefore	surprise
+fern	mentioned	regarding	mention
+bass	using	arrive	education
+billed	stayed	success	complete
+braid	fairly	forenoon	neighbor
+ 
+
+Standard Number of Errors
+V. 7	V. 7	V. 7	V. 7
+VI. 4	VI. 4	VI. 4	VI. 4
+VII. 2	VII. 2	VII. 2	VII. 2
+ 
+
+ 
+
+ 17	 18	 19	 20 [Pg 60]
+alter	chapel	desired	tanning
+reset	closet	domestic	weighed
+gross	seldom	prepaid	hurried
+trial	parent	furnace	minister
+knows	refund	dentist	supplied
+limit	cement	entitle	division
+idle	custom	popular	conclude
+towel	poetry	average	preacher
+human	apiece	settled	visitors
+amply	hereby	bedroom	complain
+berry	seller	entered	constant
+ankle	utmost	failure	current
+ruin	approve	healthy	rendered
+abroad	boarder	sixteen	director
+manner	brokers	expects	shopping
+retire	harmony	sweater	produced
+tickle	sleeper	leading	creamery
+govern	justice	ironing	exciting
+potato	observe	wearing	blooming
+garage	outlook	receive	cherries
+ 
+
+Standard Number of Errors
+V. 7	V. 7	V. 7	V. 7
+VI. 4	VI. 4	VI. 4	VI. 4
+VII. 2	VII. 2	VII. 2	VII. 2
+ 
+
+ 
+
+ 21	 22	 23	 24 [Pg 61]
+remained	vacant	cases	assure
+mountains	elope	aloud	easily
+neighbors	insult	simply	recent
+wondering	deem	cellar	effect
+publisher	width	method	volume
+agreeable	facts	tongue	system
+machinery	hymn	sleigh	social
+oversight	ideas	height	spirit
+directors	remit	select	avenue
+preparing	avoid	toward	author
+addressing	rifle	violin	prayer
+durable	drama	camera	excess
+convention	adopt	wander	liquid
+pertaining	bacon	occurs	search
+considering	satin	fasten	hungry
+reputation	motor	enable	others
+permission	avail	secret	league
+blackberries	arise	relief	surely
+explaining	apron	parcel	highly
+remembering	sweat	likely	compare
+ 
+
+Standard Number of Errors
+V. 7	V. 8	V. 8	V. 8
+VI. 4	VI. 5	VI. 5	VI. 5
+VII. 2	VII. 2	VII. 2	VII. 2
+ 
+
+ 
+
+ 25	 26	 27	 28 [Pg 62]
+engine	propose	citizen	adjusted
+safely	efforts	capable	soreness
+poison	thunder	applied	umbrella
+desert	useless	courage	landlady
+decent	possible	grammar	freshman
+corset	cashier	prevail	position
+gloomy	manager	expired	national
+tomato	decided	affairs	circular
+relating	absence	portion	purchase
+theater	support	squeeze	relative
+earnest	proceed	reunion	graduate
+biggest	concern	journey	supplies
+consist	neither	disturb	telegram
+closely	limited	fearful	discounts
+grocery	ability	gallery	commence
+adopted	assured	instance	indicate
+colored	attempt	addition	attached
+tickled	favored	advanced	maintain
+shipper	federal	attain	arranged
+cabinet	funeral	confined	hesitate
+ 
+
+Standard Number of Errors
+V. 8	V. 8	V. 8	V. 8
+VI. 5	VI. 5	VI. 5	VI. 5
+VII. 2	VII. 2	VII. 2	VII. 2
+ 
+
+ 
+
+ 29	 30	 31	 32 [Pg 63]
+calves	attacked	invest	New York
+choice	backward	lettuce	Chicago
+clothe	commands	shipments	Philadelphia
+stalk	carriage	mileage	Cleveland
+debt	catarrh	questions	Detroit
+doubt	combine	muslin	St. Louis
+ghost	composed	nearest	Boston
+guest	compared	chickens	Baltimore
+laid	condemned	occurred	Pittsburg
+missed	consult	onions	Los Angeles
+priced	culture	oppose	Buffalo
+tract	details	eastern	Milwaukee
+route	dismiss	pamphlets	Minneapolis
+shipped	materials	partner	Newark
+signed	fiction	persons	New Orleans
+slight	goodness	persuade	San Francisco
+style	forever	procure	Seattle
+canned	careless	purple	Washington
+course	granite	quarrel	Cincinnati
+ere	sprinkle	scarcely	Portland
+ 
+
+Standard Number of Errors
+V. 8	V. 9	V. 9	V. ( )
+VI. 5	VI. 6	VI. 6	VI. ( )
+VII. 2	VII. 3	VII. 3	VII. ( )
+ 
+
+ 
+
+ S-1	 S-2	 S-3	 S-4 [Pg 64]
+accent	quinine	kodak	affect
+members	railway	angel	ashore
+counter	remains	burial	lemonade
+affords	sailor	ceiling	attempts
+bearing	session	offend	basement
+Europe	solely	paragraph	behave
+confine	subjects	proceeds	blister
+garnet	suburb	quartet	bloomers
+griddle	tackle	reasons	camping
+hammer	tartar	diameter	caved
+humble	wherein	sandwich	copied
+induce	homely	suite	driving
+judging	combined	surround	dropped
+ignore	relate	suspect	dizzy
+mixture	ditches	tour	dollars
+outcome	forage	traveler	darkness
+packers	grapevines	housekeeper	daytime
+precious	lying	wholly	fallen
+pronounce	major	vinegar	farmers
+proposed	injury	carload	finely
+ 
+
+Standard Number of Errors
+V. 9	V. 11	V. 11	V. 8
+VI. 6	VI. 8	VI. 8	VI. 5
+VII. 3	VII. 5	VII. 5	VII. 2
+ 
+
+[Pg 65]
+
+SEVENTH GRADE
+
+[Pg 66]
+
+DIRECTIONS TO SEVENTH GRADE TEACHERS
+
+The minimum lessons for this grade are numbered from 1 to 30 inclusive and contain 600 new words. The supplementary lessons contain 60 new words which are not so commonly used as those in the minimum lessons. As in preceding grades, these supplementary lessons are introduced in order to afford additional work for classes which finish the regular lessons before the end of the year. The lessons marked R-l, R-2, R-3, R-4, are made up of words from the sixth grade lessons which are most frequently mispeled by seventh grade children.
+
+Directions for Teaching.—Read carefully the suggestions on pages vii to xvi. Read also the suggestions to teachers in the first six grades. As in grades four, five and six, the spelling errors found in pupils' compositions should be rigorously corrected.
+
+Remember that the lessons are arranged by weeks rather than by days. The work for each week consists of one advance column and one review column. The review column in each case is the fourth column preceding the advance work. That is, it is made up of a week's work one month old. For example, column 5 contains 20 new words to be learned in one week. During the same week, column 1 should be reviewed. The lesson for the first week consists of column 1, which is the advance lesson, and of column R 1, which is the review.
+
+ 
+
+ R-1	 R-2	 R-3	 R-4 [Pg 67]
+decided	easily	interested	lose
+either	instant	likely	clothe
+extended	neither	delivery	missed
+favored	mention	doubt	Dr.
+hospital	remit	fern	shipped
+relative	replying	item	strict
+piece	perfectly	loose	choice
+queer	purchase	mentioned	maintain
+system	surprise	passed	February
+telegram	absence	spirit	maybe
+Wednesday	circular	supplies	using
+ache	graduate	support	ability
+believe	instance	toward	nineteen
+consist	manager	accept	choose
+favorable	receive	addressed	moral
+growth	particular	attempt	regarding
+indicate	supplied	assured	stayed
+lately	tight	biggest	course
+limited	cashier	cellar	forenoon
+minister	fabric	concern	hello
+ 
+
+Standard Number of Errors
+VI. 5	VI. 5	VI. 7	VI. 8
+VII. 3	VII. 3	VII. 4	VII. 5
+VIII. 2	VIII. 2	VIII. 2	VIII. 3
+ 
+
+ 
+
+  1	  2	  3 [Pg 68]
+slightly	forgotten	extensive
+appeared	represent	quotation
+assembly	complaint	seventeen
+selected	youngster	effective
+struggle	nightgown	interests
+supposed	certainly	patent
+enrolled	satisfied	comfortable
+procured	increased	instructive
+followed	selection	improvement
+restless	accomplish	considered
+internal	doubtless	importance
+accounts	entertain	reasonable
+contents	advertise	interesting
+distance	forwarded	republican
+describe	justified	themselves
+overalls	published	represented
+presents	treasurer	circulation
+gathered	connected	subscriber
+availing	difficult	appointment
+gratitude	described	expression
+ 
+
+Standard Number of Errors
+VI. 5	VI. 5	VI. 5
+VII. 3	VII. 3	VII. 3
+VIII. 2	VIII. 2	VIII. 2
+ 
+
+ 
+
+  4	  5	  6 [Pg 69]
+attraction	bride	whether
+adjustment	awful	anxious
+federation	usual	realize
+introduction	Prof.	patient
+remembered	refer	banquet
+introduced	gland	exactly
+graduation	decide	nervous
+manufacture	error	suggest
+connections	madam	expense
+educational	salary	society
+frightened	broker	article
+quotations	copies	library
+approached	policy	thereto
+entertainment	really	junior
+stockholders	actual	opinion
+considerable	design	inasmuch
+publication	college	arrival
+satisfaction	affair	deposit
+transportation	pardon	salesman
+international	purpose	securing
+ 
+
+Standard Number of Errors
+VI. 5	VI. 7	VI. 7
+VII. 3	VII. 4	VII. 4
+VIII. 2	VIII. 2	VIII. 2
+ 
+
+ 
+
+  7	  8	  9 [Pg 70]
+favors	exercise	balances
+pudding	material	contemplate
+uneasy	medicine	handkerchief
+accuse	knowledge	neighborhood
+discuss	splendid	installed
+occur	valuable	surprised
+entry	establish	dependent
+cartoon	purchased	distribute
+studied	argument	apartment
+figuring	lovingly	services
+motion	carrying	depositors
+Bro.	accident	establishing
+therein	bicycle	conditions
+attach	customer	observation
+writers	received	passenger
+awaken	situated	requirements
+stylish	arriving	destroyed
+matron	earliest	possibly
+drawer	happiness	underwear
+porter	continued	conclusion
+ 
+
+Standard Number of Errors
+VI. 7	VI. 7	VI. 7
+VII. 4	VII. 4	VII. 4
+VIII. 2	VIII. 2	VIII. 2
+ 
+
+ 
+
+ 10	 11	 12 [Pg 71]
+fierce	territory	orchard
+freight	character	suggesting
+haste	prefer	acquaint
+hauled	description	approach
+heir	operation	biscuit
+niece	commercial	canoe
+strength	democrat	bungalow
+quote	finally	consumption
+source	available	cultivate
+brief	accordance	interview
+choir	confidence	review
+coarse	develop	ruffle
+meant	etc.	trolley
+mere	fortunate	engage
+sense	satisfy	ferry
+herein	receiving	thereafter
+type	entitled	prospects
+based	generally	Pres.
+urge	expensive	transactions
+grippe	previous	altitude
+ 
+
+Standard Number of Errors
+VI. 8	VI. 8	VI. 8
+VII. 5	VII. 5	VII. 5
+VIII. 3	VIII. 3	VIII. 3
+ 
+
+ 
+
+ 13	 14	 15 [Pg 72]
+evidently	qualities	signature
+instructor	substitute	ordinary
+literary	compelled	relieve
+applicant	formerly	influence
+impose	honorable	government
+thereof	instrument	investigation
+enrollment	politics	series
+genuine	choosing	afford
+believing	electrical	favorably
+constitution	transit	attorney
+disposal	authorized	journal
+extreme	contemplated	institute
+lining	estimated	candidate
+personality	identify	merchandise
+prosperous	letters	distribution
+tatting	mercantile	similar
+blizzard	worrying	exhibit
+cushion	disgusted	considerably
+equally	realizing	renewal
+gradually	admission	succeed
+ 
+
+Standard Number of Errors
+VI. 8	VI. 8	VI. 9
+VII. 5	VII. 5	VII. 6
+VIII. 3	VIII. 3	VIII. 4
+ 
+
+ 
+
+ 16	 17	 18 [Pg 73]
+strictly	barely	assistant
+studying	engineering	industrial
+elsewhere	orchestra	sirup
+lading	crocheting	arrangements
+impression	illustrated	inquiry
+announce	succeeded	auction
+development	exclusively	appreciated
+explanation	supervisor	principal
+sincere	civics	usually
+stationary	criticize	circumstances
+confer	attitude	variety
+jobber	congratulate	presence
+transact	electricity	practical
+decision	existing	assistance
+moisture	prosperity	equipment
+administration	talent	registration
+employee	appearance	duplicate
+excitement	inquiries	particularly
+acceptance	planned	absolutely
+organize	athletics	basis
+ 
+
+Standard Number of Errors
+VI. 9	VI. 10	VI. 10
+VII. 6	VII. 7	VII. 7
+VIII. 4	VIII. 4	VIII. 4
+ 
+
+ 
+
+ 19	 20	 21 [Pg 74]
+business	practice	safety
+pleasant	beginning	unusual
+appreciate	experience	surplus
+necessary	acknowledge	typhoid
+probably	benefit	coupon
+receipt	subscription	disagreeable
+sincerely	awfully	heretofore
+opportunity	secretary	welfare
+inst.	successful	assurance
+proposition	premium	auditor
+foreign	magazine	exceptional
+institution	association	assignment
+examination	certificate	confirm
+university	commission	possession
+imagine	excellent	attendance
+additional	literature	demonstration
+alfalfa	annual	assume
+terrible	organization	correspond
+separate	remittance	goodbye
+envelope	arrangement	consequently
+ 
+
+Standard Number of Errors
+VI. 10	VI. 10	VI. 10
+VII. 7	VII. 7	VII. 7
+VIII. 4	VIII. 4	VIII. 5
+ 
+
+ 
+
+ 22	 23	 24 [Pg 75]
+privilege	readily	recommend
+guarantee	vicinity	definite
+rheumatism	corporation	correspondence
+guaranteed	crochet	courtesy
+schedule	assigned	judgment
+data	ninety	courteous
+Latin	sympathy	thoroughly
+majority	disease	Chautauqua
+suggested	planning	efficiency
+control	advisable	approval
+established	original	senior
+Christian	merely	furniture
+operating	practically	regularly
+patron	science	contemplating
+religious	advertisement	difficulty
+altogether	semester	issued
+bargain	quantity	profession
+engineer	response	allowed
+responsible	capacity	examine
+situated	catalogue	glorious
+ 
+
+Standard Number of Errors
+VI. 11	VI. 11	VI. 12
+VII. 8	VII. 8	VII. 9
+VIII. 5	VIII. 5	VIII. 6
+ 
+
+ 
+
+ 25	 26	 27 [Pg 76]
+certified	associated	custard
+dismissal	timothy	double
+develops	accomplished	resign
+estimate	tendency	panel
+heavily	confirming	pamphlet
+horrible	congratulation	familiar
+obligate	illustrating	sermon
+traffic	meter	hustle
+trifle	reliability	janitor
+exceed	resource	occupy
+finance	examiner	warehouse
+overdo	demonstrated	envelop
+residence	carnival	preside
+camphor	conservatory	scholar
+discussion	consultation	museum
+galvanized	enormous	methods
+interrupt	legislation	patience
+intimate	maturity	fundamental
+luncheon	nickel	accredited
+mattress	manufacturing	continuous
+ 
+
+Standard Number of Errors
+VI. 11	VI. 11	VI. 12
+VII. 8	VII. 8	VII. 8
+VIII. 5	VIII. 5	VIII. 5
+ 
+
+ 
+
+ 28	 29	 30 [Pg 77]
+adapted	buried	rhubarb
+almonds	marked	initials
+analyze	foliage	confidential
+capitol	heading	irrigate
+faculty	locally	mutually
+formula	luxury	engaged
+mutual	medium	Vice Pres.
+nursery	quietly	circulars
+quoting	rabbits	exercised
+salad	razor	childhood
+scenery	refers	vegetable
+tobacco	reverse	packages
+towards	shining	terribly
+opera	solid	desirable
+urgent	survey	determine
+via	turkeys	shortage
+visitor	visits	rainfall
+widow	vomit	wherever
+accompany	wasted	fertilizers
+apricot	confess	adequate
+ 
+
+Standard Number of Errors
+VI. 10	VI. 9	VI. 10
+VII. 7	VII. 6	VII. 7
+VIII. 4	VIII. 3	VIII. 4
+ 
+
+ 
+
+ S-1	 S-2	 S-3 [Pg 78]
+items	willow	muscle
+honey	gospel	guilty
+stormy	wisdom	soldiers
+stupid	naughty	handles
+negro	slowly	hearty
+tailor	expand	helper
+sire	arises	somehow
+rally	sewed	raisin
+toilet	murder	jewels
+tower	miner	napkin
+unload	holy	dessert
+upset	vigor	lessons
+utter	lawyer	marble
+vice	crown	scatter
+vessel	vague	millers
+wages	votes	minded
+warmly	yacht	roomer
+repay	cable	earlier
+mercy	create	remarks
+whistle	ladder	kindle
+ 
+
+Standard Number of Errors
+VI. 7	VI. 7	VI. 7
+VII. 4	VII. 4	VII. 4
+VIII. 2	VIII. 2	VIII. 2
+ 
+
+[Pg 79]
+
+EIGHTH GRADE
+
+[Pg 80]
+
+DIRECTIONS TO EIGHTH GRADE TEACHERS
+
+The minimum lessons for this grade are numbered from 1 to 25 inclusive, and contain 500 new words. There are in addition 240 supplementary words which are new, but which are not so frequently used as those in the minimum list. The four lessons marked R-1, R-2, R-3, R-4, are made up of those words in the preceding grades which are most frequently missed by eighth grade students. The lesson marked "Special Review," contains the hardest words, of the two thousand most frequently used in correspondence.
+
+In addition, there are four letters which should be given as dictation exercises. These letters contain a large number of words which are very likely to be mispeled, as shown by their frequency of use in correspondence and the percentage of error of eighth grade pupils who attempt to spell them.
+
+Remember that the lessons are arranged by weeks rather than by days. The work for each week consists of one advance column and one review column. The review column in each case is the fourth column preceding the advance work. That is, it is made up of a week's work one month old. For example, column 5 contains 20 new words to be learned in one week. During the same week, column 1 should be reviewed. The lesson for the first week consists of column 1, which is the advance lesson, and of column R 1, which is the review.
+
+ 
+
+ R-1	 R-2	 R-3 [Pg 81]
+Chautauqua	planning	separate
+schedule	remittance	advisable
+guaranteed	probably	awfully
+rheumatism	sincerely	disease
+privilege	arrangement	sense
+efficiency	considerably	familiar
+inst.	capacity	merely
+judgment	corporation	presence
+recommend	usually	receiving
+thoroughly	choir	similar
+correspondence	inquiry	variety
+courteous	renewal	crochet
+semester	alfalfa	imagine
+practically	basis	organization
+opportunity	benefit	successful
+literature	catalogue	sympathy
+absolutely	excellent	appreciated
+receipt	necessary	assigned
+definite	quantity	assistant
+guarantee	response	pleasant
+ 
+
+Standard Number of Errors
+VI. 15	VI. 13	VI. 12
+VII. 12	VII. 9	VII. 8
+VIII. 9	VIII. 6	VIII. 5
+ 
+
+ 
+
+ R-4	  1	  2 [Pg 82]
+relieve	convince	reference
+surprised	transfer	companies
+appreciate	independent	discourage
+assistance	investigate	insurance
+candidate	wholesale	inclined
+certificate	democratic	organized
+distribution	employer	ambition
+magazine	exception	attractive
+principal	confident	credited
+readily	advertised	notified
+registration	constantly	operated
+commission	manufacturer	worried
+equipment	sanitary	automatic
+exhibit	submitted	accord
+nervous	liable	frequently
+practical	evidence	management
+regularly	concerning	generous
+succeed	assuring	involved
+uneasy	positive	misunderstanding
+duplicate	superior	representation
+ 
+
+Standard Number of Errors
+VI. 10	VI. 7	VI. 7
+VII. 7	VII. 4	VII. 4
+VIII. 4	VIII. 2	VIII. 2
+ 
+
+ 
+
+  3	  4	  5 [Pg 83]
+invitation	contrary	abstract
+celebrate	entertaining	employed
+discontinued	examined	register
+respectfully	profitable	resident
+obligation	registered	vision
+occupied	reservation	favorite
+application	universal	nephew
+accordingly	requirement	regardless
+collecting	deliveries	satisfactory
+convinced	desiring	serious
+destination	conference	Hallowe'en
+agriculture	strawberries	pneumonia
+fashionable	advancement	appendicitis
+combination	decrease	ingredients
+resigned	deserved	phosphorus
+membership	triumph	telephone
+supervision	graduating	temperature
+clause	hustling	possibilities
+activity	numerous	temptation
+impossible	raiser	constructed
+ 
+
+Standard Number of Errors
+VI. 7	VI. 7	VI. 10
+VII. 4	VII. 4	VII. 7
+VIII. 2	VIII. 2	VIII. 4
+ 
+
+ 
+
+  6	  7	  8 [Pg 84]
+Pullman	librarian	superintendent
+cistern	agricultural	occasion
+customers	announcement	representative
+sight-seeing	completely	possibility
+warrant	ballot	all right
+acknowledged	coöperative	especially
+electric	cordial	committee
+borrowers	inferior	immediately
+circumstance	preliminary	analysis
+opposite	disappointed	bulletin
+edition	physical	mortgage
+excursion	exceptionally	referred
+patronage	annually	referring
+professor	exhausted	convenience
+restaurant	responsibility	allotment
+commencement	algebra	installment
+chaperon	executive	advertising
+thesis	permanent	administrator
+possess	soliciting	straightened
+physician	alumni	epidemic
+ 
+
+Standard Number of Errors
+VI. 12	VI. 12	VI. 13
+VII. 8	VII. 9	VII. 10
+VIII. 5	VIII. 6	VIII. 7
+ 
+
+ 
+
+  9	 10	 11 [Pg 85]
+vary	specially	ambitions
+duly	extremely	appreciation
+leisure	calendar	communication
+acquire	originally	commissioner
+agency	official	exhibition
+immense	candidacy	mechanical
+hastily	extension	specification
+various	naturally	consequence
+unlock	cordially	disappoint
+solicit	customary	remembrance
+medical	campaign	authority
+license	financial	appreciating
+client	associate	interfere
+Sabbath	acquainted	sufficient
+injure	personally	coöperating
+stomach	immediate	relieved
+notary	esteemed	coöperation
+surgery	executed	anticipate
+losing	postscript	preparation
+council	convenient	satisfactorily
+ 
+
+Standard Number of Errors
+VI. 15	VI. 13	VI. 13
+VII. 10	VII. 10	VII. 10
+VIII. 6	VIII. 7	VIII. 7
+ 
+
+ 
+
+ 12	 13	 14 [Pg 86]
+individual	bonus	patronize
+actually	unusually	probably
+merit	disappointment	reverend
+fertilize	X-ray	manufactured
+necessity	canvass	typewriter
+community	enthusiasm	enclosure
+bureau	accompanying	illustrate
+grateful	tuberculosis	preserve
+correspondent	politician	opportune
+quantities	anticipating	appetite
+thorough	characteristic	bronchitis
+compliment	anniversary	discussed
+geometry	zephyr	privileged
+regretting	peculiarities	courtesies
+equipped	assortment	desirous
+prior	illustration	promenade
+efficient	inducement	strenuous
+affectionately	label	kimono
+lieutenant	practicing	ultimo
+fraternally	amendment	aggravate
+ 
+
+Standard Number of Errors
+VI. 14	VI. 14	VI. 15
+VII. 10	VII. 11	VII. 12
+VIII. 7	VIII. 8	VIII. 8
+ 
+
+ 
+
+ 15	 16	 17 [Pg 87]
+principle	articles	decomposed
+professional	bachelor	developing
+circuit	benefits	embroidery
+acquaintance	infected	employment
+scientific	minimum	enjoyable
+inconvenience	miserable	immensely
+enthusiastic	objection	experiment
+recd.	opinions	facilities
+assessment	sidewalk	gardening
+materially	stopping	inventory
+recommendation	tomatoes	irrigation
+supplement	treasure	mentioning
+confirmation	vineyard	memorandum
+occasionally	advantages	measuring
+apparatus	asparagus	officials
+essential	carpenter	operations
+unnecessary	casseroles	previously
+accommodate	catalogues	proportion
+affidavit	comfortably	specimens
+definitely	temporary	spineless
+ 
+
+Standard Number of Errors
+VI. 15	VI. 12	VI. 12
+VII. 13	VII. 8	VII. 8
+VIII. 9	VIII. 5	VIII. 5
+ 
+
+ 
+
+ 18	 19	 20 [Pg 88]
+cafeteria	accommodation	nowadays
+squirrels	accommodations	steadily
+straighten	acknowledging	butter-fat
+substantial	acknowledgment	contented
+suggestion	advantageous	conveyance
+twenty-five	anticipation	scholarship
+undertake	communications	coöperate
+communicate	financially	cucumbers
+complement	incidentally	everywhere
+continually	kindergarten	impatient
+conveniently	manufacturers	inquiring
+unpleasant	preliminaries	missionary
+unfortunate	solicitation	organizing
+institutions	undoubtedly	positively
+progressive	beautifully	sometimes
+prospective	presentation	separately
+publications	remittances	sediments
+gymnasium	unfortunately	rosebushes
+memorandums	unexpected	rheumatic
+uncomfortable	vice president	correspondents
+ 
+
+Standard Number of Errors
+VI. 12	VI. 13	VI. 12
+VII. 8	VII. 10	VII. 9
+VIII. 5	VIII. 7	VIII. 6
+ 
+
+ 
+
+ 	 21	 	 22 [Pg 89]
+Ala.	(Alabama)	Md.	(Maryland)
+Alaska	 	Mass.	(Massachusetts)
+Ariz.	(Arizona)	Mich.	(Michigan)
+Ark.	(Arkansas)	Minn.	(Minnesota)
+Cal.	(California)	Miss.	(Mississippi)
+Colo.	(Colorado)	Mo.	(Missouri)
+Conn.	(Connecticut)	Mont.	(Montana)
+Del.	(Delaware)	Nebr.	(Nebraska)
+D. C.	(District of	Nev.	(Nevada)
+ 	  Columbia)	N. H.	(New Hampshire)
+Fla.	(Florida)	N. J.	(New Jersey)
+Ga.	(Georgia)	N. Mex.	(New Mexico)
+Hawaii	 	N. Y.	(New York)
+Idaho	 	N. C.	(North Carolina)
+Ill.	(Illinois)	N. Dak.	(North Dakota)
+Ind.	(Indiana)	Ohio	 
+Iowa	 	Okla.	(Oklahoma)
+Kans.	(Kansas)	Oregon	 
+Ky.	(Kentucky)	Pa.	(Pennsylvania)
+La.	(Louisiana)	R. I.	(Rhode Island)
+Me.	(Maine)	 	 
+ 
+
+Standard Number of Errors
+VI. ( )	VI. ( )
+VII. ( )	VII. ( )
+VIII. ( )	VIII. ( )
+ 
+
+ 
+
+ 	 23	 	 24 [Pg 90]
+S. C.	(South Carolina)	A. M.	(Forenoon)
+S. Dak.	(South Dakota)	Agt.	(Agent)
+Tenn.	(Tennessee)	Assn.	(association)
+Tex.	(Texas)	A1.	(First class)
+Utah	 	 	 
+Vt.	(Vermont)	bbl.	(barrel)
+Va.	(Virginia)	bbls.	(barrels)
+Wash.	(Washington)	bldg.	(building)
+W. Va.	(West Virginia)	bu.	(bushel)
+Wis.	(Wisconsin)	Capt.	(Captain)
+Wyo.	(Wyoming)	C.O.D.	(Collect on
+Cuba	 	 	Delivery)
+Philippine Islands	 	¢; ct.	(cent)
+Porto Rico	 	cr.	(credit)
+Co.	(Company or	cwt.	(hundredweight)
+ 	County)	doz.	(dozen)
+Messrs. (Gentlemen)		gal.	(gallon)
+R.F.D.	(Rural Free	ft.	(foot or feet)
+ 	Delivery)	F.O.B.	(Free on Board)
+ 	 	Hon.	(Honorable)
+acct.	(account)	i.e.	(that is)
+Dr.	(Doctor or debtor)	N. B.	(take notice)
+Treas.	(Treasurer)	 	 
+ 
+
+Standard Number of Errors
+VI. ( )	VI. ( )
+VII. ( )	VII. ( )
+VIII. ( )	VIII. ( )
+ 
+
+ 
+
+ 	 25	 Special Review [Pg 91]
+Jour.	(Journal)	Chautauqua
+in.	(inch or inches)	fraternally
+mdse.	(merchandise)	schedule
+ass't	(assistant)	guaranteed
+Jr.	(Junior)	privilege
+Mdlle.	(Mademoiselle)	affectionately
+mfg.	(manufacturing)	guarantee
+oz.	(ounces)	rheumatism
+sec'y	(secretary)	judgment
+pkg.	(package)	efficiency
+pr.	(pair)	recommend
+pd.	(paid)	referred
+P. M.	(afternoon)	disappoint
+mgr.	(manager)	immediately
+P. S.	(postscript)	referring
+pub.	(publisher)	equipped
+qt.	(quart)	grateful
+St.	(Saint or street)	bulletin
+Supt.	(superintendent)	all right
+viz.	(namely)	mortgage
+ 
+
+Standard Number of Errors
+VI. ( )	VI. (16)
+VII. ( )	VII. (13)
+VIII. ( )	VIII. (10)
+ 
+
+ 
+
+ S-1	 S-2	 S-3 [Pg 92]
+descend	postpone	resources
+necktie	political	respectable
+swallow	elaborate	sentiment
+nonsense	exporting	seriously
+oatmeal	kidney	suddenly
+wireless	locations	tablespoon
+afloat	memorial	telegraph
+tiresome	muscular	preparatory
+horseback	negotiate	commencing
+housework	peculiar	warranted
+wealthy	unlikely	occupant
+scarlet	purposes	performance
+whiskers	readiness	physiology
+scissors	recognize	bacteria
+scramble	remaining	beginner
+scribble	resemble	beneficial
+sweetness	military	proportions
+heaviest	blossoms	intentions
+slippers	coloring	accustomed
+accepted	chemical	opposition
+ 
+
+Standard Number of Errors
+VI. 9	VI. 9	VI. 12
+VII. 6	VII. 6	VII. 8
+VIII. 3	VIII. 3	VIII. 5
+ 
+
+ 
+
+ S-4	 S-5	 S-6 [Pg 93]
+attempting	expressing	machines
+economize	expressions	honored
+carelessness	suggestions	endorsed
+stenographer	likelihood	occasional
+decoration	manufactures	epistle
+particulars	maintained	mispel
+grandmother	maintaining	innocent
+extravagance	occasions	inferred
+firecracker	notwithstanding	matured
+exposition	remitting	proffer
+partially	sentiments	invested
+pleasantly	specialty	logic
+congenial	unsettled	audited
+carnation	beforehand	academy
+gophers	misunderstand	formally
+whatsoever	alteration	importing
+demonstrate	apologies	masonic
+disposition	appreciates	mutilate
+embroider	contribution	shelving
+prescription	developments	socialist
+ 
+
+Standard Number of Errors
+VI. 12	VI. 12	VI. 12
+VII. 8	VII. 8	VII. 8
+VIII. 5	VIII. 5	VIII. 5
+ 
+
+ 
+
+ S-7	 S-8	 S-9 [Pg 94]
+tenement	accorded	comment
+thereabouts	activities	descriptive
+transacted	adjustable	declamation
+indigestion	affectionate	deducted
+interruption	undershirt	economical
+facilitate	appropriate	encouragement
+facility	approximately	endeavor
+fraternity	cemetery	endeavoring
+inaugurate	commodities	expectation
+mathematics	comparatively	faculties
+reciprocate	critical	feasible
+tabernacle	introduce	financing
+thermometer	dreadfully	hysterics
+vivisection	dividend	ignoramus
+affiliated	purchases	inability
+appreciative	directories	industrious
+indefinitely	disaster	pocketbook
+probability	dictionary	representatives
+informal	depositing	instructions
+dressmaker	depository	sufficiently
+ 
+
+Standard Number of Errors
+VI. 13	VI. 12	VI. 12
+VII. 10	VII. 8	VII. 9
+VIII. 7	VIII. 5	VIII. 6
+ 
+
+ 
+
+ S-10	 S-11	 S-12 [Pg 95]
+detain	alcohol	exceedingly
+deprive	charity	insignificant
+exhaust	comedy	wonderfully
+whoever	imitate	measurement
+expire	invalid	sacrifice
+faithful	lovable	sarcastic
+frequent	operate	satisfying
+happiest	opium	selecting
+disgust	remodel	temperance
+apology	taxicab	thoughtfulness
+homelike	allowing	marriage
+hopeful	borrowing	unanswered
+intrude	chocolate	undertaking
+lantern	promise	willingly
+liquor	conductor	population
+output	congress	advisability
+outrage	decorate	agreement
+physic	deposits	celebration
+becoming	developed	comparison
+discount	discover	emergency
+ 
+
+Standard Number of Errors
+VI. 9	VI. 10	VI. 12
+VII. 6	VII. 7	VII. 9
+VIII. 3	VIII. 4	VIII. 6
+ 
+
+[Pg 96]
+
+USE OF THE CONTRACTION
+
+One of the first things to learn in writing letters is that the form and style of the letter must be suited to the message which the letter contains, and to the relationship which exists between the person who sends the letter and the one who is to receive it. The style of business letters must be clear, direct, and dignified. With certain exceptions, as in sales letters, such letters are usually made very impersonal. On the other hand, personal letters are quite properly regarded by many as a sort of conversation in writing. In writing to friends or to relatives one usually desires to be informal. One of the ways of achieving this informality is through the use of colloquial English and contractions. In the past, many teachers of English have cautioned students against the use of contractions in letters; but an examination of the correspondence of writers whose letters are regarded as models shows that most of these authors use contractions very freely. If you will read the letters of Henry Adams, Stevenson, Gray, Henry James, Lamb, Carroll, Walpole, Keats, Emily Dickinson, Thackeray, Dickens, and others, you will see that in writing to friends and members of their families they wrote much as they would have chatted with those to whom the letters were addressed.
+
+In general, then, contractions are to be used only in informal or friendly correspondence. In letters to strangers and in most business correspondence they should be avoided. Perhaps the best guide to the proper use of contractions is to be found in the models of writers who are famous for their personal letters.
+
+[Pg 97] can't "You can't be too careful." (Lamb)
+
+don't "... for, O, I don't know how long." (Stevenson)
+
+doesn't "He doesn't agree with them all ..." (Stevenson)
+
+won't "This sort of thing won't do." (H. James)
+
+it's "... It's a glorious afternoon ..." (E. Dickinson)
+
+I'm "I'm three parts through Burns; ..." (Stevenson)
+
+I'll "I'll try to improve it ..." (Stevenson)
+
+haven't "... I haven't yet had time to give ..." (H. James)
+
+you'll "You'll never guess; ..." (Carroll)
+
+isn't "It isn't like gold ..." (E. Dickinson)
+
+I've "So I've been idle." (Stevenson)
+
+we'll "We'll finish an education sometime ..." (E. Dickinson)
+
+wouldn't "... but Stephen wouldn't allow it ..." (Stevenson)
+
+didn't "... I didn't see him." (Fitzgerald)
+
+I'd "Another shot and I'd have gone to kingdom come." (Stevenson)
+
+you'd "... and I beg you'd believe me ..." (Gray)
+
+hadn't "... if you hadn't seen her ..." (H. James)
+
+hasn't "This ought to have made me gay, but it hasn't." (Stevenson)
+
+couldn't "If it were easy to write a play, I couldn't ... think of it." (H. James)
+
+wasn't "Wasn't it curious?" (Carroll)
+
+[Pg 98]
+[Pg 99]
+
+DICTATION EXERCISES
+
+The following letters contain a large number of words which occur with relatively high frequency in correspondence, and are quite likely to be mispeled by persons of eighth grade education. They should be dictated in short phrases of three to five words without repetition, pausing after each dictated phrase for the children to write. The rate should be such, however, that the dictation and writing will be completed in the time designated in the note preceding each letter. On the average this will be about one and one-half lines per minute. A little practice will enable the teacher to dictate at this rate without difficulty.
+
+Pupils should be able to write these letters at the given speed without hesitation or error of spelling before they have completed the work of this grade.
+
+[Pg 100] LETTER NO. 1
+
+This letter should be dictated in three sections. The first exercise extends to the end of the first paragraph, including the heading and salutation, and should be written in 8 minutes. The second exercise includes the second and third paragraphs and should be written in 9 minutes. The third exercise completes the letter and should be written in 6–½ minutes.
+
+ 
+
+[Pg 101] Des Moines, Iowa,
+June 2, 1920.
+ 
+
+Dear Mamma,
+I suppose you feel that I have been very slow about writing, but I haven't had a minute for either letter writing or pleasure the past few days. I took my last test this forenoon—the terrible and much dreaded literature examination. It lasted from ten o'clock until noon, and though it was different from what I had expected I think I got along all right. I probably won't get an excellent grade, for I just had to make a guess at one answer I didn't know, but you can't imagine how happy I am to be all through. Tomorrow will be the last day of school and our superintendent is going to let us celebrate with a class party.
+
+Aunt Lucy wants me to stay with her another month, but I am coming home Saturday, for I know I'll be eager to get back to the farm just as soon as we have good weather again. Last Sunday I accepted Edith's invitation to spend the day with her. She lives about thirty miles from Des Moines, and I enjoyed the drive over the country roads. I'm sure I'll never lose my love for the farm.
+
+I must tell you, too, about Edith's brother, a lieutenant, who got his commission at the same time John did. He is personally acquainted with John's captain and knew several other men in that company. I was very much interested in his account of his army experiences.
+
+I appreciated the check you enclosed in your last letter, for I needed some money for my new dress. I never realized before this year how much it costs to clothe a girl. I wish you were here to advise me what kind of material to get. I miss your judgment when I try to go shopping alone. Aunt Lucy's voile dress has given her a great deal of service, and so I think I'll decide on that material for my best summer dress.
+
+Remember me to the boys when you write, and give my love to Grandmother. I do hope her rheumatism is better.
+
+Affectionately,
+Helen.
+[Pg 102] LETTER NO. 2
+
+This letter should be dictated in two sections. The first exercise extends to the end of the first paragraph, including the heading and salutation, and should be written in 12 minutes. The second exercise completes the letter and should be written in 7 minutes.
+
+ 
+
+[Pg 103] October 18, 1920.
+Iowa Land and Loan Company,
+706–712 Commerce Building,
+Des Moines, Iowa.
+ 
+
+Gentlemen,
+We take this occasion to acknowledge the receipt of your letter of the 17th inst., and sincerely appreciate the interest which you have shown in our association. We must find a permanent location for our Chautauqua, and believe that we have found lots which will be satisfactory, especially since they are in a really pleasant locality, convenient to the college. Since it will be necessary to investigate this business opportunity immediately, we are referring the matter to a committee and we feel the analysis of the situation will be complete. The committee to which this matter is referred will probably recommend giving a mortgage but quite certainly will receive advice on this point from representative citizens. The money to carry on the investigation is in the First National Bank, the certificate of deposit being in the hands of the treasurer of the association.
+
+If possible the members of the association would like to issue the bulletin which contains the course by the beginning of the season, whether the matter of permanent grounds is thoroughly investigated, or not. Experience has taught us, too, that the bulletins are received with more enthusiasm at an early date.
+
+The truly awful accident of last year in which two people were killed when the tent fell will have its influence on our present campaign for a permanent building.
+
+Kindly give this matter your attention at your earliest convenience.
+
+Respectfully yours,
+Henry Jones.
+[Pg 104] LETTER NO. 3
+
+This letter should be dictated in two sections. The first exercise extends to the end of the second paragraph and should be written in 7 minutes. The second exercise completes the letter and should be written in 9 minutes.
+
+ 
+
+[Pg 105] Minneapolis, Minnesota,
+March 26, 1920.
+ 
+
+Dear Father,
+You can see from the article which I enclose that we did not disappoint our principal, even though it has been impossible to practice during the past week. Under the circumstances it doesn't seem possible that we could have won, but maybe our success was due to having no practice before the game. Some of the teams seemed rather over-trained.
+
+The coach changed me to right forward, although, as you know, I usually play at guard. I suppose there was a doubt in his mind as to whether I could guard the tall forwards on some of the teams.
+
+Our team never played together better. We didn't have so great a variety of plays as some of the other teams, but relied almost entirely upon our short passing game. What I liked especially was that there wasn't a single poor official. One of the officials was the man who spoke last fall on our community health program.
+
+I suppose the team will reach home Saturday night. I am sure that we ought not to stay here later than Saturday noon. The teams were entertained at the various fraternity houses and the men have been very much crowded to make room for us. We certainly appreciate the good treatment we have received from these men and from everyone.
+
+Affectionately, your son,
+Harry.
+[Pg 106] LETTER NO. 4
+
+This letter should be dictated in three sections. The first exercise extends to the end of the second paragraph, including the heading and the salutation, and should be written in 9 minutes. The second exercise includes the rest of the letter and should be written in 12 minutes. Not more than one exercise should be given in one day.
+
+[Pg 107] Newark, New Jersey,
+December 3, 1920.
+Mr. Frank A. Hardy, Managing Editor,
+National Insurance Journal,
+Boston, Massachusetts.
+ 
+
+My dear Mr. Hardy,
+I am glad to make an immediate reply to your inquiry of December 1, regarding Miss Henry's qualifications.
+
+It is now eight years since Miss Henry first took a position with us. She began as mail clerk, working up rapidly through the ranks, until she became private secretary to Mr. Baldwin, President of the Central Insurance Company, in which capacity she has served for four years, becoming an important part of the institution. We have found her always courteous, thoroughly efficient in her work, and absolutely reliable.
+
+She is well equipped for a position on an insurance publication because of her magazine writing, which she has been doing in connection with a course in journalism at the university this year. She has been most successful in this work and hopes to find time to do more of it during the summer term if her schedule will permit. It was only because of her great desire to continue her education that we were willing to accept her resignation, and we knew that this year's work at the university would mean a broader field for her in the future.
+
+I am enclosing a record of Miss Henry's work, on the usual form kept for each employee, showing the approximate progress she made during her eight years with us and her increased value to the company, and I am also sending under separate cover Miss Henry's photograph, as you suggested.
+
+Hoping I may hear from you further if there is any additional information you require, I am
+
+Very sincerely yours,
+John Smith.
+[Pg 108]
+[Pg 109]
+
+SUPPLEMENT WHICH CONTAINS CERTAIN
+  RULES AND DEFINITIONS OFTEN TAUGHT
+  AS A PART OF THE COURSE OF STUDY
+  IN SPELLING
+
+As a part of the course of study in spelling, there is occasionally found a provision for word study and for teaching certain rules and definitions. The following supplement is added as a guide in schools which make such a requirement. Ordinarily such topics as derivation of words, root prefixes, suffixes, homonyms, antonyms, synonyms, and hyphens are taught, either as a part of composition or as a part of dictionary exercises.
+
+The value of teaching spelling rules is still somewhat a matter of controversy, although the weight of experimental evidence seems to indicate that children do not profit from a study of the rules in spelling, as much as they profit from the same amount of time spent in the direct study of the important words covered by these rules. However, since some city and state courses of study require the teaching of the rules, it seems advisable to put the more important rules in this supplement.
+
+An effort has been made to state these rules in the simplest manner possible, within the limits of accuracy. Great care has been taken, also, to tabulate, for each rule, the words frequently used in correspondence, which are exceptions.
+
+The teacher should understand clearly that it is not the intention of the authors to have these rules take the place of the direct teaching of any word. Rather they are to be regarded as supplementary exercises. It is doubtful whether much attention should be given to rules before grade seven.
+
+DERIVATION OF WORDS
+
+Often one word is built up from several words or syllables. The most important part of such a built-up word is called the root, or base. This root or base had an original meaning [Pg 110] which is usually clear, especially in purely English words, as in-side, happi-ness, etc. Many built-up or derivative words are from other languages. A few examples may help to illustrate:
+
+1. international—Latin inter (between) plus nation (nation) plus al (pertaining to)—between nations, pertaining to intercourse between nations.
+
+The root is "nation."
+
+2. extraordinary—Latin extra (on the outside, out of) plus ordinarius (ordinary)—out of the ordinary, unusual.
+
+The root is "ordinar."
+
+3. provide—Latin pro (before) plus vid (to look or see)—to look before or ahead, to look out for in advance.
+
+The root is "vid."
+
+4. convention—Latin con (together) plus ven (to come) plus tion (act of)—act of coming together—meeting.
+
+The root is "ven."
+
+Many roots or bases are taken directly from the English:
+
+1. out-come—act of coming out—that which comes out of something else—result.
+
+2. in-side—inner side or surface.
+
+3. cheer-ful—full of cheer.
+
+4. happi-ness—state of being happy.
+
+In studying these words, you may have noticed that something besides the root or base is needed to make the meaning clear. The other two parts which help to make up words are called prefixes and suffixes. These will be taken up separately.
+
+PREFIXES
+
+A prefix is a word or syllable placed before another word, and so completely joined to it that it changes the meaning of the basic word.
+
+Note to Teacher:—Have the pupils select in the lessons of your grade, words which have similar prefixes.
+
+[Pg 111] As you can see in the list below, the final consonant of a prefix has often been changed to make the pronunciation easier, but does not disappear when added to the stem. Thus, ad-cord became ac-cord, ad-fect became af-fect, etc.
+
+Prefix	Definition	Illustration
+ab (abs, a)	from, away	abandon
+ad (ac, af, ag, al, an, ap, ar, as, at)	to	accommodate
+ante	before	antecedent
+circum	about, around	circumstance
+com (co, col, con, cor)	with, together	compare, concert
+de	from, down, away	desert, debate
+dis (dif, de)	apart, not	disobey
+ex (e, ef)	out, out of, away from, off, beyond	expect
+extra	out of	extraordinary
+in (ill, im, ir)	in, into, not, without	inside
+inter	among, between, mutually	interurban
+non	not	nonsense
+per	through, by, for	perhaps
+post	behind, after	postpone
+pre	before	prevent
+pro	forward, before, instead	provide
+re	back, again, against	return
+se	aside, apart, without	separate
+sub (suc, suf, sug, sup, sur)	under, below, near	subject, succeed
+super	over, above, beyond	superintendent
+trans (tran, tra)	across, over, beyond, through	transfer, travel
+SUFFIXES
+
+A suffix is a syllable or word which is added to the end of another word to change the meaning of the basic word.
+
+Note to Teacher:—As the suffix is often closely connected with the root of the word, not much stress will be laid on learning suffixes by themselves. A few of the more common ones will be noted.
+
+Suffix	Definition	Illustration [Pg 112]
+ful	with or full of	cheerful
+less	without	careless, doubtless
+ness	state of being	happiness
+ly	like or like in manner	happily
+ment	act, state, a thing that	development
+some	act of being	lonesome
+HOMONYMS
+
+A homonym is a word pronounced exactly like another, but differing from it in meaning. A few homonyms are spelled in the same way, as "weed," a garment, and "weed," a plant. Only a small group of the more common type will be given here.
+
+Note to Teacher:—It has been deemed advisable to omit giving an extensive list of homonyms here. You may refer the pupils to the lists of homonyms which occur in the regular spelling lessons of the first five grades. For example, the following lists are among those which contain homonyms:—16 in grade I; 18, 19, 20, in grade II; 12 words in 28 of grade III; 32 in grade IV; etc.
+
+Word	Definition	Sentence
+1. flour	a fine meal of ground wheat	Mother uses flour in baking
+ 	   or other grain	  bread.
+  flower	a blossom	The rose is a beautiful flower.
+2. no	not, not any	I have no work to do.
+  know	to understand	Do you know your lesson?
+3. son	a male child; the male offspring	 
+ 	  of a parent, father or mother	John is my son.
+  sun	the heavenly body which produces	The sun rises in the east.
+ 	  the light of day	 
+SYNONYMS
+
+Synonyms are words that have almost the same meaning. If you were to look up the simple words "cut" and "ask" you would find the following synonyms:
+
+For "cut"—carve, lance, bite, dissect, snip, saw, slice, slit, slash, etc.
+
+For "ask"—beg, crave, entreat, beseech, implore, move, plead, solicit, etc. No two of these synonyms mean exactly [Pg 113] the same thing, but they express different shades of the same meaning.
+
+Practice Exercises: Find as many synonyms as you can for the following words:
+
+best
+decide
+effort
+deceive
+imagine
+dark
+time
+form
+pleasure
+public
+
+Any lesson in the book may be used for an exercise in discovering synonyms.
+
+ANTONYMS
+
+Words of opposite meaning are called antonyms. For example, black—white; big—little; and open—closed, are so named.
+
+Practice Exercises: Try to think of antonyms for the following words:
+
+cold
+come
+dull
+inside
+fat
+front
+good
+high
+in
+large
+up
+long
+new
+poor
+slow
+spring
+sweet
+tall
+wet
+winter
+
+THE HYPHEN
+
+Authorities differ in regard to the use of the hyphen. However, there are two rules which always hold good: (1). The hyphen is used to separate compound adjectives; (2). The hyphen is used to show, at the end of a line, that a word has been divided. (Such a word must be divided between syllables.) In other cases, when you cannot decide whether or not to use a hyphen, consult the dictionary used in your school. It is much less frequently used than formerly.
+
+RULES FOR SPELLING
+
+I. Formation of Possessives
+
+1. The following list is made up of words in the singular number. To form the possessive, add an apostrophe and "s."
+
+horse's head
+man's coat
+girl's dress
+boy's shoes
+soldier's uniform
+child's laugh
+sheep's wool
+sister's hat
+
+2. The following list is made up of plural nouns that do not end in "s." To form the possessive, add an apostrophe and "s."
+
+children's clothes
+men's shirts
+women's praise
+gentlemen's plans
+
+[Pg 114] 3. The following list is made up of plural nouns ending in "s."
+
+To form the possessive, add only an apostrophe.
+
+miles' walk
+girls' clothing
+years' word
+pupils' attention
+
+II. Treatment of the final consonant before a suffix
+
+1. The following list contains words of one syllable. Notice that each word ends in a consonant, and that in every word there is a single short vowel preceding it. In all such words, the final consonant is doubled before adding a suffix beginning with a vowel.
+
+big—bigg (er) (est)
+drop—dropp(ed) (ing)
+stop—stopp(ed) (ing)
+plan—plann(ed) (ing)
+begin—beginn(er) (ing)
+
+2. The following list contains verbs of more than one syllable. Each verb is accented on the last syllable, and ends in a single consonant preceded by a single short vowel. In such verbs, the final consonant is doubled before a suffix beginning with a vowel.
+
+beginn(ing)
+referr(ed) (ing)
+occurr(ed)
+forgott(en)
+remitt(ance)
+
+III. Adding suffixes to words ending in "e"
+
+1. A word ending in silent "e" drops the "e" before a vowel, as:
+
+come—coming
+hope—hoping
+serve—serving
+appreciate—appreciating
+vote—voting
+
+2. When a suffix beginning with a consonant is added to a word ending in "e," the "e" is kept.
+
+announce—announce-ment
+hope—hope-ful
+late—late-ly
+care—care-less
+lone—lone-some
+
+[Pg 115] 3. "E" is retained to keep the soft sound of "c" and "g" before "a" and "o" as in notice—notice-able, and advantage—advantage-ous.
+
+Exceptions:
+
+Of the words commonly used in writing letters the following exceptions are to be made:
+
+a. When a suffix beginning with a consonant is added to a word ending in "e":
+
+(1) Only three words drop "e" before adding "ment": judgment, acknowledgment, argument.
+
+(2) Only one word drops "e" before adding "ful": awful.
+
+(3) Only three words drop "e" before adding "ly":
+
+true—truly
+due—duly
+whole—wholly
+
+b. When the last syllable of a word ends in "le," "ly" does not make a new syllable, as: probable—-probably, possible—possibly, simple—simply.
+
+(When "ly" is added to words ending in "l," both "l's" are retained, as: practical—practically, careful—carefully.)
+
+IV. Treatment of the final "y"
+
+1. To form the plural of a noun ending in "y" preceded by a consonant, change the "y" to "i" and add "es."
+
+lady—ladies
+quantity—quantities
+quality—qualities
+
+2. When a verb ends in "y" preceded by a consonant, change the "y" to "i" and add "es" to form the third person singular of the verb. To form the past tense of the verb, change the "y" to "i" and add "ed."
+
+fry—fries
+cry—cries
+bury—buried
+carry—carried
+
+3. When a word ends in "y" preceded by a vowel, form the plural by adding "s."
+
+turkey—turkeys
+chimney—chimneys
+valley—valleys
+
+4. When "y" is preceded by a consonant, change it to "i" before a suffix which does not begin with "i," as in business, readily, happiness, etc.
+
+Retain "y" in such words as: hurrying, crying, flying, etc.
+
+[Pg 116]V. Treatment and use of the apostrophe
+
+1. Put the apostrophe in the place of the absent letter or letters: aren't, don't, didn't, can't, I'll, etc.
+
+2. Possessives of personal pronouns have no apostrophe, as: its, hers, ours, yours, etc.
+
+VI. Irregular Plurals
+
+Some words ending in "f" or "fe" form their plurals by changing the "f" or "fe" to "v" and adding "es."
+
+half—halves
+knife—knives
+life—lives
+leaf—leaves
+calf—calves
+wife—wives
+
+VII. Confusion of "ei" and "ie"
+
+Note to Teacher:—Experimental evidence does not seem to show that this rule is very effective, but if it is taught, the following presentation is recommended.
+
+Whenever "i" and "e" occur together in one syllable, and are pronounced as "[=e]" or "[)e]," it is always "i" before "e" except after "c" (see). When sounded like "[=a]" it is always "e" before "i." Some have used the following jingle to help fix the rule:
+
+"i" before "e"
+Except after "c"
+Or when sounded like "a"
+As in neighbor or weigh.
+
+Four of the words most commonly used in writing letters are exceptions to these rules: neither, leisure, foreign, height.
+
+Transcriber's Note
+
+Punctuation errors have been corrected.
+All misprinted reference pages throughout the book have been corrected (vii-xvi).
+Pg 17 Added missing "opening quotation" before "Remember" in "Remember that the purpose of this test ..."
+Pg 97 Removed ")" after "I didn't see him.")" and added "(" before "Fitzgerald"
+Pg 97 Corrected spelling of "kindom" to "kingdom" in "... gone to kindom come"
+Pg 103 Corrected spelling of "expecially" to "especially" in "... expecially since they are in ..."
+Pg 109 Corrected spelling of "occassionally" to "occasionally" in "... there is occassionally found ..."
+
+
+
+
+
+End of the Project Gutenberg EBook of Lippincott's Horn-Ashbaugh Speller, by 
+Ernest Horn and Ernest J. Ashbaugh
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LIPPINCOTT'S HORN-ASHBAUGH SPELLER ***
+
+***** This file should be named 33826-h.htm or 33826-h.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/3/8/2/33826/
+
+Produced by Larry B. Harrison and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
