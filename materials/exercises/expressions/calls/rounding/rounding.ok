@@ -1,0 +1,13 @@
+{
+  "name": "Rounding with Function Calls",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/expressions/calls/rounding",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
