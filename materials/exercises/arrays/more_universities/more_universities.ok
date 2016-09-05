@@ -1,0 +1,13 @@
+{
+  "name": "Differences between Universities, Part II",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/arrays/more_universities",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
