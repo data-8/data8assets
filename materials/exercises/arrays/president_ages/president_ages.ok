@@ -1,0 +1,13 @@
+{
+  "name": "All the Presidents' Ages",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/arrays/president_ages",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
