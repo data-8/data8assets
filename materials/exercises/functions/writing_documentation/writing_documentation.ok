@@ -1,0 +1,13 @@
+{
+  "name": "Writing Documentation for Functions",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/functions/writing_documentation",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
