@@ -15,12 +15,12 @@ test = {
           >>> #   "Eats"
           >>> #   "Shoots"
           >>> #   "and Leaves"
-          >>> not any([text.contains(',') for text in book_title_words])
+          >>> not any([',' in text for text in book_title_words])
           True
           >>> # It looks like you didn't include both words in the
           >>> # last piece of text.  It should be the actual string:
           >>> #   "and Leaves"
-          >>> book_title_words.item(2).contains("and ")
+          >>> 'and ' in book_title_words.item(2)
           True
           >>> book_title_words
           array(['Eats', 'Shoots', 'and Leaves'], 
