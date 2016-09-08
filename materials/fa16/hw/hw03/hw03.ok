@@ -1,0 +1,13 @@
+{
+  "name": "Homework 3: Tables and Charts",
+  "endpoint": "cal/data8/fa16/assignments/build/fa16/hw/hw03",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
