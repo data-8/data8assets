@@ -1,0 +1,13 @@
+{
+  "name": "Consumer Financial Protection Bureau Complaints",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/visualizations/barcharts/cfpb_complaints",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
