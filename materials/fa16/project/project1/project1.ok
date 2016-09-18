@@ -1,0 +1,13 @@
+{
+  "name": "California Water Usage",
+  "endpoint": "cal/data8/fa16/assignments/build/fa16/project/project1",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
