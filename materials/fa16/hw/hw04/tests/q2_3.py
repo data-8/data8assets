@@ -16,7 +16,7 @@ test = {
           >>> all(with_titles.column("Raw text") == reuters.column("Raw text"))
           True
           >>> with_titles.column("Title").item(4)
-          'NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE'
+          'DEFENSE CONTRACTOR BOOSTS BIRD <BIRD> STAKE'
           """,
           'hidden': False,
           'locked': False

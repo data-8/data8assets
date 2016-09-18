@@ -10,7 +10,7 @@ test = {
           >>> get_title(reuters.column("Raw text").item(1)) is not None
           True
           >>> get_title(reuters.column("Raw text").item(1))
-          'STANDARD OIL <SRD> TO FORM FINANCIAL UNIT'
+          'DE LAURENTIIS COMPANIES SEE LOSS ON FILM'
           """,
           'hidden': False,
           'locked': False

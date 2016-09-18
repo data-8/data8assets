@@ -14,20 +14,20 @@ test = {
           >>> 'Raw text' in reuters.labels
           True
           >>> # It looks like you're not splitting up the articles correctly.
-          >>> 15000 < reuters.num_rows < 25000
+          >>> 900 < reuters.num_rows < 1100
           True
           >>> # It looks like you're doing roughly the right thing, but
           >>> # you're not splitting up the articles in quite the right way,
           >>> # so you're getting a few extra articles.
-          >>> reuters.num_rows <= 20841
+          >>> reuters.num_rows <= 1000
           True
           >>> # It looks like you're doing roughly the right thing, but
           >>> # you're not splitting up the articles in quite the right way,
           >>> # so you're losing a few articles.
-          >>> reuters.num_rows >= 20841
+          >>> reuters.num_rows >= 1000
           True
           >>> reuters.num_rows
-          20841
+          1000
           >>> "***ARTICLE***".join(reuters.column(0)) == big_reuters_string
           True
           """,

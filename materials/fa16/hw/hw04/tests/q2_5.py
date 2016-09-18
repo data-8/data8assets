@@ -15,8 +15,8 @@ test = {
           True
           >>> all(with_dates.column("Raw text") == reuters.column("Raw text"))
           True
-          >>> with_dates.column("Date").item(2000)
-          64
+          >>> with_dates.column("Date").item(84)
+          180
           """,
           'hidden': False,
           'locked': False
