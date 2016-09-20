@@ -6,20 +6,23 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> income.num_rows
-          1482
+          >>> # It looks like you're not accounting for the size of each
+          >>> # ZIP code.  What would your code do if there were only 1
+          >>> # person in 94576?
+          >>> average_income != 61598
+          True
           """,
           'hidden': False,
           'locked': False
         },
         {
           'code': r"""
-          >>> int(max(income.column('num returns')))
-          44600
+          >>> average_income
+          52773
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',
