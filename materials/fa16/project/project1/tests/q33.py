@@ -36,6 +36,14 @@ test = {
           'hidden': False,
           'locked': False
         },
+        {
+          'code': r"""
+          >>> district_for_zip(11111)
+          'No District'
+          """,
+          'hidden': False,
+          'locked': False
+        },
       ],
       'scored': True,
       'setup': '',
