@@ -1,0 +1,13 @@
+{
+  "name": "How Many Devices?",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/probability/how_many_devices",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
