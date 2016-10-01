@@ -38,15 +38,6 @@ test = {
         },
         {
           'code': r"""
-          >>> # It looks like you forgot to sort by "District in ZIP".
-          >>> district_for_zip(95628)
-          '3410021'
-          """,
-          'hidden': False,
-          'locked': False
-        },        
-        {
-          'code': r"""
           >>> district_for_zip(11111)
           'No District'
           """,
