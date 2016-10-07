@@ -7,8 +7,8 @@ test = {
         {
           'code': r"""
           >>> # Make sure you're returning a single number
-          >>> type(tvd_from_eligible_population(make_array(.5, .5)))
-          <class 'numpy.float64'>
+          >>> np.isscalar(tvd_from_eligible_population(make_array(.5, .5)))
+          True
           >>> abs(tvd_from_eligible_population(make_array(.5, .5)) - 0.24) < .1
           True
           >>> abs(tvd_from_eligible_population(with_proportions.column("Proportion in panel")) - 0.18) < .1
