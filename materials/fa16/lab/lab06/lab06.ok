@@ -1,0 +1,13 @@
+{
+  "name": "Resampling and the Bootstrap",
+  "endpoint": "cal/data8/fa16/assignments/build/fa16/lab/lab06",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
