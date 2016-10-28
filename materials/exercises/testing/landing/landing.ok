@@ -1,0 +1,13 @@
+{
+  "name": "Landing a Spacecraft",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/testing/landing",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
