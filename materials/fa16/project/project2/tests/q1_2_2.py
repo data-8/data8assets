@@ -8,9 +8,9 @@ test = {
           'code': r"""
           >>> changes_by_state.num_rows
           50
-          >>> max(changes_by_state.column(1))
+          >>> int(max(changes_by_state.column(1)))
           17
-          >>> min(changes_by_state.column(1))
+          >>> int(min(changes_by_state.column(1)))
           -11
           """,
           'hidden': False,
