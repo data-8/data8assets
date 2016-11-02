@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> sum(faithful_standard.column(0)) == 1.4011014570769476e-13
+          >>> abs(sum(faithful_standard.column(0))) <= 1e-8
           True
           >>> int(round(duration_std))
           1
