@@ -1,0 +1,13 @@
+{
+  "name": "Homework 9: Correlation, Regression, and Least Squares",
+  "endpoint": "cal/data8/fa16/assignments/build/fa16/hw/hw09",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
