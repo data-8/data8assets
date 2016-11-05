@@ -1,0 +1,13 @@
+{
+  "name": "Finding the Least Squares Regression Line",
+  "endpoint": "cal/data8/fa16/assignments/build/exercises/optimization/least_squares",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
