@@ -1,0 +1,13 @@
+{
+  "name": "The Age of the Universe",
+  "endpoint": "cal/data8/fa16/assignments/build/fa16/lab/lab08",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
