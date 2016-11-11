@@ -1,0 +1,13 @@
+{
+  "name": "Homework 10: Regression Inference, Diagnostics, and Optimization",
+  "endpoint": "cal/data8/fa16/assignments/build/fa16/hw/hw10",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
