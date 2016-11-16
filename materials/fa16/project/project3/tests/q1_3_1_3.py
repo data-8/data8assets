@@ -10,7 +10,7 @@ test = {
           2
           >>> genre_and_distances.num_rows == train_lyrics.num_rows
           True
-          >>> np.allclose(genre_and_distances.column('Distance'), fast_distances(test_20.row(0), train_20))
+          >>> np.allclose(genre_and_distances.column('Distance'), sorted(fast_distances(test_20.row(0), train_20)))
           True
           """,
           'hidden': False,
