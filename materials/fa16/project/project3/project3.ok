@@ -1,0 +1,13 @@
+{
+  "name": "Project 3 - Classification",
+  "endpoint": "cal/data8/fa16/assignments/build/fa16/project/project3",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
