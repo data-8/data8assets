@@ -1,0 +1,13 @@
+{
+  "name": "'Homework' 12: Conditional Probability and General Review",
+  "endpoint": "cal/data8/fa16/assignments/build/fa16/hw/hw12",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
