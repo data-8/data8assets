@@ -1,0 +1,15 @@
+{
+  "name": "Homework 1: Causality and Expressions",
+  "endpoint": "cal/data8/sp17/hw01",
+  "src": [
+    "hw01.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
