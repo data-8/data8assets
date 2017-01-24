@@ -24,7 +24,7 @@ test = {
         {
           'code': r"""
           >>> import numpy as np
-          >>> all(hello_world_components == np.array(["Hello", ",", " ", "world", "!"]))
+          >>> all(hello_world_components == np.array(["Hello", ",", " ", "World", "!"]))
           True
           """,
           'hidden': False,
