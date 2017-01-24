@@ -8,7 +8,7 @@ test = {
           'code': r"""
           >>> len(separator)
           0
-          >>> hello == 'Hello, World!'
+          >>> hello == 'Hello, world!'
           True
           """,
           'hidden': False,
