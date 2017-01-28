@@ -1,0 +1,15 @@
+{
+  "name": "Homework 2: Arrays and Tables",
+  "endpoint": "cal/data8/sp17/hw02",
+  "src": [
+    "hw02.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
