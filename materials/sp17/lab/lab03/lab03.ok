@@ -1,0 +1,15 @@
+{
+  "name": "Lab 3: Tables",
+  "endpoint": "cal/data8/sp17/lab03",
+  "src": [
+    "lab03.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
