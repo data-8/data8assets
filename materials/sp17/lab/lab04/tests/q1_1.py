@@ -17,7 +17,7 @@ test = {
         },
         {
           'code': r"""
-          >>> total_pay_type == str
+          >>> 'str' in str(total_pay_type)
           True
 
           """,
@@ -26,7 +26,7 @@ test = {
         },
         {
           'code': r"""
-          >>> # Make sure to call the type function a value in the column
+          >>> # Make sure to call the type function on a value in the column
           >>> total_pay_type != int
           True
 
