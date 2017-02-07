@@ -6,16 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> type(mark_hurd_pay_string) == str
-          True
-
-          """,
-          'hidden': False,
-          'locked': False
-        },
-        {
-          'code': r"""
-          >>> mark_hurd_pay_string
+          >>> str(mark_hurd_pay_string)
           '$53.25 '
 
           """,
