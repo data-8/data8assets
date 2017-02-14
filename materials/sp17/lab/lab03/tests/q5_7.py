@@ -8,11 +8,10 @@ test = {
           'code': r"""
           >>> year_population_crossed_6_billion == 1999
           True
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',
