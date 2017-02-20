@@ -30,6 +30,15 @@ test = {
           """,
           'hidden': False,
           'locked': False
+        },
+        {
+          'code': r"""
+          >>> # Compute the annual exponential growth rate
+          >>> max(b_five_growth.column(2)) < 0.03
+          True
+          """,
+          'hidden': False,
+          'locked': False
         }
       ],
       'scored': True,
