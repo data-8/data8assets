@@ -11,6 +11,15 @@ test = {
           """,
           'hidden': False,
           'locked': False
+        },
+        {
+          'code': r"""
+          >>> # Incorrect value for number_wow_reactions
+          >>> number_wow_reactions == 4
+          True
+          """,
+          'hidden': False,
+          'locked': False
         }
       ],
       'scored': True,
