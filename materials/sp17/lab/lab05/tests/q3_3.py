@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> something_is_out == 1 - 0.7**4
+          >>> np.isclose(something_is_out, 1 - 0.7**4)
           True
           """,
           'hidden': False,

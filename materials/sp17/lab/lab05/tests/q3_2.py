@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> all_prob == 0.7 ** 4
+          >>> np.isclose(all_prob, 0.7 ** 4)
           True
           """,
           'hidden': False,

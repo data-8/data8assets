@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> # Make sure your probability is expressed as a decimal value
-          >>> pizza_prob == 0.7
+          >>> np.isclose(pizza_prob, 0.7)
           True
           """,
           'hidden': False,
