@@ -8,10 +8,10 @@ test = {
           'code': r"""
           >>> changes_by_state.num_rows
           50
-          >>> list(changes_by_state.row(0))
-          ['Alabama', -6]
-          >>> list(changes_by_state.row(1))
-          ['Alaska', -5]
+          >>> list(changes_by_state.row(0)) == ['Alabama', -6]
+          True
+          >>> list(changes_by_state.row(1)) == ['Alaska', -5]
+          True
           """,
           'hidden': False,
           'locked': False
