@@ -1,0 +1,15 @@
+{
+  "name": "Homework 7: Correlation, Regression, and Least Squares",
+  "endpoint": "cal/data8/sp17/hw07",
+  "src": [
+    "hw07.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
