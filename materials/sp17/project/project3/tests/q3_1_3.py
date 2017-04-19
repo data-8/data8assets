@@ -14,8 +14,6 @@ test = {
           Genre   | count
           Country | 596
           Hip-hop | 587
-          >>> np.isclose(min(genre_and_distances.column('Distance')), 0.048715689864627376)
-          True
           """,
           'hidden': False,
           'locked': False
