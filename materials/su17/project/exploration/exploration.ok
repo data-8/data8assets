@@ -1,0 +1,15 @@
+{
+  "name": "Independent Data Exploration",
+  "endpoint": "cal/data8/sp17/exploration",
+  "src": [
+    "exploration.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
