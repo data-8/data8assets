@@ -19,7 +19,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
+        },
       ],
       'scored': True,
       'setup': '',

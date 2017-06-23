@@ -21,7 +21,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        },
+        },      
         {
           'code': r"""
           >>> len(celsius_max_temperatures)
@@ -31,7 +31,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
+        },          
       ],
       'scored': True,
       'setup': '',
