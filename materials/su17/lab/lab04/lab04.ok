@@ -1,0 +1,15 @@
+{
+  "name": "Functions and Visualizations",
+  "endpoint": "cal/data8/su17/lab04",
+  "src": [
+    "lab04.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
