@@ -31,6 +31,14 @@ test = {
           """,
           'hidden': False,
           'locked': False
+        },
+        {
+          'code': r"""
+          >>> print(largest.take(np.arange(3)).column(1))
+          [  2.90881638e+08   9.88911670e+07   8.39446430e+07]
+          """,
+          'hidden': True,
+          'locked': False
         }
       ],
       'scored': True,

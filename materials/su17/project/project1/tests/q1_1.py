@@ -30,6 +30,17 @@ test = {
           """,
           'hidden': False,
           'locked': False
+        },
+        {
+          'code': r"""
+          >>> # See if you selected the right three-letter code!
+          >>> b_pop.sort("time", descending=True).column("population_total").item(0)
+          160995642
+          >>> b_pop.sort("time").column("population_total").item(0)
+          65048701
+          """,
+          'hidden': True,
+          'locked': False
         }
       ],
       'scored': True,

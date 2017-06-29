@@ -11,7 +11,15 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
+        },
+        {
+          'code': r"""
+          >>> np.allclose(np.round(poverty_percent, 2), 14.3)
+          True
+          """,
+          'hidden': True,
+          'locked': False
+        },
       ],
       'scored': True,
       'setup': '',

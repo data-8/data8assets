@@ -1,6 +1,6 @@
 {
   "name": "World Progress",
-  "endpoint": "cal/data8/sp17/project1",
+  "endpoint": "cal/data8/su17/project1",
   "src": [
     "project1.ipynb"
   ],

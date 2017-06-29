@@ -21,7 +21,26 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
+        },
+        {
+          'code': r"""
+          >>> facm = fertility_and_child_mortality.select('Children per woman', 'Child deaths per 1000 born')
+          >>> np.allclose(facm.column(1).item(0), 224.1)
+          True
+          >>> np.allclose(facm.column(1).item(-1), 37.6)
+          True
+          >>> np.allclose(facm.column(0).item(-1), 2.12)
+          True
+          >>> np.allclose(facm.column(0).item(0), 6.95)
+          True
+          >>> np.allclose(facm.column(1).mean(), 131.41521739130437)
+          True
+          >>> np.allclose(facm.column(0).mean(), 4.3958695652173922)
+          True
+          """,
+          'hidden': True,
+          'locked': False
+        },
       ],
       'scored': True,
       'setup': '',
