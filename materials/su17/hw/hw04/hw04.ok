@@ -1,0 +1,15 @@
+{
+  "name": "Homework 4: Probability and Sampling",
+  "endpoint": "cal/data8/su17/hw04",
+  "src": [
+    "hw04.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
