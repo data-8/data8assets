@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> min_estimate == min(observations)
+          >>> min_estimate == min(observations) - 1
           True
           """,
           'hidden': False,
