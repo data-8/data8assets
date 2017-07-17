@@ -15,7 +15,19 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
+        },
+        {
+          'code': r"""
+          >>> int(max(changes_by_state.column(1)))
+          17
+          >>> int(min(changes_by_state.column(1)))
+          -11
+          >>> int(sum(changes_by_state.column(1)))
+          45
+          """,
+          'hidden': True,
+          'locked': False
+        },
       ],
       'scored': True,
       'setup': '',

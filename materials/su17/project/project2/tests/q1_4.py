@@ -12,7 +12,16 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        }
+        },
+        {
+          'code': r"""
+          >>> # You might have flipped the difference.
+          >>> np.isclose(np.round(ca_change), 726)
+          True
+          """,
+          'hidden': True,
+          'locked': False
+        },
       ],
       'scored': True,
       'setup': '',
