@@ -10,6 +10,8 @@ test = {
           True
           >>> len(reasonable_test_statistics) > 0
           True
+          >>> reasonable_test_statistics == [3, 4, 6]
+          True
           """,
           'hidden': False,
           'locked': False
