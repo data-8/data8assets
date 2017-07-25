@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> np.isclose(predict_sd(1), 39.480199851609314)
+          >>> exact_sd < 0.05
           True
           """,
           'hidden': False,
@@ -14,7 +14,7 @@ test = {
         },
         {
           'code': r"""
-          >>> np.isclose(predict_sd(10), 12.484735400972708)
+          >>> 0.02 <= exact_sd <= 0.03
           True
           """,
           'hidden': True,

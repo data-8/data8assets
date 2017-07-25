@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> 30 <= empirical_sd(1) <= 50
+          >>> 0.4 <= lower_limit < upper_limit <= 0.7
           True
           """,
           'hidden': False,
@@ -14,7 +14,9 @@ test = {
         },
         {
           'code': r"""
-          >>> 10 <= empirical_sd(10) <= 15
+          >>> np.isclose(lower_limit, 0.47506253911140456)
+          True
+          >>> np.isclose(upper_limit, 0.5749374608885954)
           True
           """,
           'hidden': True,
