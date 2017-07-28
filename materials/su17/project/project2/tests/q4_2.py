@@ -15,18 +15,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        },
-        {
-          'code': r"""
-          >>> 0.25 <= run_test(non_death_penalty_murder_rates, 1971) <= 0.45
-          Test statistic 1971 to 1973 : 1
-          True
-          >>> reject_null_2
-          False
-          """,
-          'hidden': True,
-          'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

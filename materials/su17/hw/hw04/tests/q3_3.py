@@ -15,14 +15,6 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        },
-        {
-          'code': r"""
-          >>> len(missing) == 30 and sum(missing) == 5272
-          True
-          """,
-          'hidden': True,
-          'locked': False
         }
       ],
       'scored': True,

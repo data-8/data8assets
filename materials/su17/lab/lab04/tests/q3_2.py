@@ -10,7 +10,6 @@ test = {
           >>> # you mislabeled it
           >>> 'Total Pay ($)' in compensation.column_labels
           True
-
           """,
           'hidden': False,
           'locked': False
@@ -21,11 +20,10 @@ test = {
           >>> t = compensation.sort('Total Pay ($)', descending = True)
           >>> t.column('Total Pay ($)').item(0) == 53250000.0
           True
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

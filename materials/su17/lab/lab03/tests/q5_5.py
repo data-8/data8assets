@@ -10,11 +10,10 @@ test = {
           True
           >>> proportion_in_21st_century == 0.316
           True
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

@@ -11,15 +11,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        },
-        {
-          'code': r"""
-          >>> np.isclose(approximate_sd, ((210/400) * (190/400) / 400) ** 0.5)
-          True
-          """,
-          'hidden': True,
-          'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

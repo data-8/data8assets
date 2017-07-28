@@ -11,17 +11,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        },
-        {
-          'code': r"""
-          >>> np.isclose(lower_limit, 0.47506253911140456)
-          True
-          >>> np.isclose(upper_limit, 0.5749374608885954)
-          True
-          """,
-          'hidden': True,
-          'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

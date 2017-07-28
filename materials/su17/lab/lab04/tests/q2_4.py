@@ -8,11 +8,10 @@ test = {
           'code': r"""
           >>> num_non_vowels("Go bears!") == 6
           True
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

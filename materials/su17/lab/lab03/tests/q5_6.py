@@ -8,11 +8,10 @@ test = {
           'code': r"""
           >>> num_even_year_movies == 127
           True
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

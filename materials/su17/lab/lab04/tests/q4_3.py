@@ -8,11 +8,10 @@ test = {
           'code': r"""
           >>> num_ceos_more_than_30_million_2 == 5
           True
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

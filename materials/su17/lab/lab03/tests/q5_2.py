@@ -15,11 +15,10 @@ test = {
           735056  | 8.4    | American Beauty | 1999 | 1990
           1073043 | 8.7    | The Matrix      | 1999 | 1990
           1177098 | 8.8    | Fight Club      | 1999 | 1990
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',
