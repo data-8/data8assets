@@ -14,11 +14,10 @@ test = {
           Votes  | Rating | Title           | Year | Decade
           358305 | 8.6    | La vita è bella | 1997 | 1990
           895411 | 8.6    | Se7en           | 1995 | 1990
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

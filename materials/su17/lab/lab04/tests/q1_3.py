@@ -9,7 +9,6 @@ test = {
           >>> # Your answer should be a number
           >>> type(mark_hurd_pay) != str
           True
-
           """,
           'hidden': False,
           'locked': False
@@ -20,7 +19,6 @@ test = {
           >>> # Dollars! 
           >>> mark_hurd_pay != 5325
           True
-
           """,
           'hidden': False,
           'locked': False
@@ -31,7 +29,6 @@ test = {
           >>> # Dollars! 
           >>> mark_hurd_pay == 53250000
           True
-
           """,
           'hidden': False,
           'locked': False

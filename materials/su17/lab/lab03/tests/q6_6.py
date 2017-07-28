@@ -13,11 +13,10 @@ test = {
           Highway's End Farmers' Market | Delta Junction | Alaska | 64.0385 | -145.733
           Nenana Open Air Market        | Nenana         | Alaska | 64.5566 | -149.096
           Tanana Valley Farmers Market  | Fairbanks      | Alaska | 64.8628 | -147.781
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

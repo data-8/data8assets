@@ -8,11 +8,10 @@ test = {
           'code': r"""
           >>> num_farmers_markets_columns == 59
           True
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

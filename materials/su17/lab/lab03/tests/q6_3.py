@@ -15,11 +15,10 @@ test = {
            Caledonia Farmers Market Association - Danville | Danville  | Vermont  | 44.411  | -72.1403
            Stearns Homestead Farmers' Market               | Parma     | Ohio     | 41.3751 | -81.7286
           100 Mile Market                                  | Kalamazoo | Michigan | 42.296  | -85.5749
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

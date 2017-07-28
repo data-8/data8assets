@@ -11,17 +11,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        },
-        {
-          'code': r"""
-          >>> -0.05 <= diff_lower_bound <= diff_upper_bound <= 0.2
-          True
-          >>> diff_lower_bound - diff_upper_bound < -0.1
-          True
-          """,
-          'hidden': True,
-          'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

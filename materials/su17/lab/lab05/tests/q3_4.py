@@ -9,10 +9,9 @@ test = {
           >>> np.isclose(winning_prob, 0.4)
           True
           """,
-
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

@@ -10,11 +10,10 @@ test = {
           True
           >>> average_longitude == -90.992580812926292
           True
-
           """,
           'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

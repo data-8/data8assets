@@ -16,18 +16,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        },
-        {
-          'code': r"""
-          >>> print(ak_mn.sort('Year').take([3, 7, 11]))
-          Year | Murder rate in Alaska | Murder rate in Minnesota
-          1963 | 6.5                   | 1.2
-          1967 | 9.6                   | 1.6
-          1971 | 13.4                  | 2.4
-          """,
-          'hidden': True,
-          'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',
