@@ -1,6 +1,6 @@
 {
   "name": "Project 3 - Classification",
-  "endpoint": "cal/data8/sp17/project3",
+  "endpoint": "cal/data8/su17/project3",
   "src": [
     "project3.ipynb"
   ],
