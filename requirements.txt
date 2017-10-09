@@ -1,4 +1,0 @@
-datascience
-matplotlib
-pandas
-scipy
