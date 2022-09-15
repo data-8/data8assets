@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {
   'name': 'Question',
   'points': 1,
